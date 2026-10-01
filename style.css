@@ -1,6 +1,37 @@
 body {
     /* set line height to 1.5 times the font size
     and use the OS's UI as the website font
-    */
     font: 100%/1.5 system-ui;
+    */
+    
+    font-family: "Clarity City", sans-serif;
+    line-height: 1.6;
+    max-width: 50em;
+    margin: 0 auto;
+    padding: 1em 1.5em;
+}
+
+nav ul {
+    display: flex;
+    gap: 1.5em;
+    list-style: none;
+    padding: 0;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+article {
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.25em;
+}
+
+img {
+    max-width: 100%;
 }
