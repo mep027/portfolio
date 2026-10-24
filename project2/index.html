@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project 2 Report</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      max-width: 880px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.6;
+      color: #222;
+      background: #fff;
+    }
+    h1 { font-size: 2em; margin-bottom: 0.2em; }
+    h2 { margin-top: 2em; border-bottom: 1px solid #ddd; padding-bottom: 0.3em; }
+    h3 { margin-top: 1.8em; }
+    img { max-width: 100%; height: auto; border: 1px solid #eee; margin: 12px 0; }
+    .caption { font-style: italic; color: #555; margin-top: 0; }
+    .score { font-weight: 600; }
+    li { margin-bottom: 0.9em; }
+  </style>
+</head>
+<body>
+
+  <h1>Project 2: Persuasive or Deceptive Visualization?</h1>
+  <p><strong>Matthew Perez</strong> — <em>mep027@ucsd.edu</em></p>
+
+  <p>Dataset: <a href="https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers">Civilian Complaints Against New York City Police Officers</a> (ProPublica / NYC Civilian Complaint Review Board).</p>
+
+  <h2>Proposition: NYPD officers are rarely held accountable for civilian complaints.</h2>
+
+  <!-- ================= FOR ================= -->
+  <h3>FOR the Proposition</h3>
+
+  <img src="for.png" alt="Stacked bar chart of allegation outcomes by type, with a line chart of the sustained rate by year, arguing officers are rarely held accountable">
+
+  <p class="caption">Most allegations close without a finding against the officer, and the share sustained has stayed low across decades.</p>
+
+  <p><strong>Design Decisions and Rationale:</strong></p>
+  <ul>
+    <li><span class="score">Grouping exonerated and unsubstantiated into "No finding against officer" (Score: −1.5).</span>
+      Combining the two outcomes makes the non-sustained share look like a single, overwhelming result. "Exonerated" (the conduct occurred but was lawful) and "unsubstantiated" (not enough evidence) mean very different things, so merging them hides that distinction. Showing these groups seperately would show more nuance and consideration towards unsubstantiated allegations. </li>
+
+    <li><span class="score">Coloring "No finding" red (Score: −0.5).</span>
+      Red signals danger or failure, so the largest segment of each bar reads as a problem before the reader looks at the numbers. Choosing red makes these outcomes feel like wrong descisions.</li>
+
+    <li><span class="score">100% stacked bars by allegation type (Score: +1.0).</span>
+      Normalizing each bar to 100% lets readers compare outcome proportions across allegation types fairly, even though some types have far more allegations than others. This helps expose potenial biases in how certain allegations are handled, for example we see force allegations sustained at a ~10% rate while the average across all allegation types is ~25%. </li>
+
+    <li><span class="score">Title: "Fewer than 1 in 4 allegations are substantiated" (Score: −0.5).</span>
+      The statistic is accurate, but "fewer than" frames it as a shortfall. The same fact could be framed as "nearly 1 in 4 are substantiated." This number is an average across all allegations.</li>
+
+    <li><span class="score">Sustained rate by year, with years colored by sample size (Score: +1.5).</span>
+      A calculated field (substantiated allegations ÷ all allegations) shows the rate over time, and the sample-size coloring flags years with few allegations so readers don't over-read the spikes. I made the scale be out of 100% so as to show the lack of change over the decades.</li>
+  </ul>
+
+  <!-- ================= AGAINST ================= -->
+  <h3>AGAINST the Proposition</h3>
+
+  <img src="against.png" alt="Stacked bar chart separating exonerated, unsubstantiated, and sustained outcomes, with a line chart of the sustained rate by year, arguing officers are held accountable">
+
+  <p class="caption">Most allegations are resolved after investigation, and the share sustained has grown in recent years.</p>
+
+  <p><strong>Design Decisions and Rationale:</strong></p>
+  <ul>
+    <li><span class="score">Keeping exonerated and unsubstantiated as separate outcomes (Score: +1.5).</span>
+      Separating them shows that a large share of force allegations were investigated and found lawful, which is a different result from a lack of evidence. </li>
+
+    <li><span class="score">Annotation: "Most force complaints involve lawful force or lack evidence, not proven misconduct" (Score: −0.5).</span>
+      The annotation is accurate, but it groups "lacks evidence" with "lawful," nudging readers to treat unsubstantiated cases as if no misconduct occurred. </li>
+
+    <li><span class="score">Title: "Exonerated and Unsubstantiated Outcomes Outnumber Sustained Findings" (Score: −0.5).</span>
+      Leading with "exonerated" puts the idea of innocence first, while the sentence itself stays technically neutral.</li>
+
+    <li><span class="score">Color palette (Score: +0.5).</span>
+      I decdied to change the outcome color pallete here, focusing on more neutral colors and leaving red be the smallest catergory giving a more neautral read of each catergory.</li>
+
+    <li><span class="score">Line chart time range and annotation (Score: -1.5).</span>
+      I highlighted the rise in sustained rates from 2007 to 2015. I chose this start year as the NYPD saw a drastic increase in complaints, bringing the sustained rate average down before it rebounded for a while. </li>
+  </ul>
+
+  <!-- ================= REFLECTION ================= -->
+  <h2>Final Reflection</h2>
+
+  <p>[EDIT, paragraph 1: Describe your design process across both visualizations. What was straightforward or difficult? For example, how the same three outcome categories told opposite stories depending on how you grouped and colored them.]</p>
+
+  <p>[EDIT, paragraph 2: What surprised you? For example, how much the word "accountable" can mean "found guilty" or "fairly investigated," or how a single choice like sample-size coloring could be earnest or persuasive depending on which years it highlighted.]</p>
+
+  <p>[EDIT, paragraph 3: How do you now define "ethical analysis and visualization"? Where would you draw the line between acceptable persuasive choices and misleading ones, and if you can't draw one, why not?]</p>
+
+</body>
+</html>
