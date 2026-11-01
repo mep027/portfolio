@@ -2,6 +2,11 @@ body {
     /* set line height to 1.5 times the font size
     and use the OS's UI as the website font
     font: 100%/1.5 system-ui;
+
+
+    border-bottom: 1px solid var(--border-color);
+
+    border-bottom: 0.4em solid oklch(80% 3% 200);
     */
     
     font-family: "Clarity City", sans-serif;
@@ -15,8 +20,9 @@ body {
    nav {
      display: flex;
      margin-bottom: 1em;
-     border-bottom: 1px solid oklch(80% 3% 200);
+     
      --border-color: oklch(50% 10% 200 / 40%);
+     border-bottom: 1px solid var(--border-color);
    }
    nav a {
      flex: 1;
@@ -26,7 +32,8 @@ body {
      padding: 0.5em;
    }
    nav a.current {
-     border-bottom: 0.4em solid oklch(80% 3% 200);
+     
+     border-bottom: 0.4em solid var(--border-color);
      padding-bottom: 0.1em; /* offsets the thicker border */
    }
 
