@@ -165,3 +165,10 @@ html {
   padding: 0.5em;
   margin-bottom: 1em;
 }
+
+[data-state] {
+  transition: opacity 200ms;
+}
+.dimmed {
+  opacity: 0.2;
+}

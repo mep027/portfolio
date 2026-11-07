@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>Changing Tides</title>
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        body { max-width: 1200px; } /* your site limits pages to 100ch; a dashboard needs more room */
+
+        .dashboard {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5em;
+        }
+        .map-panel { grid-column: 1 / -1; }
+        @media (max-width: 800px) {
+            .dashboard { grid-template-columns: 1fr; }
+        }
+
+        .panel {
+            border: 1px solid oklch(85% 2% 200);
+            border-radius: 8px;
+            padding: 1em;
+        }
+        .panel h2 { margin-top: 0; font-size: 1.2em; }
+        .caption { font-size: 0.85em; color: gray; margin: 0.25em 0 0.75em; }
+
+        .map-controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2em;
+            align-items: end;
+        }
+        .map-controls select { margin-left: 0.5em; }
+        .legend { font-size: 0.85em; }
+        #legend-bar { width: 220px; height: 12px; border-radius: 3px; margin-block: 0.25em; }
+        .legend-labels { display: flex; justify-content: space-between; width: 220px; }
+
+        .state-shape { cursor: pointer; transition: opacity 200ms; }
+        .state-shape.faded { opacity: 0.3; }
+        .dot { cursor: pointer; transition: fill 200ms, r 200ms; }
+
+        #tooltip {
+            position: fixed;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 150ms;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            padding: 0.5em 0.75em;
+            font-size: 0.85em;
+            box-shadow: 0 2px 8px rgb(0 0 0 / 0.15);
+            max-width: 300px;
+            z-index: 10;
+        }
+        #tooltip dl {
+            display: grid;
+            grid-template-columns: auto auto;
+            gap: 0.15em 1em;
+            margin: 0.4em 0 0;
+        }
+        #tooltip dd { margin: 0; text-align: right; font-weight: 600; }
+
+        footer { margin-top: 2em; font-size: 0.85em; color: gray; }
+    </style>
+    <script type="module" src="charts.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Changing Tides: A Snapshot of the U.S. Before Roe v. Wade Was Overturned</h1>
+        <p>Abortion access by state in 2020. Hover over a state for details, or click one to compare it with the national average.</p>
+    </header>
+
+    <main class="dashboard">
+        <section class="panel map-panel">
+            <div class="map-controls">
+                <label>Color the map by <select id="measure"></select></label>
+                <div class="legend">
+                    <div id="legend-title"></div>
+                    <div id="legend-bar"></div>
+                    <div class="legend-labels">
+                        <span id="legend-min"></span>
+                        <span id="legend-max"></span>
+                    </div>
+                </div>
+            </div>
+            <div id="map"></div>
+        </section>
+
+        <section class="panel">
+            <h2 id="stats-title">Stats at a Glance: National Average</h2>
+            <p class="caption" id="stats-note"></p>
+            <button id="clear" hidden>Clear selection</button>
+            <div id="stats"></div>
+        </section>
+
+        <section class="panel">
+            <h2>Abortion Rate vs. Clinic Access</h2>
+            <p class="caption">Each dot is a state. Click a dot to select that state.</p>
+            <div id="scatter"></div>
+        </section>
+    </main>
+
+    <div id="tooltip" role="tooltip"></div>
+
+    <footer>
+        Sources: Guttmacher Institute; CDC National Center for Health Statistics (infant mortality, 2020);
+        U.S. Census Bureau (2020 population). National averages are the average of state values.
+    </footer>
+</body>
+</html>
