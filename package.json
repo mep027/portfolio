@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "elocuent": "^0.0.4",
+    "prettier": "3.9.10"
+  }
+}
