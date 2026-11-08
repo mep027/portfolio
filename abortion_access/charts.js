@@ -25,16 +25,16 @@ const pct = (v) => `${f1(v)}%`;
 
 // Labels and number formats for every measure we display
 const MEASURES = {
-  abortionRate:       { label: 'Abortion rate (per 1,000 women 15–44)', short: 'Abortion rate', format: f1 },
-  clinicsPerMillion:  { label: 'Abortion clinics per million residents', short: 'Clinics per million', format: f1 },
-  changeAbortionRate: { label: '% change in abortion rate, 2017–2020', short: '% change in abortion rate', format: pct },
-  changeClinics:      { label: '% change in no. of clinics, 2017–2020', short: '% change in clinics', format: pct },
-  countiesNoClinic:   { label: '% of counties without a clinic', short: '% counties w/o clinic', format: pct },
-  travelOut:          { label: '% of residents who traveled out of state', short: '% traveled out of state', format: pct },
-  womenNoClinic:      { label: '% of women 15–44 in a county w/o a clinic', short: '% women w/o local clinic', format: pct },
-  shareUS:            { label: '% of all U.S. abortions', short: '% of U.S. abortions', format: pct },
-  teenRate:           { label: 'Teen abortion rate (15–19), 2017', short: 'Teen abortion rate', format: f1 },
-  infantMortality:    { label: 'Infant mortality (per 1,000 births)', short: 'Infant mortality rate', format: d3.format('.2f') },
+  abortionRate:       { label: 'Abortion rate (per 1,000 women 15–44)', short: 'Abortion Rate', format: f1 },
+  clinicsPerMillion:  { label: 'Abortion clinics per million residents', short: 'Clinics per Million', format: f1 },
+  changeAbortionRate: { label: '% change in abortion rate, 2017–2020', short: 'Abortion Rate Change', format: pct },
+  changeClinics:      { label: '% change in no. of clinics, 2017–2020', short: 'Clinic Change', format: pct },
+ // countiesNoClinic:   { label: '% of counties without a clinic', short: '% counties w/o clinic', format: pct },
+  travelOut:          { label: '% of residents who traveled out of state', short: 'Left State for Care', format: pct },
+  womenNoClinic:      { label: '% of women 15–44 in a county w/o a clinic', short: 'Women w/o Local Clinic', format: pct },
+  shareUS:            { label: '% of all U.S. abortions', short: 'Share of U.S. Abortions', format: pct },
+  teenRate:           { label: 'Teen abortion rate (15–19), 2017', short: 'Teen Rate (2017)', format: f1 },
+  infantMortality:    { label: 'Infant mortality (per 1,000 births)', short: 'Infant Mortality', format: d3.format('.2f') },
   clinics:            { label: 'No. of abortion clinics, 2020', short: 'No. of clinics', format: d3.format(',') },
   netTravel:          { label: 'Net abortion travel', short: 'Net travel', format: d3.format('+.0%') },
 };
