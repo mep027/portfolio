@@ -29,7 +29,7 @@ const MEASURES = {
   clinicsPerMillion:  { label: 'Abortion clinics per million residents', short: 'Clinics per Million', format: f1 },
   changeAbortionRate: { label: '% change in abortion rate, 2017–2020', short: 'Abortion Rate Change', format: pct },
   changeClinics:      { label: '% change in no. of clinics, 2017–2020', short: 'Clinic Change', format: pct },
- // countiesNoClinic:   { label: '% of counties without a clinic', short: '% counties w/o clinic', format: pct },
+  countiesNoClinic:   { label: '% of counties without a clinic', short: '% counties w/o clinic', format: pct },
   travelOut:          { label: '% of residents who traveled out of state', short: 'Left State for Care', format: pct },
   womenNoClinic:      { label: '% of women 15–44 in a county w/o a clinic', short: 'Women w/o Local Clinic', format: pct },
   shareUS:            { label: '% of all U.S. abortions', short: 'Share of U.S. Abortions', format: pct },
@@ -44,7 +44,7 @@ const MAP_MEASURES = ['infantMortality', 'abortionRate', 'clinicsPerMillion', 'c
 
 // Rows in the "Stats at a Glance" bar chart
 const STAT_MEASURES = [
-  'changeAbortionRate', 'changeClinics', 'countiesNoClinic', 'travelOut',
+  'changeAbortionRate', 'changeClinics', 'travelOut',
   'womenNoClinic', 'shareUS', 'teenRate', 'infantMortality', 'clinics',
 ];
 
