@@ -223,10 +223,15 @@ dl.info dd {
 
 
 circle {
-  transition: 200ms;
+  transition: all 200ms, r calc(var(--r) * 100ms);
   transform-origin: center;
   transform-box: fill-box;
+
+  @starting-style {
+    r: 0;
+  }
 }
+
 
 
 circle:hover {
@@ -261,3 +266,70 @@ circle.selected {
 #commit-time {
   margin-left: auto;
 }
+
+
+#files {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+
+
+  > div {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: subgrid;
+  }
+
+
+  dt {
+    grid-column: 1;
+  }
+
+
+
+
+  dd {
+  grid-column: 2;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  align-content: start;
+  gap: 0.15em;
+  padding-top: 0.6em;
+  margin-left: 0;
+}
+
+}
+.loc {
+  display: flex;
+  width: 0.5em;
+  aspect-ratio: 1;
+  background: steelblue;
+  border-radius: 50%;
+}
+
+#scrolly-1 {
+  position: relative;
+  display: flex;
+  gap: 1rem;
+
+
+  > * {
+    flex: 1;
+  }
+}
+
+
+#scatter-story {
+  position: relative;
+}
+
+
+#scatter-plot {
+  position: sticky;
+  top: 0;
+  left: 0;
+  bottom: auto;
+  height: 50vh;
+}
+
+
