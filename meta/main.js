@@ -16,6 +16,9 @@ async function loadData () {
 let xScale;
 let yScale;
 
+
+
+
 function processCommits(data) {
   return d3
     .groups(data, (d) => d.commit)
@@ -86,7 +89,34 @@ function renderCommitInfo(data, commits) {
   // Average line length in characters
   dl.append('dt').text('Average line length');
   dl.append('dd').text(`${d3.mean(data, (d) => d.length).toFixed(1)} characters`);
+  
 }
+
+
+let commitProgress = 100;
+
+let timeScale = d3
+  .scaleTime()
+  .domain([
+    d3.min(commits, (d) => d.datetime),
+    d3.max(commits, (d) => d.datetime),
+  ])
+  .range([0, 100]);
+let commitMaxTime = timeScale.invert(commitProgress);
+
+const slider = document.getElementById('commit-progress');
+const timeEl = document.getElementById('commit-time');
+
+function onTimeSliderChange() {
+  commitProgress = +slider.value;                     // 1. slider value (+ makes it a number)
+  commitMaxTime = timeScale.invert(commitProgress);   // 2. 0–100 → a Date
+  timeEl.textContent = commitMaxTime.toLocaleString(  // 3. show it
+    'en', { dateStyle: 'long', timeStyle: 'short' }
+  );
+}
+
+slider.addEventListener('input', onTimeSliderChange);
+onTimeSliderChange(); // run once on load so <time> isn't empty
 
 function renderScatterPlot(data, commits) {
   // Put all the JS code of Steps inside this function

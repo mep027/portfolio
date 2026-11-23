@@ -250,3 +250,14 @@ circle:hover {
 circle.selected {
   fill: #ff6b6b;
 }
+
+#filter-ui label {
+  display: flex;
+  flex: 1;
+  align-items: baseline;
+  gap: 0.5em;
+}
+
+#commit-time {
+  margin-left: auto;
+}

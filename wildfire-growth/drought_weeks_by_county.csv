@@ -1,0 +1,3145 @@
+fips,county_name,state,region,group,weeks_D0,weeks_D1,weeks_D2,weeks_D3,weeks_D4
+01001,Autauga,AL,South,Neither,676.0,411.0,231.0,93.0,46.0
+01003,Baldwin,AL,South,Neither,718.0,391.0,197.0,72.0,20.0
+01005,Barbour,AL,South,Neither,765.0,481.0,303.0,153.0,75.0
+01007,Bibb,AL,South,Fire only,636.0,396.0,206.0,115.0,57.0
+01009,Blount,AL,South,Neither,580.0,323.0,190.0,108.0,61.0
+01011,Bullock,AL,South,Neither,705.0,432.0,284.0,146.0,38.0
+01013,Butler,AL,South,Neither,717.0,412.0,197.0,86.0,21.0
+01015,Calhoun,AL,South,Fire only,691.0,415.0,224.0,104.0,60.0
+01017,Chambers,AL,South,Drought only,730.0,493.0,341.0,204.0,62.0
+01019,Cherokee,AL,South,Fire only,705.0,408.0,234.0,122.0,62.0
+01021,Chilton,AL,South,Neither,689.0,418.0,242.0,119.0,58.0
+01023,Choctaw,AL,South,Neither,627.0,332.0,170.0,60.0,18.0
+01025,Clarke,AL,South,Neither,742.0,413.0,190.0,74.0,15.0
+01027,Clay,AL,South,Fire only,733.0,480.0,311.0,167.0,65.0
+01029,Cleburne,AL,South,Fire only,726.0,478.0,270.0,136.0,59.0
+01031,Coffee,AL,South,Neither,709.0,435.0,258.0,111.0,40.0
+01033,Colbert,AL,South,Neither,562.0,318.0,153.0,67.0,24.0
+01035,Conecuh,AL,South,Neither,738.0,411.0,216.0,90.0,19.0
+01037,Coosa,AL,South,Neither,715.0,468.0,289.0,163.0,58.0
+01039,Covington,AL,South,Neither,715.0,413.0,236.0,105.0,24.0
+01041,Crenshaw,AL,South,Neither,703.0,431.0,249.0,99.0,35.0
+01043,Cullman,AL,South,Neither,567.0,333.0,186.0,103.0,58.0
+01045,Dale,AL,South,Neither,722.0,439.0,270.0,141.0,50.0
+01047,Dallas,AL,South,Neither,700.0,386.0,187.0,92.0,45.0
+01049,DeKalb,AL,South,Neither,635.0,367.0,219.0,124.0,62.0
+01051,Elmore,AL,South,Neither,683.0,441.0,293.0,186.0,56.0
+01053,Escambia,AL,South,Neither,716.0,378.0,217.0,75.0,18.0
+01055,Etowah,AL,South,Neither,647.0,365.0,189.0,107.0,58.0
+01057,Fayette,AL,South,Neither,555.0,308.0,181.0,83.0,47.0
+01059,Franklin,AL,South,Neither,543.0,297.0,161.0,67.0,27.0
+01061,Geneva,AL,South,Neither,680.0,416.0,243.0,116.0,24.0
+01063,Greene,AL,South,Neither,589.0,320.0,176.0,99.0,32.0
+01065,Hale,AL,South,Neither,601.0,337.0,184.0,99.0,52.0
+01067,Henry,AL,South,Drought only,738.0,473.0,306.0,160.0,69.0
+01069,Houston,AL,South,Neither,699.0,468.0,289.0,145.0,43.0
+01071,Jackson,AL,South,Neither,626.0,359.0,218.0,120.0,60.0
+01073,Jefferson,AL,South,Neither,631.0,381.0,214.0,112.0,64.0
+01075,Lamar,AL,South,Neither,534.0,300.0,153.0,69.0,26.0
+01077,Lauderdale,AL,South,Neither,583.0,339.0,206.0,78.0,22.0
+01079,Lawrence,AL,South,Fire only,546.0,301.0,175.0,81.0,31.0
+01081,Lee,AL,South,Drought only,707.0,464.0,337.0,208.0,63.0
+01083,Limestone,AL,South,Neither,562.0,320.0,188.0,111.0,49.0
+01085,Lowndes,AL,South,Neither,700.0,418.0,238.0,90.0,40.0
+01087,Macon,AL,South,Neither,689.0,438.0,306.0,190.0,40.0
+01089,Madison,AL,South,Neither,594.0,328.0,204.0,116.0,53.0
+01091,Marengo,AL,South,Neither,616.0,353.0,168.0,81.0,26.0
+01093,Marion,AL,South,Neither,547.0,300.0,164.0,79.0,28.0
+01095,Marshall,AL,South,Neither,607.0,343.0,207.0,114.0,58.0
+01097,Mobile,AL,South,Neither,678.0,356.0,182.0,71.0,19.0
+01099,Monroe,AL,South,Neither,743.0,412.0,188.0,70.0,19.0
+01101,Montgomery,AL,South,Neither,694.0,427.0,289.0,153.0,42.0
+01103,Morgan,AL,South,Neither,586.0,312.0,189.0,102.0,56.0
+01105,Perry,AL,South,Fire only,626.0,360.0,191.0,90.0,50.0
+01107,Pickens,AL,South,Neither,551.0,306.0,169.0,87.0,36.0
+01109,Pike,AL,South,Neither,705.0,442.0,236.0,121.0,45.0
+01111,Randolph,AL,South,Drought only,743.0,502.0,330.0,175.0,63.0
+01113,Russell,AL,South,Neither,707.0,452.0,321.0,175.0,43.0
+01115,St. Clair,AL,South,Neither,658.0,387.0,186.0,108.0,65.0
+01117,Shelby,AL,South,Neither,659.0,424.0,236.0,129.0,63.0
+01119,Sumter,AL,South,Neither,597.0,321.0,154.0,66.0,25.0
+01121,Talladega,AL,South,Fire only,708.0,451.0,244.0,142.0,66.0
+01123,Tallapoosa,AL,South,Drought only,745.0,478.0,324.0,199.0,65.0
+01125,Tuscaloosa,AL,South,Neither,629.0,383.0,189.0,107.0,61.0
+01127,Walker,AL,South,Neither,570.0,323.0,171.0,94.0,57.0
+01129,Washington,AL,South,Neither,688.0,343.0,142.0,60.0,11.0
+01131,Wilcox,AL,South,Neither,690.0,377.0,176.0,86.0,24.0
+01133,Winston,AL,South,Fire only,536.0,294.0,174.0,91.0,49.0
+02013,Aleutians East,AK,West,Neither,83.0,3.0,0.0,0.0,0.0
+02016,Aleutians West,AK,West,Neither,52.0,0.0,0.0,0.0,0.0
+02020,Anchorage,AK,West,Neither,393.0,48.0,10.0,5.0,0.0
+02050,Bethel,AK,West,Fire only,387.0,30.0,0.0,0.0,0.0
+02060,Bristol Bay,AK,West,Fire only,120.0,3.0,0.0,0.0,0.0
+02063,Chugach,AK,West,Neither,404.0,36.0,6.0,0.0,0.0
+02066,Copper River,AK,West,Neither,627.0,58.0,2.0,0.0,0.0
+02068,Denali,AK,West,Fire only,501.0,74.0,12.0,0.0,0.0
+02070,Dillingham,AK,West,Fire only,231.0,17.0,0.0,0.0,0.0
+02090,Fairbanks North Star,AK,West,Fire only,490.0,64.0,10.0,0.0,0.0
+02100,Haines,AK,West,Neither,271.0,29.0,0.0,0.0,0.0
+02105,Hoonah-Angoon,AK,West,Neither,314.0,71.0,10.0,0.0,0.0
+02110,Juneau,AK,West,Neither,254.0,41.0,0.0,0.0,0.0
+02122,Kenai Peninsula,AK,West,Fire only,471.0,50.0,10.0,5.0,0.0
+02130,Ketchikan Gateway,AK,West,Neither,287.0,97.0,58.0,21.0,0.0
+02150,Kodiak Island,AK,West,Neither,226.0,19.0,4.0,0.0,0.0
+02158,Kusilvak,AK,West,Fire only,144.0,6.0,0.0,0.0,0.0
+02164,Lake and Peninsula,AK,West,Fire only,344.0,20.0,4.0,0.0,0.0
+02170,Matanuska-Susitna,AK,West,Neither,610.0,69.0,14.0,5.0,0.0
+02180,Nome,AK,West,Fire only,273.0,0.0,0.0,0.0,0.0
+02185,North Slope,AK,West,Neither,389.0,50.0,0.0,0.0,0.0
+02188,Northwest Arctic,AK,West,Fire only,307.0,37.0,0.0,0.0,0.0
+02195,Petersburg,AK,West,Neither,313.0,96.0,56.0,0.0,0.0
+02198,Prince of Wales-Hyder,AK,West,Neither,324.0,105.0,58.0,21.0,0.0
+02220,Sitka,AK,West,Neither,269.0,54.0,0.0,0.0,0.0
+02230,Skagway,AK,West,Neither,229.0,12.0,0.0,0.0,0.0
+02240,Southeast Fairbanks,AK,West,Fire only,567.0,71.0,6.0,0.0,0.0
+02275,Wrangell,AK,West,Neither,309.0,97.0,58.0,21.0,0.0
+02282,Yakutat,AK,West,Neither,347.0,21.0,0.0,0.0,0.0
+02290,Yukon-Koyukuk,AK,West,Fire only,681.0,116.0,14.0,0.0,0.0
+04001,Apache,AZ,West,Fire + Drought,1246.0,1117.0,859.0,553.0,161.0
+04003,Cochise,AZ,West,Fire + Drought,1149.0,1018.0,727.0,391.0,127.0
+04005,Coconino,AZ,West,Fire + Drought,1275.0,1079.0,847.0,471.0,134.0
+04007,Gila,AZ,West,Fire + Drought,1166.0,952.0,672.0,378.0,69.0
+04009,Graham,AZ,West,Fire + Drought,1150.0,986.0,721.0,405.0,120.0
+04011,Greenlee,AZ,West,Fire + Drought,1129.0,924.0,693.0,332.0,114.0
+04012,La Paz,AZ,West,Drought only,1160.0,977.0,642.0,306.0,43.0
+04013,Maricopa,AZ,West,Fire + Drought,1201.0,1024.0,704.0,384.0,63.0
+04015,Mohave,AZ,West,Fire + Drought,1234.0,1017.0,725.0,382.0,139.0
+04017,Navajo,AZ,West,Fire + Drought,1249.0,1136.0,896.0,531.0,181.0
+04019,Pima,AZ,West,Fire + Drought,1180.0,1013.0,708.0,362.0,55.0
+04021,Pinal,AZ,West,Fire + Drought,1175.0,1002.0,706.0,380.0,63.0
+04023,Santa Cruz,AZ,West,Fire + Drought,1107.0,918.0,502.0,222.0,61.0
+04025,Yavapai,AZ,West,Fire + Drought,1148.0,955.0,699.0,371.0,74.0
+04027,Yuma,AZ,West,Drought only,1162.0,970.0,574.0,225.0,17.0
+05001,Arkansas,AR,South,Neither,580.0,357.0,177.0,41.0,4.0
+05003,Ashley,AR,South,Neither,645.0,352.0,213.0,96.0,2.0
+05005,Baxter,AR,South,Neither,570.0,280.0,123.0,43.0,15.0
+05007,Benton,AR,South,Neither,634.0,321.0,129.0,57.0,12.0
+05009,Boone,AR,South,Neither,543.0,302.0,117.0,40.0,12.0
+05011,Bradley,AR,South,Neither,603.0,339.0,185.0,76.0,0.0
+05013,Calhoun,AR,South,Neither,615.0,356.0,191.0,83.0,0.0
+05015,Carroll,AR,South,Neither,575.0,306.0,121.0,49.0,12.0
+05017,Chicot,AR,South,Neither,595.0,340.0,203.0,70.0,0.0
+05019,Clark,AR,South,Neither,608.0,364.0,177.0,88.0,4.0
+05021,Clay,AR,South,Neither,516.0,308.0,129.0,50.0,7.0
+05023,Cleburne,AR,South,Neither,568.0,303.0,140.0,30.0,7.0
+05025,Cleveland,AR,South,Neither,555.0,351.0,160.0,32.0,0.0
+05027,Columbia,AR,South,Neither,697.0,421.0,218.0,93.0,19.0
+05029,Conway,AR,South,Neither,559.0,286.0,138.0,47.0,8.0
+05031,Craighead,AR,South,Neither,536.0,316.0,155.0,52.0,7.0
+05033,Crawford,AR,South,Fire only,573.0,278.0,141.0,59.0,9.0
+05035,Crittenden,AR,South,Neither,592.0,336.0,141.0,40.0,2.0
+05037,Cross,AR,South,Neither,578.0,339.0,144.0,33.0,6.0
+05039,Dallas,AR,South,Neither,583.0,352.0,192.0,50.0,0.0
+05041,Desha,AR,South,Neither,600.0,358.0,178.0,45.0,7.0
+05043,Drew,AR,South,Neither,589.0,329.0,187.0,42.0,0.0
+05045,Faulkner,AR,South,Neither,570.0,320.0,144.0,42.0,8.0
+05047,Franklin,AR,South,Neither,538.0,260.0,130.0,58.0,9.0
+05049,Fulton,AR,South,Neither,578.0,305.0,132.0,43.0,11.0
+05051,Garland,AR,South,Neither,577.0,325.0,163.0,63.0,7.0
+05053,Grant,AR,South,Neither,563.0,342.0,173.0,25.0,5.0
+05055,Greene,AR,South,Neither,533.0,323.0,143.0,52.0,7.0
+05057,Hempstead,AR,South,Neither,684.0,384.0,198.0,85.0,21.0
+05059,Hot Spring,AR,South,Neither,567.0,336.0,169.0,66.0,5.0
+05061,Howard,AR,South,Neither,645.0,377.0,194.0,98.0,17.0
+05063,Independence,AR,South,Neither,569.0,308.0,143.0,34.0,6.0
+05065,Izard,AR,South,Neither,588.0,327.0,131.0,50.0,12.0
+05067,Jackson,AR,South,Neither,550.0,328.0,134.0,25.0,6.0
+05069,Jefferson,AR,South,Neither,597.0,372.0,170.0,37.0,5.0
+05071,Johnson,AR,South,Neither,518.0,265.0,117.0,42.0,9.0
+05073,Lafayette,AR,South,Neither,705.0,442.0,220.0,93.0,20.0
+05075,Lawrence,AR,South,Neither,554.0,335.0,147.0,23.0,5.0
+05077,Lee,AR,South,Neither,601.0,346.0,157.0,36.0,2.0
+05079,Lincoln,AR,South,Neither,561.0,339.0,159.0,32.0,1.0
+05081,Little River,AR,South,Neither,701.0,399.0,216.0,114.0,23.0
+05083,Logan,AR,South,Neither,541.0,272.0,157.0,61.0,13.0
+05085,Lonoke,AR,South,Neither,568.0,350.0,157.0,38.0,8.0
+05087,Madison,AR,South,Neither,571.0,294.0,130.0,55.0,12.0
+05089,Marion,AR,South,Fire only,554.0,270.0,110.0,41.0,12.0
+05091,Miller,AR,South,Neither,721.0,444.0,229.0,104.0,20.0
+05093,Mississippi,AR,South,Neither,569.0,325.0,147.0,56.0,7.0
+05095,Monroe,AR,South,Neither,588.0,375.0,163.0,36.0,8.0
+05097,Montgomery,AR,South,Fire only,582.0,324.0,184.0,69.0,19.0
+05099,Nevada,AR,South,Neither,649.0,387.0,178.0,69.0,0.0
+05101,Newton,AR,South,Fire only,542.0,276.0,127.0,37.0,13.0
+05103,Ouachita,AR,South,Neither,630.0,358.0,197.0,69.0,0.0
+05105,Perry,AR,South,Neither,570.0,325.0,154.0,35.0,8.0
+05107,Phillips,AR,South,Neither,590.0,352.0,174.0,45.0,7.0
+05109,Pike,AR,South,Neither,596.0,323.0,180.0,92.0,17.0
+05111,Poinsett,AR,South,Neither,556.0,328.0,143.0,43.0,6.0
+05113,Polk,AR,South,Fire only,627.0,359.0,195.0,79.0,17.0
+05115,Pope,AR,South,Neither,560.0,308.0,134.0,42.0,8.0
+05117,Prairie,AR,South,Neither,555.0,353.0,154.0,37.0,8.0
+05119,Pulaski,AR,South,Neither,588.0,360.0,163.0,45.0,7.0
+05121,Randolph,AR,South,Neither,556.0,310.0,149.0,41.0,5.0
+05123,St. Francis,AR,South,Neither,592.0,351.0,151.0,35.0,2.0
+05125,Saline,AR,South,Neither,575.0,340.0,161.0,46.0,7.0
+05127,Scott,AR,South,Fire only,593.0,328.0,179.0,67.0,14.0
+05129,Searcy,AR,South,Fire only,537.0,277.0,122.0,36.0,16.0
+05131,Sebastian,AR,South,Neither,590.0,290.0,162.0,73.0,4.0
+05133,Sevier,AR,South,Neither,663.0,403.0,202.0,94.0,25.0
+05135,Sharp,AR,South,Neither,581.0,336.0,151.0,35.0,5.0
+05137,Stone,AR,South,Neither,583.0,320.0,152.0,42.0,15.0
+05139,Union,AR,South,Neither,692.0,388.0,226.0,108.0,9.0
+05141,Van Buren,AR,South,Neither,547.0,301.0,148.0,39.0,17.0
+05143,Washington,AR,South,Neither,625.0,312.0,138.0,51.0,12.0
+05145,White,AR,South,Neither,565.0,322.0,142.0,38.0,6.0
+05147,Woodruff,AR,South,Neither,569.0,354.0,131.0,30.0,8.0
+05149,Yell,AR,South,Neither,589.0,350.0,163.0,59.0,8.0
+06001,Alameda,CA,West,Fire + Drought,797.0,550.0,416.0,216.0,144.0
+06003,Alpine,CA,West,Fire + Drought,925.0,670.0,430.0,259.0,90.0
+06005,Amador,CA,West,Fire + Drought,827.0,586.0,440.0,219.0,121.0
+06007,Butte,CA,West,Fire + Drought,783.0,598.0,410.0,252.0,110.0
+06009,Calaveras,CA,West,Fire + Drought,841.0,607.0,415.0,253.0,150.0
+06011,Colusa,CA,West,Fire + Drought,748.0,588.0,412.0,239.0,110.0
+06013,Contra Costa,CA,West,Fire + Drought,794.0,545.0,393.0,238.0,144.0
+06015,Del Norte,CA,West,Fire only,620.0,425.0,299.0,79.0,0.0
+06017,El Dorado,CA,West,Fire + Drought,911.0,635.0,446.0,253.0,114.0
+06019,Fresno,CA,West,Fire + Drought,1022.0,824.0,530.0,275.0,219.0
+06021,Glenn,CA,West,Fire + Drought,751.0,593.0,398.0,235.0,110.0
+06023,Humboldt,CA,West,Fire only,711.0,491.0,353.0,203.0,26.0
+06025,Imperial,CA,West,Drought only,1140.0,922.0,591.0,199.0,17.0
+06027,Inyo,CA,West,Fire + Drought,1107.0,905.0,695.0,400.0,229.0
+06029,Kern,CA,West,Fire + Drought,967.0,829.0,626.0,329.0,221.0
+06031,Kings,CA,West,Fire + Drought,922.0,664.0,472.0,260.0,215.0
+06033,Lake,CA,West,Fire + Drought,733.0,576.0,410.0,237.0,47.0
+06035,Lassen,CA,West,Fire + Drought,999.0,829.0,628.0,243.0,106.0
+06037,Los Angeles,CA,West,Fire + Drought,899.0,783.0,636.0,326.0,211.0
+06039,Madera,CA,West,Fire + Drought,972.0,756.0,491.0,251.0,213.0
+06041,Marin,CA,West,Fire + Drought,681.0,496.0,334.0,96.0,61.0
+06043,Mariposa,CA,West,Fire + Drought,899.0,649.0,438.0,244.0,205.0
+06045,Mendocino,CA,West,Fire + Drought,718.0,554.0,386.0,187.0,43.0
+06047,Merced,CA,West,Fire + Drought,912.0,676.0,417.0,245.0,167.0
+06049,Modoc,CA,West,Fire + Drought,1079.0,903.0,677.0,335.0,65.0
+06051,Mono,CA,West,Fire + Drought,1022.0,790.0,608.0,320.0,196.0
+06053,Monterey,CA,West,Fire + Drought,895.0,631.0,424.0,291.0,208.0
+06055,Napa,CA,West,Fire + Drought,723.0,541.0,363.0,225.0,108.0
+06057,Nevada,CA,West,Fire + Drought,912.0,692.0,495.0,232.0,114.0
+06059,Orange,CA,West,Fire + Drought,882.0,687.0,493.0,237.0,130.0
+06061,Placer,CA,West,Fire + Drought,916.0,669.0,482.0,234.0,114.0
+06063,Plumas,CA,West,Fire + Drought,899.0,747.0,493.0,200.0,113.0
+06065,Riverside,CA,West,Fire + Drought,1157.0,930.0,697.0,401.0,163.0
+06067,Sacramento,CA,West,Fire + Drought,786.0,564.0,414.0,242.0,135.0
+06069,San Benito,CA,West,Fire + Drought,875.0,599.0,402.0,244.0,205.0
+06071,San Bernardino,CA,West,Fire + Drought,1155.0,958.0,795.0,431.0,205.0
+06073,San Diego,CA,West,Fire + Drought,1066.0,792.0,517.0,268.0,0.0
+06075,San Francisco,CA,West,Drought only,670.0,519.0,291.0,141.0,69.0
+06077,San Joaquin,CA,West,Fire + Drought,818.0,585.0,434.0,241.0,153.0
+06079,San Luis Obispo,CA,West,Fire + Drought,860.0,731.0,487.0,291.0,212.0
+06081,San Mateo,CA,West,Drought only,683.0,528.0,306.0,141.0,42.0
+06083,Santa Barbara,CA,West,Fire + Drought,840.0,704.0,494.0,306.0,184.0
+06085,Santa Clara,CA,West,Fire + Drought,813.0,560.0,422.0,218.0,138.0
+06087,Santa Cruz,CA,West,Fire + Drought,725.0,524.0,321.0,148.0,46.0
+06089,Shasta,CA,West,Fire + Drought,887.0,659.0,460.0,287.0,106.0
+06091,Sierra,CA,West,Fire + Drought,919.0,743.0,487.0,212.0,104.0
+06093,Siskiyou,CA,West,Fire + Drought,1024.0,733.0,479.0,306.0,91.0
+06095,Solano,CA,West,Fire + Drought,748.0,567.0,402.0,234.0,130.0
+06097,Sonoma,CA,West,Fire + Drought,701.0,515.0,338.0,194.0,47.0
+06099,Stanislaus,CA,West,Fire + Drought,848.0,627.0,410.0,243.0,165.0
+06101,Sutter,CA,West,Drought only,747.0,569.0,380.0,234.0,110.0
+06103,Tehama,CA,West,Fire + Drought,808.0,620.0,414.0,255.0,107.0
+06105,Trinity,CA,West,Fire + Drought,833.0,561.0,420.0,219.0,36.0
+06107,Tulare,CA,West,Fire + Drought,945.0,790.0,550.0,274.0,219.0
+06109,Tuolumne,CA,West,Fire + Drought,941.0,679.0,487.0,258.0,189.0
+06111,Ventura,CA,West,Fire + Drought,834.0,707.0,542.0,311.0,184.0
+06113,Yolo,CA,West,Fire + Drought,752.0,582.0,402.0,238.0,110.0
+06115,Yuba,CA,West,Fire + Drought,764.0,589.0,392.0,251.0,110.0
+08001,Adams,CO,West,Neither,855.0,531.0,288.0,114.0,0.0
+08003,Alamosa,CO,West,Drought only,976.0,689.0,425.0,233.0,56.0
+08005,Arapahoe,CO,West,Neither,859.0,531.0,296.0,126.0,18.0
+08007,Archuleta,CO,West,Fire + Drought,1074.0,750.0,520.0,280.0,102.0
+08009,Baca,CO,West,Fire + Drought,1003.0,792.0,622.0,388.0,165.0
+08011,Bent,CO,West,Fire + Drought,991.0,769.0,539.0,308.0,146.0
+08013,Boulder,CO,West,Fire only,747.0,466.0,259.0,63.0,0.0
+08014,Broomfield,CO,West,Neither,659.0,405.0,199.0,58.0,0.0
+08015,Chaffee,CO,West,Drought only,971.0,522.0,352.0,176.0,4.0
+08017,Cheyenne,CO,West,Drought only,970.0,730.0,486.0,252.0,59.0
+08019,Clear Creek,CO,West,Neither,757.0,461.0,230.0,105.0,6.0
+08021,Conejos,CO,West,Drought only,1039.0,753.0,479.0,287.0,55.0
+08023,Costilla,CO,West,Fire + Drought,1055.0,748.0,433.0,297.0,89.0
+08025,Crowley,CO,West,Drought only,984.0,715.0,537.0,288.0,144.0
+08027,Custer,CO,West,Fire + Drought,954.0,667.0,388.0,208.0,60.0
+08029,Delta,CO,West,Drought only,877.0,602.0,476.0,259.0,70.0
+08031,Denver,CO,West,Neither,728.0,464.0,215.0,88.0,18.0
+08033,Dolores,CO,West,Fire + Drought,963.0,703.0,488.0,298.0,112.0
+08035,Douglas,CO,West,Fire only,855.0,504.0,243.0,92.0,18.0
+08037,Eagle,CO,West,Fire + Drought,845.0,507.0,330.0,180.0,48.0
+08039,Elbert,CO,West,Drought only,930.0,621.0,373.0,166.0,29.0
+08041,El Paso,CO,West,Fire + Drought,970.0,654.0,450.0,182.0,62.0
+08043,Fremont,CO,West,Fire + Drought,1005.0,652.0,416.0,225.0,31.0
+08045,Garfield,CO,West,Fire + Drought,1029.0,698.0,485.0,304.0,57.0
+08047,Gilpin,CO,West,Neither,701.0,382.0,189.0,67.0,0.0
+08049,Grand,CO,West,Fire only,818.0,503.0,281.0,151.0,45.0
+08051,Gunnison,CO,West,Drought only,966.0,595.0,431.0,247.0,55.0
+08053,Hinsdale,CO,West,Fire + Drought,956.0,653.0,396.0,212.0,75.0
+08055,Huerfano,CO,West,Fire + Drought,1042.0,737.0,448.0,314.0,119.0
+08057,Jackson,CO,West,Fire only,887.0,540.0,323.0,166.0,38.0
+08059,Jefferson,CO,West,Fire only,830.0,523.0,254.0,91.0,18.0
+08061,Kiowa,CO,West,Drought only,1018.0,722.0,552.0,329.0,148.0
+08063,Kit Carson,CO,West,Drought only,973.0,617.0,429.0,202.0,46.0
+08065,Lake,CO,West,Neither,778.0,462.0,264.0,146.0,0.0
+08067,La Plata,CO,West,Fire + Drought,1024.0,771.0,541.0,260.0,108.0
+08069,Larimer,CO,West,Fire only,856.0,576.0,347.0,107.0,7.0
+08071,Las Animas,CO,West,Fire + Drought,1105.0,895.0,626.0,405.0,179.0
+08073,Lincoln,CO,West,Drought only,972.0,754.0,540.0,275.0,63.0
+08075,Logan,CO,West,Drought only,983.0,606.0,392.0,189.0,34.0
+08077,Mesa,CO,West,Fire + Drought,1022.0,698.0,501.0,323.0,84.0
+08079,Mineral,CO,West,Fire + Drought,966.0,636.0,422.0,209.0,56.0
+08081,Moffat,CO,West,Fire + Drought,1121.0,771.0,511.0,313.0,78.0
+08083,Montezuma,CO,West,Fire + Drought,1056.0,820.0,573.0,319.0,126.0
+08085,Montrose,CO,West,Fire + Drought,937.0,659.0,497.0,293.0,98.0
+08087,Morgan,CO,West,Neither,868.0,486.0,283.0,112.0,4.0
+08089,Otero,CO,West,Fire + Drought,1012.0,762.0,537.0,296.0,145.0
+08091,Ouray,CO,West,Drought only,863.0,608.0,408.0,215.0,75.0
+08093,Park,CO,West,Fire only,911.0,584.0,313.0,192.0,18.0
+08095,Phillips,CO,West,Drought only,877.0,609.0,384.0,199.0,54.0
+08097,Pitkin,CO,West,Drought only,849.0,534.0,356.0,221.0,29.0
+08099,Prowers,CO,West,Drought only,988.0,766.0,594.0,317.0,100.0
+08101,Pueblo,CO,West,Fire + Drought,1014.0,758.0,474.0,276.0,96.0
+08103,Rio Blanco,CO,West,Fire + Drought,1076.0,715.0,482.0,282.0,62.0
+08105,Rio Grande,CO,West,Fire + Drought,1008.0,652.0,479.0,273.0,54.0
+08107,Routt,CO,West,Fire + Drought,1005.0,588.0,399.0,198.0,70.0
+08109,Saguache,CO,West,Drought only,1081.0,735.0,489.0,279.0,52.0
+08111,San Juan,CO,West,Drought only,898.0,575.0,350.0,208.0,78.0
+08113,San Miguel,CO,West,Fire + Drought,951.0,668.0,464.0,271.0,102.0
+08115,Sedgwick,CO,West,Drought only,939.0,607.0,414.0,242.0,57.0
+08117,Summit,CO,West,Neither,832.0,440.0,262.0,153.0,30.0
+08119,Teller,CO,West,Fire + Drought,871.0,526.0,247.0,150.0,11.0
+08121,Washington,CO,West,Drought only,911.0,566.0,330.0,197.0,11.0
+08123,Weld,CO,West,Neither,973.0,630.0,412.0,184.0,34.0
+08125,Yuma,CO,West,Drought only,1005.0,622.0,429.0,213.0,33.0
+09110,Capitol,CT,Northeast,Neither,499.0,241.0,104.0,20.0,0.0
+09120,Greater Bridgeport,CT,Northeast,Neither,422.0,184.0,77.0,14.0,0.0
+09130,Lower Connecticut River Valley,CT,Northeast,Neither,456.0,234.0,82.0,16.0,0.0
+09140,Naugatuck Valley,CT,Northeast,Neither,478.0,238.0,90.0,19.0,0.0
+09150,Northeastern Connecticut,CT,Northeast,Neither,455.0,244.0,90.0,8.0,0.0
+09160,Northwest Hills,CT,Northeast,Neither,465.0,223.0,103.0,19.0,0.0
+09170,South Central Connecticut,CT,Northeast,Neither,471.0,234.0,81.0,15.0,0.0
+09180,Southeastern Connecticut,CT,Northeast,Neither,465.0,233.0,83.0,12.0,0.0
+09190,Western Connecticut,CT,Northeast,Neither,481.0,218.0,87.0,19.0,0.0
+10001,Kent,DE,South,Neither,422.0,194.0,106.0,22.0,2.0
+10003,New Castle,DE,South,Neither,409.0,168.0,78.0,26.0,2.0
+10005,Sussex,DE,South,Neither,454.0,241.0,122.0,27.0,2.0
+11001,District of Columbia,DC,South,Neither,0.0,0.0,0.0,0.0,0.0
+12001,Alachua,FL,South,Neither,677.0,343.0,183.0,78.0,14.0
+12003,Baker,FL,South,Fire only,659.0,349.0,195.0,76.0,8.0
+12005,Bay,FL,South,Fire only,586.0,352.0,176.0,87.0,18.0
+12007,Bradford,FL,South,Neither,643.0,338.0,174.0,68.0,11.0
+12009,Brevard,FL,South,Fire only,600.0,336.0,170.0,82.0,21.0
+12011,Broward,FL,South,Fire only,594.0,330.0,160.0,73.0,11.0
+12013,Calhoun,FL,South,Fire only,614.0,351.0,174.0,92.0,21.0
+12015,Charlotte,FL,South,Neither,563.0,338.0,188.0,84.0,16.0
+12017,Citrus,FL,South,Neither,604.0,323.0,159.0,79.0,17.0
+12019,Clay,FL,South,Neither,637.0,338.0,179.0,74.0,10.0
+12021,Collier,FL,South,Fire only,628.0,406.0,220.0,69.0,14.0
+12023,Columbia,FL,South,Fire only,699.0,361.0,222.0,103.0,11.0
+12027,DeSoto,FL,South,Neither,557.0,336.0,160.0,83.0,18.0
+12029,Dixie,FL,South,Neither,673.0,309.0,153.0,62.0,9.0
+12031,Duval,FL,South,Neither,620.0,331.0,201.0,80.0,7.0
+12033,Escambia,FL,South,Neither,664.0,368.0,187.0,57.0,18.0
+12035,Flagler,FL,South,Neither,555.0,283.0,173.0,58.0,5.0
+12037,Franklin,FL,South,Fire only,580.0,335.0,155.0,35.0,13.0
+12039,Gadsden,FL,South,Neither,660.0,441.0,209.0,101.0,21.0
+12041,Gilchrist,FL,South,Neither,645.0,314.0,159.0,65.0,9.0
+12043,Glades,FL,South,Neither,586.0,366.0,238.0,86.0,18.0
+12045,Gulf,FL,South,Fire only,557.0,295.0,161.0,58.0,17.0
+12047,Hamilton,FL,South,Neither,665.0,377.0,207.0,83.0,10.0
+12049,Hardee,FL,South,Neither,571.0,344.0,148.0,64.0,19.0
+12051,Hendry,FL,South,Neither,624.0,391.0,241.0,90.0,15.0
+12053,Hernando,FL,South,Neither,540.0,282.0,147.0,62.0,21.0
+12055,Highlands,FL,South,Neither,565.0,374.0,208.0,94.0,19.0
+12057,Hillsborough,FL,South,Neither,586.0,364.0,181.0,86.0,21.0
+12059,Holmes,FL,South,Neither,609.0,378.0,220.0,106.0,19.0
+12061,Indian River,FL,South,Neither,587.0,309.0,154.0,83.0,17.0
+12063,Jackson,FL,South,Neither,660.0,445.0,259.0,125.0,25.0
+12065,Jefferson,FL,South,Neither,670.0,438.0,206.0,91.0,17.0
+12067,Lafayette,FL,South,Neither,654.0,320.0,164.0,57.0,10.0
+12069,Lake,FL,South,Fire only,612.0,329.0,187.0,69.0,21.0
+12071,Lee,FL,South,Neither,559.0,343.0,208.0,54.0,15.0
+12073,Leon,FL,South,Fire only,667.0,453.0,196.0,94.0,20.0
+12075,Levy,FL,South,Neither,662.0,338.0,165.0,80.0,16.0
+12077,Liberty,FL,South,Fire only,649.0,396.0,186.0,83.0,21.0
+12079,Madison,FL,South,Neither,662.0,410.0,184.0,64.0,14.0
+12081,Manatee,FL,South,Neither,583.0,358.0,167.0,90.0,16.0
+12083,Marion,FL,South,Fire only,648.0,349.0,202.0,90.0,17.0
+12085,Martin,FL,South,Neither,617.0,370.0,211.0,69.0,19.0
+12086,Miami-Dade,FL,South,Fire only,565.0,293.0,146.0,58.0,6.0
+12087,Monroe,FL,South,Fire only,589.0,311.0,156.0,34.0,0.0
+12089,Nassau,FL,South,Neither,669.0,356.0,211.0,92.0,10.0
+12091,Okaloosa,FL,South,Neither,647.0,381.0,197.0,59.0,13.0
+12093,Okeechobee,FL,South,Neither,609.0,374.0,216.0,94.0,19.0
+12095,Orange,FL,South,Neither,612.0,311.0,164.0,76.0,21.0
+12097,Osceola,FL,South,Neither,641.0,360.0,161.0,79.0,27.0
+12099,Palm Beach,FL,South,Fire only,637.0,400.0,242.0,88.0,22.0
+12101,Pasco,FL,South,Neither,534.0,329.0,151.0,64.0,21.0
+12103,Pinellas,FL,South,Neither,527.0,312.0,154.0,70.0,16.0
+12105,Polk,FL,South,Neither,651.0,398.0,182.0,73.0,27.0
+12107,Putnam,FL,South,Fire only,624.0,341.0,181.0,76.0,12.0
+12109,St. Johns,FL,South,Neither,590.0,309.0,172.0,63.0,7.0
+12111,St. Lucie,FL,South,Neither,594.0,331.0,169.0,74.0,19.0
+12113,Santa Rosa,FL,South,Fire only,634.0,369.0,196.0,52.0,15.0
+12115,Sarasota,FL,South,Neither,548.0,344.0,171.0,82.0,7.0
+12117,Seminole,FL,South,Neither,549.0,264.0,140.0,68.0,21.0
+12119,Sumter,FL,South,Neither,563.0,314.0,159.0,71.0,22.0
+12121,Suwannee,FL,South,Neither,666.0,333.0,204.0,77.0,9.0
+12123,Taylor,FL,South,Neither,680.0,360.0,161.0,62.0,15.0
+12125,Union,FL,South,Neither,605.0,316.0,175.0,65.0,8.0
+12127,Volusia,FL,South,Fire only,595.0,304.0,186.0,71.0,17.0
+12129,Wakulla,FL,South,Fire only,621.0,351.0,168.0,72.0,16.0
+12131,Walton,FL,South,Neither,631.0,384.0,222.0,100.0,17.0
+12133,Washington,FL,South,Neither,587.0,340.0,205.0,96.0,18.0
+13001,Appling,GA,South,Neither,684.0,421.0,232.0,86.0,15.0
+13003,Atkinson,GA,South,Neither,726.0,451.0,236.0,91.0,19.0
+13005,Bacon,GA,South,Neither,693.0,400.0,217.0,84.0,14.0
+13007,Baker,GA,South,Neither,722.0,485.0,283.0,162.0,52.0
+13009,Baldwin,GA,South,Drought only,750.0,508.0,310.0,176.0,70.0
+13011,Banks,GA,South,Neither,664.0,461.0,305.0,160.0,41.0
+13013,Barrow,GA,South,Drought only,655.0,469.0,330.0,154.0,34.0
+13015,Bartow,GA,South,Neither,703.0,449.0,264.0,149.0,45.0
+13017,Ben Hill,GA,South,Neither,697.0,478.0,249.0,88.0,24.0
+13019,Berrien,GA,South,Neither,738.0,464.0,250.0,100.0,22.0
+13021,Bibb,GA,South,Drought only,710.0,505.0,303.0,161.0,66.0
+13023,Bleckley,GA,South,Drought only,718.0,497.0,274.0,136.0,59.0
+13025,Brantley,GA,South,Neither,680.0,383.0,210.0,99.0,8.0
+13027,Brooks,GA,South,Neither,690.0,437.0,233.0,98.0,24.0
+13029,Bryan,GA,South,Neither,753.0,429.0,219.0,94.0,12.0
+13031,Bulloch,GA,South,Neither,752.0,480.0,240.0,96.0,16.0
+13033,Burke,GA,South,Neither,802.0,545.0,267.0,150.0,41.0
+13035,Butts,GA,South,Drought only,703.0,502.0,323.0,200.0,53.0
+13037,Calhoun,GA,South,Drought only,707.0,457.0,272.0,155.0,63.0
+13039,Camden,GA,South,Fire only,678.0,363.0,192.0,93.0,10.0
+13043,Candler,GA,South,Neither,688.0,414.0,190.0,88.0,17.0
+13045,Carroll,GA,South,Neither,721.0,499.0,299.0,150.0,68.0
+13047,Catoosa,GA,South,Neither,585.0,363.0,205.0,98.0,51.0
+13049,Charlton,GA,South,Fire only,700.0,396.0,226.0,102.0,14.0
+13051,Chatham,GA,South,Neither,726.0,391.0,195.0,84.0,11.0
+13053,Chattahoochee,GA,South,Drought only,689.0,451.0,292.0,168.0,58.0
+13055,Chattooga,GA,South,Neither,642.0,371.0,204.0,115.0,58.0
+13057,Cherokee,GA,South,Neither,717.0,453.0,290.0,168.0,44.0
+13059,Clarke,GA,South,Drought only,693.0,471.0,347.0,164.0,48.0
+13061,Clay,GA,South,Drought only,719.0,456.0,282.0,154.0,68.0
+13063,Clayton,GA,South,Drought only,702.0,489.0,337.0,167.0,52.0
+13065,Clinch,GA,South,Fire only,747.0,444.0,237.0,98.0,17.0
+13067,Cobb,GA,South,Drought only,718.0,470.0,304.0,156.0,42.0
+13069,Coffee,GA,South,Neither,722.0,483.0,265.0,95.0,24.0
+13071,Colquitt,GA,South,Neither,761.0,490.0,257.0,119.0,38.0
+13073,Columbia,GA,South,Drought only,800.0,480.0,276.0,185.0,34.0
+13075,Cook,GA,South,Neither,706.0,448.0,230.0,99.0,21.0
+13077,Coweta,GA,South,Drought only,711.0,491.0,335.0,180.0,69.0
+13079,Crawford,GA,South,Drought only,710.0,494.0,302.0,170.0,70.0
+13081,Crisp,GA,South,Neither,726.0,480.0,283.0,121.0,30.0
+13083,Dade,GA,South,Neither,601.0,359.0,219.0,109.0,52.0
+13085,Dawson,GA,South,Neither,677.0,435.0,267.0,146.0,44.0
+13087,Decatur,GA,South,Neither,731.0,481.0,281.0,137.0,28.0
+13089,DeKalb,GA,South,Drought only,701.0,511.0,345.0,178.0,31.0
+13091,Dodge,GA,South,Neither,734.0,500.0,263.0,116.0,41.0
+13093,Dooly,GA,South,Drought only,729.0,499.0,282.0,153.0,49.0
+13095,Dougherty,GA,South,Drought only,720.0,469.0,267.0,156.0,53.0
+13097,Douglas,GA,South,Drought only,692.0,479.0,305.0,155.0,65.0
+13099,Early,GA,South,Neither,734.0,483.0,310.0,161.0,66.0
+13101,Echols,GA,South,Neither,678.0,397.0,215.0,86.0,14.0
+13103,Effingham,GA,South,Neither,773.0,461.0,213.0,93.0,12.0
+13105,Elbert,GA,South,Drought only,777.0,539.0,373.0,218.0,64.0
+13107,Emanuel,GA,South,Neither,758.0,468.0,243.0,100.0,29.0
+13109,Evans,GA,South,Neither,686.0,411.0,209.0,87.0,11.0
+13111,Fannin,GA,South,Neither,661.0,401.0,235.0,138.0,47.0
+13113,Fayette,GA,South,Drought only,693.0,485.0,338.0,171.0,58.0
+13115,Floyd,GA,South,Neither,704.0,441.0,237.0,124.0,57.0
+13117,Forsyth,GA,South,Neither,688.0,478.0,293.0,135.0,43.0
+13119,Franklin,GA,South,Drought only,690.0,472.0,316.0,166.0,43.0
+13121,Fulton,GA,South,Drought only,748.0,527.0,354.0,185.0,61.0
+13123,Gilmer,GA,South,Neither,657.0,392.0,234.0,141.0,47.0
+13125,Glascock,GA,South,Drought only,749.0,495.0,266.0,160.0,60.0
+13127,Glynn,GA,South,Neither,678.0,359.0,193.0,88.0,4.0
+13129,Gordon,GA,South,Neither,643.0,380.0,227.0,130.0,48.0
+13131,Grady,GA,South,Neither,737.0,477.0,272.0,138.0,33.0
+13133,Greene,GA,South,Drought only,753.0,520.0,357.0,208.0,82.0
+13135,Gwinnett,GA,South,Drought only,692.0,503.0,327.0,154.0,31.0
+13137,Habersham,GA,South,Neither,694.0,444.0,283.0,166.0,47.0
+13139,Hall,GA,South,Neither,696.0,476.0,311.0,157.0,49.0
+13141,Hancock,GA,South,Drought only,774.0,509.0,316.0,197.0,71.0
+13143,Haralson,GA,South,Neither,699.0,429.0,247.0,118.0,48.0
+13145,Harris,GA,South,Drought only,691.0,476.0,331.0,184.0,62.0
+13147,Hart,GA,South,Drought only,731.0,491.0,337.0,162.0,54.0
+13149,Heard,GA,South,Drought only,704.0,478.0,315.0,159.0,71.0
+13151,Henry,GA,South,Drought only,719.0,503.0,354.0,198.0,52.0
+13153,Houston,GA,South,Drought only,729.0,508.0,301.0,145.0,61.0
+13155,Irwin,GA,South,Neither,718.0,482.0,260.0,91.0,24.0
+13157,Jackson,GA,South,Drought only,678.0,481.0,324.0,164.0,43.0
+13159,Jasper,GA,South,Fire + Drought,712.0,508.0,335.0,204.0,69.0
+13161,Jeff Davis,GA,South,Neither,665.0,432.0,224.0,79.0,15.0
+13163,Jefferson,GA,South,Drought only,771.0,520.0,267.0,164.0,65.0
+13165,Jenkins,GA,South,Neither,758.0,450.0,221.0,113.0,25.0
+13167,Johnson,GA,South,Neither,743.0,489.0,251.0,147.0,53.0
+13169,Jones,GA,South,Fire + Drought,723.0,511.0,311.0,178.0,73.0
+13171,Lamar,GA,South,Drought only,692.0,476.0,321.0,188.0,33.0
+13173,Lanier,GA,South,Neither,695.0,429.0,220.0,81.0,12.0
+13175,Laurens,GA,South,Neither,743.0,490.0,278.0,143.0,49.0
+13177,Lee,GA,South,Drought only,741.0,473.0,277.0,159.0,49.0
+13179,Liberty,GA,South,Neither,742.0,413.0,211.0,106.0,13.0
+13181,Lincoln,GA,South,Drought only,789.0,541.0,335.0,204.0,55.0
+13183,Long,GA,South,Neither,727.0,411.0,214.0,97.0,13.0
+13185,Lowndes,GA,South,Neither,695.0,431.0,232.0,72.0,8.0
+13187,Lumpkin,GA,South,Neither,662.0,424.0,264.0,149.0,46.0
+13189,McDuffie,GA,South,Drought only,782.0,510.0,295.0,187.0,41.0
+13191,McIntosh,GA,South,Neither,684.0,365.0,192.0,77.0,8.0
+13193,Macon,GA,South,Drought only,711.0,465.0,284.0,158.0,59.0
+13195,Madison,GA,South,Drought only,728.0,486.0,348.0,183.0,47.0
+13197,Marion,GA,South,Neither,696.0,450.0,289.0,171.0,71.0
+13199,Meriwether,GA,South,Drought only,708.0,485.0,323.0,188.0,61.0
+13201,Miller,GA,South,Neither,705.0,449.0,282.0,138.0,41.0
+13205,Mitchell,GA,South,Drought only,753.0,500.0,284.0,140.0,44.0
+13207,Monroe,GA,South,Drought only,717.0,500.0,321.0,187.0,63.0
+13209,Montgomery,GA,South,Neither,647.0,418.0,241.0,86.0,17.0
+13211,Morgan,GA,South,Drought only,713.0,512.0,358.0,203.0,83.0
+13213,Murray,GA,South,Neither,632.0,386.0,222.0,114.0,48.0
+13215,Muscogee,GA,South,Neither,656.0,455.0,307.0,180.0,44.0
+13217,Newton,GA,South,Drought only,690.0,496.0,346.0,206.0,59.0
+13219,Oconee,GA,South,Drought only,706.0,481.0,367.0,199.0,69.0
+13221,Oglethorpe,GA,South,Drought only,751.0,505.0,366.0,219.0,74.0
+13223,Paulding,GA,South,Neither,711.0,473.0,283.0,139.0,53.0
+13225,Peach,GA,South,Drought only,688.0,481.0,295.0,158.0,63.0
+13227,Pickens,GA,South,Neither,660.0,415.0,246.0,142.0,46.0
+13229,Pierce,GA,South,Neither,682.0,383.0,206.0,85.0,5.0
+13231,Pike,GA,South,Drought only,694.0,470.0,316.0,203.0,44.0
+13233,Polk,GA,South,Neither,689.0,449.0,259.0,123.0,53.0
+13235,Pulaski,GA,South,Drought only,719.0,493.0,264.0,138.0,53.0
+13237,Putnam,GA,South,Drought only,725.0,501.0,319.0,197.0,75.0
+13239,Quitman,GA,South,Drought only,693.0,454.0,276.0,155.0,76.0
+13241,Rabun,GA,South,Fire only,664.0,418.0,260.0,142.0,44.0
+13243,Randolph,GA,South,Drought only,722.0,486.0,286.0,157.0,92.0
+13245,Richmond,GA,South,Neither,781.0,481.0,252.0,154.0,34.0
+13247,Rockdale,GA,South,Drought only,675.0,495.0,342.0,168.0,46.0
+13249,Schley,GA,South,Drought only,690.0,439.0,268.0,165.0,51.0
+13251,Screven,GA,South,Neither,793.0,509.0,222.0,110.0,14.0
+13253,Seminole,GA,South,Neither,680.0,429.0,246.0,119.0,25.0
+13255,Spalding,GA,South,Drought only,697.0,483.0,343.0,205.0,48.0
+13257,Stephens,GA,South,Fire only,665.0,451.0,288.0,154.0,46.0
+13259,Stewart,GA,South,Drought only,724.0,453.0,290.0,163.0,80.0
+13261,Sumter,GA,South,Drought only,751.0,471.0,278.0,166.0,74.0
+13263,Talbot,GA,South,Drought only,691.0,469.0,324.0,176.0,53.0
+13265,Taliaferro,GA,South,Drought only,758.0,511.0,335.0,205.0,79.0
+13267,Tattnall,GA,South,Neither,712.0,427.0,231.0,88.0,15.0
+13269,Taylor,GA,South,Drought only,714.0,475.0,299.0,171.0,67.0
+13271,Telfair,GA,South,Neither,687.0,440.0,237.0,84.0,23.0
+13273,Terrell,GA,South,Drought only,715.0,467.0,265.0,155.0,86.0
+13275,Thomas,GA,South,Neither,737.0,473.0,269.0,123.0,28.0
+13277,Tift,GA,South,Neither,726.0,453.0,243.0,99.0,22.0
+13279,Toombs,GA,South,Neither,672.0,429.0,219.0,85.0,13.0
+13281,Towns,GA,South,Neither,643.0,388.0,237.0,120.0,42.0
+13283,Treutlen,GA,South,Neither,681.0,420.0,223.0,88.0,26.0
+13285,Troup,GA,South,Drought only,714.0,475.0,328.0,170.0,70.0
+13287,Turner,GA,South,Neither,719.0,462.0,246.0,96.0,30.0
+13289,Twiggs,GA,South,Drought only,733.0,500.0,290.0,151.0,64.0
+13291,Union,GA,South,Neither,656.0,386.0,241.0,133.0,49.0
+13293,Upson,GA,South,Drought only,712.0,479.0,321.0,190.0,48.0
+13295,Walker,GA,South,Neither,642.0,379.0,217.0,113.0,56.0
+13297,Walton,GA,South,Drought only,680.0,493.0,362.0,176.0,53.0
+13299,Ware,GA,South,Fire only,765.0,441.0,242.0,101.0,16.0
+13301,Warren,GA,South,Drought only,784.0,506.0,310.0,193.0,69.0
+13303,Washington,GA,South,Drought only,780.0,535.0,294.0,164.0,69.0
+13305,Wayne,GA,South,Neither,725.0,410.0,217.0,102.0,9.0
+13307,Webster,GA,South,Drought only,691.0,457.0,272.0,165.0,84.0
+13309,Wheeler,GA,South,Neither,673.0,423.0,253.0,86.0,28.0
+13311,White,GA,South,Neither,672.0,417.0,258.0,152.0,47.0
+13313,Whitfield,GA,South,Neither,616.0,370.0,210.0,113.0,49.0
+13315,Wilcox,GA,South,Neither,720.0,488.0,267.0,120.0,15.0
+13317,Wilkes,GA,South,Drought only,785.0,539.0,356.0,220.0,78.0
+13319,Wilkinson,GA,South,Drought only,763.0,497.0,292.0,150.0,70.0
+13321,Worth,GA,South,Neither,751.0,504.0,276.0,125.0,45.0
+15001,Hawaii,HI,West,Fire only,1195.0,967.0,712.0,424.0,44.0
+15003,Honolulu,HI,West,Neither,933.0,566.0,213.0,53.0,0.0
+15005,Kalawao,HI,West,Neither,1085.0,746.0,278.0,65.0,0.0
+15007,Kauai,HI,West,Neither,835.0,500.0,238.0,49.0,0.0
+15009,Maui,HI,West,Fire only,1234.0,1035.0,769.0,377.0,44.0
+16001,Ada,ID,West,Fire + Drought,957.0,716.0,309.0,64.0,0.0
+16003,Adams,ID,West,Fire + Drought,977.0,631.0,266.0,66.0,0.0
+16005,Bannock,ID,West,Fire + Drought,986.0,744.0,421.0,209.0,102.0
+16007,Bear Lake,ID,West,Fire + Drought,1008.0,760.0,443.0,237.0,84.0
+16009,Benewah,ID,West,Neither,762.0,471.0,242.0,73.0,35.0
+16011,Bingham,ID,West,Fire + Drought,1028.0,750.0,403.0,170.0,93.0
+16013,Blaine,ID,West,Fire + Drought,1053.0,828.0,555.0,261.0,92.0
+16015,Boise,ID,West,Fire + Drought,950.0,642.0,283.0,51.0,0.0
+16017,Bonner,ID,West,Fire only,846.0,519.0,297.0,109.0,10.0
+16019,Bonneville,ID,West,Fire + Drought,1057.0,786.0,494.0,197.0,90.0
+16021,Boundary,ID,West,Fire only,793.0,488.0,241.0,76.0,8.0
+16023,Butte,ID,West,Fire + Drought,1061.0,841.0,581.0,231.0,109.0
+16025,Camas,ID,West,Fire + Drought,973.0,765.0,515.0,158.0,15.0
+16027,Canyon,ID,West,Fire + Drought,931.0,687.0,423.0,132.0,0.0
+16029,Caribou,ID,West,Fire + Drought,1015.0,749.0,455.0,217.0,84.0
+16031,Cassia,ID,West,Fire + Drought,1016.0,753.0,458.0,182.0,89.0
+16033,Clark,ID,West,Fire + Drought,1066.0,858.0,488.0,245.0,101.0
+16035,Clearwater,ID,West,Fire only,852.0,534.0,310.0,116.0,36.0
+16037,Custer,ID,West,Fire + Drought,1050.0,839.0,580.0,259.0,80.0
+16039,Elmore,ID,West,Fire + Drought,1003.0,792.0,444.0,246.0,5.0
+16041,Franklin,ID,West,Fire + Drought,989.0,731.0,431.0,210.0,101.0
+16043,Fremont,ID,West,Fire + Drought,1042.0,805.0,516.0,211.0,79.0
+16045,Gem,ID,West,Fire + Drought,977.0,629.0,278.0,56.0,0.0
+16047,Gooding,ID,West,Fire + Drought,982.0,751.0,436.0,232.0,12.0
+16049,Idaho,ID,West,Fire only,1030.0,744.0,382.0,146.0,21.0
+16051,Jefferson,ID,West,Fire + Drought,1021.0,742.0,442.0,198.0,80.0
+16053,Jerome,ID,West,Fire + Drought,984.0,735.0,416.0,223.0,18.0
+16055,Kootenai,ID,West,Neither,796.0,485.0,253.0,84.0,22.0
+16057,Latah,ID,West,Neither,780.0,503.0,258.0,73.0,36.0
+16059,Lemhi,ID,West,Fire + Drought,1093.0,854.0,593.0,263.0,66.0
+16061,Lewis,ID,West,Fire only,791.0,476.0,251.0,99.0,21.0
+16063,Lincoln,ID,West,Fire + Drought,985.0,750.0,471.0,252.0,33.0
+16065,Madison,ID,West,Fire + Drought,958.0,739.0,403.0,143.0,75.0
+16067,Minidoka,ID,West,Fire + Drought,969.0,709.0,436.0,188.0,45.0
+16069,Nez Perce,ID,West,Fire only,836.0,534.0,254.0,104.0,28.0
+16071,Oneida,ID,West,Fire + Drought,996.0,727.0,434.0,204.0,102.0
+16073,Owyhee,ID,West,Fire + Drought,1054.0,835.0,531.0,328.0,25.0
+16075,Payette,ID,West,Fire + Drought,950.0,668.0,362.0,102.0,0.0
+16077,Power,ID,West,Fire + Drought,973.0,750.0,435.0,174.0,96.0
+16079,Shoshone,ID,West,Fire only,872.0,520.0,330.0,136.0,28.0
+16081,Teton,ID,West,Drought only,984.0,667.0,415.0,141.0,23.0
+16083,Twin Falls,ID,West,Fire + Drought,1004.0,717.0,509.0,269.0,34.0
+16085,Valley,ID,West,Fire + Drought,1005.0,642.0,280.0,87.0,7.0
+16087,Washington,ID,West,Fire + Drought,1022.0,713.0,388.0,140.0,0.0
+17001,Adams,IL,Midwest,Neither,608.0,359.0,112.0,21.0,0.0
+17003,Alexander,IL,Midwest,Neither,422.0,203.0,80.0,25.0,7.0
+17005,Bond,IL,Midwest,Neither,350.0,155.0,31.0,6.0,0.0
+17007,Boone,IL,Midwest,Neither,440.0,260.0,122.0,46.0,0.0
+17009,Brown,IL,Midwest,Neither,556.0,276.0,83.0,14.0,0.0
+17011,Bureau,IL,Midwest,Neither,449.0,242.0,110.0,33.0,0.0
+17013,Calhoun,IL,Midwest,Neither,499.0,286.0,59.0,13.0,0.0
+17015,Carroll,IL,Midwest,Neither,456.0,277.0,113.0,42.0,0.0
+17017,Cass,IL,Midwest,Neither,545.0,278.0,88.0,17.0,0.0
+17019,Champaign,IL,Midwest,Neither,462.0,239.0,80.0,18.0,0.0
+17021,Christian,IL,Midwest,Neither,476.0,246.0,90.0,7.0,0.0
+17023,Clark,IL,Midwest,Neither,405.0,177.0,39.0,6.0,5.0
+17025,Clay,IL,Midwest,Neither,362.0,136.0,34.0,6.0,0.0
+17027,Clinton,IL,Midwest,Neither,361.0,165.0,35.0,6.0,0.0
+17029,Coles,IL,Midwest,Neither,443.0,197.0,41.0,15.0,0.0
+17031,Cook,IL,Midwest,Neither,493.0,268.0,90.0,28.0,0.0
+17033,Crawford,IL,Midwest,Neither,393.0,158.0,32.0,7.0,6.0
+17035,Cumberland,IL,Midwest,Neither,387.0,150.0,28.0,6.0,0.0
+17037,DeKalb,IL,Midwest,Neither,449.0,271.0,107.0,32.0,0.0
+17039,De Witt,IL,Midwest,Neither,469.0,271.0,119.0,25.0,0.0
+17041,Douglas,IL,Midwest,Neither,432.0,205.0,59.0,19.0,0.0
+17043,DuPage,IL,Midwest,Neither,416.0,210.0,73.0,27.0,0.0
+17045,Edgar,IL,Midwest,Neither,444.0,195.0,49.0,14.0,5.0
+17047,Edwards,IL,Midwest,Neither,356.0,126.0,36.0,11.0,6.0
+17049,Effingham,IL,Midwest,Neither,383.0,158.0,29.0,6.0,0.0
+17051,Fayette,IL,Midwest,Neither,377.0,160.0,31.0,6.0,0.0
+17053,Ford,IL,Midwest,Neither,472.0,250.0,57.0,16.0,0.0
+17055,Franklin,IL,Midwest,Neither,376.0,146.0,44.0,11.0,6.0
+17057,Fulton,IL,Midwest,Neither,580.0,289.0,122.0,32.0,0.0
+17059,Gallatin,IL,Midwest,Neither,351.0,142.0,52.0,18.0,8.0
+17061,Greene,IL,Midwest,Neither,484.0,265.0,67.0,9.0,0.0
+17063,Grundy,IL,Midwest,Neither,432.0,204.0,85.0,11.0,0.0
+17065,Hamilton,IL,Midwest,Neither,371.0,141.0,44.0,11.0,6.0
+17067,Hancock,IL,Midwest,Neither,644.0,350.0,152.0,15.0,0.0
+17069,Hardin,IL,Midwest,Neither,338.0,145.0,58.0,20.0,8.0
+17071,Henderson,IL,Midwest,Neither,585.0,318.0,113.0,32.0,0.0
+17073,Henry,IL,Midwest,Neither,507.0,248.0,107.0,33.0,0.0
+17075,Iroquois,IL,Midwest,Neither,477.0,202.0,53.0,11.0,0.0
+17077,Jackson,IL,Midwest,Neither,401.0,153.0,56.0,11.0,6.0
+17079,Jasper,IL,Midwest,Neither,380.0,153.0,30.0,6.0,0.0
+17081,Jefferson,IL,Midwest,Neither,369.0,155.0,44.0,6.0,0.0
+17083,Jersey,IL,Midwest,Neither,451.0,228.0,60.0,9.0,0.0
+17085,Jo Daviess,IL,Midwest,Neither,491.0,267.0,105.0,39.0,0.0
+17087,Johnson,IL,Midwest,Neither,357.0,152.0,54.0,19.0,8.0
+17089,Kane,IL,Midwest,Neither,444.0,272.0,105.0,30.0,0.0
+17091,Kankakee,IL,Midwest,Neither,460.0,209.0,53.0,4.0,0.0
+17093,Kendall,IL,Midwest,Neither,390.0,218.0,84.0,28.0,0.0
+17095,Knox,IL,Midwest,Neither,537.0,283.0,109.0,34.0,0.0
+17097,Lake,IL,Midwest,Neither,446.0,258.0,138.0,41.0,0.0
+17099,LaSalle,IL,Midwest,Neither,513.0,242.0,97.0,36.0,0.0
+17101,Lawrence,IL,Midwest,Neither,388.0,151.0,37.0,11.0,6.0
+17103,Lee,IL,Midwest,Neither,467.0,292.0,113.0,43.0,0.0
+17105,Livingston,IL,Midwest,Neither,488.0,226.0,91.0,17.0,0.0
+17107,Logan,IL,Midwest,Neither,508.0,263.0,135.0,13.0,0.0
+17109,McDonough,IL,Midwest,Neither,578.0,330.0,126.0,17.0,0.0
+17111,McHenry,IL,Midwest,Neither,453.0,268.0,143.0,48.0,0.0
+17113,McLean,IL,Midwest,Neither,506.0,276.0,122.0,25.0,0.0
+17115,Macon,IL,Midwest,Neither,493.0,256.0,104.0,15.0,0.0
+17117,Macoupin,IL,Midwest,Neither,465.0,261.0,61.0,9.0,0.0
+17119,Madison,IL,Midwest,Neither,432.0,207.0,39.0,6.0,0.0
+17121,Marion,IL,Midwest,Neither,356.0,149.0,33.0,6.0,0.0
+17123,Marshall,IL,Midwest,Neither,449.0,205.0,100.0,35.0,0.0
+17125,Mason,IL,Midwest,Neither,550.0,280.0,111.0,17.0,0.0
+17127,Massac,IL,Midwest,Neither,414.0,191.0,78.0,29.0,8.0
+17129,Menard,IL,Midwest,Neither,509.0,263.0,104.0,15.0,0.0
+17131,Mercer,IL,Midwest,Neither,575.0,306.0,113.0,31.0,0.0
+17133,Monroe,IL,Midwest,Neither,429.0,201.0,52.0,6.0,0.0
+17135,Montgomery,IL,Midwest,Neither,456.0,232.0,64.0,6.0,0.0
+17137,Morgan,IL,Midwest,Neither,525.0,271.0,68.0,17.0,0.0
+17139,Moultrie,IL,Midwest,Neither,444.0,215.0,59.0,16.0,0.0
+17141,Ogle,IL,Midwest,Neither,464.0,287.0,120.0,44.0,0.0
+17143,Peoria,IL,Midwest,Neither,520.0,229.0,117.0,35.0,0.0
+17145,Perry,IL,Midwest,Neither,390.0,150.0,48.0,6.0,0.0
+17147,Piatt,IL,Midwest,Neither,451.0,244.0,88.0,18.0,0.0
+17149,Pike,IL,Midwest,Neither,571.0,335.0,88.0,22.0,0.0
+17151,Pope,IL,Midwest,Neither,418.0,180.0,79.0,29.0,7.0
+17153,Pulaski,IL,Midwest,Neither,390.0,165.0,62.0,19.0,8.0
+17155,Putnam,IL,Midwest,Neither,392.0,194.0,101.0,33.0,0.0
+17157,Randolph,IL,Midwest,Neither,429.0,190.0,48.0,7.0,0.0
+17159,Richland,IL,Midwest,Neither,382.0,139.0,32.0,11.0,0.0
+17161,Rock Island,IL,Midwest,Neither,576.0,299.0,111.0,41.0,0.0
+17163,St. Clair,IL,Midwest,Neither,436.0,204.0,49.0,6.0,0.0
+17165,Saline,IL,Midwest,Neither,355.0,133.0,41.0,11.0,6.0
+17167,Sangamon,IL,Midwest,Neither,490.0,268.0,94.0,13.0,0.0
+17169,Schuyler,IL,Midwest,Neither,587.0,295.0,117.0,18.0,0.0
+17171,Scott,IL,Midwest,Neither,504.0,264.0,70.0,12.0,0.0
+17173,Shelby,IL,Midwest,Neither,460.0,209.0,59.0,8.0,0.0
+17175,Stark,IL,Midwest,Neither,442.0,200.0,99.0,33.0,0.0
+17177,Stephenson,IL,Midwest,Neither,443.0,255.0,111.0,43.0,0.0
+17179,Tazewell,IL,Midwest,Neither,542.0,251.0,121.0,17.0,0.0
+17181,Union,IL,Midwest,Neither,399.0,161.0,59.0,19.0,6.0
+17183,Vermilion,IL,Midwest,Neither,492.0,228.0,52.0,10.0,2.0
+17185,Wabash,IL,Midwest,Neither,366.0,130.0,40.0,11.0,6.0
+17187,Warren,IL,Midwest,Neither,568.0,295.0,117.0,35.0,0.0
+17189,Washington,IL,Midwest,Neither,393.0,168.0,40.0,6.0,0.0
+17191,Wayne,IL,Midwest,Neither,385.0,139.0,35.0,6.0,0.0
+17193,White,IL,Midwest,Neither,364.0,140.0,44.0,18.0,8.0
+17195,Whiteside,IL,Midwest,Neither,475.0,270.0,113.0,44.0,0.0
+17197,Will,IL,Midwest,Neither,437.0,232.0,77.0,11.0,0.0
+17199,Williamson,IL,Midwest,Fire only,370.0,150.0,49.0,11.0,6.0
+17201,Winnebago,IL,Midwest,Neither,447.0,258.0,114.0,43.0,0.0
+17203,Woodford,IL,Midwest,Neither,491.0,195.0,111.0,33.0,0.0
+18001,Adams,IN,Midwest,Neither,410.0,149.0,56.0,14.0,0.0
+18003,Allen,IN,Midwest,Neither,447.0,197.0,63.0,21.0,0.0
+18005,Bartholomew,IN,Midwest,Neither,338.0,130.0,44.0,19.0,1.0
+18007,Benton,IN,Midwest,Neither,416.0,178.0,35.0,0.0,0.0
+18009,Blackford,IN,Midwest,Neither,376.0,143.0,57.0,14.0,0.0
+18011,Boone,IN,Midwest,Neither,390.0,174.0,40.0,5.0,0.0
+18013,Brown,IN,Midwest,Neither,349.0,131.0,44.0,15.0,3.0
+18015,Carroll,IN,Midwest,Neither,447.0,195.0,59.0,20.0,0.0
+18017,Cass,IN,Midwest,Neither,478.0,229.0,61.0,20.0,0.0
+18019,Clark,IN,Midwest,Neither,321.0,125.0,41.0,11.0,0.0
+18021,Clay,IN,Midwest,Neither,375.0,173.0,33.0,8.0,6.0
+18023,Clinton,IN,Midwest,Neither,414.0,165.0,58.0,5.0,0.0
+18025,Crawford,IN,Midwest,Neither,323.0,132.0,44.0,18.0,0.0
+18027,Daviess,IN,Midwest,Neither,366.0,143.0,41.0,12.0,6.0
+18029,Dearborn,IN,Midwest,Neither,307.0,126.0,38.0,16.0,0.0
+18031,Decatur,IN,Midwest,Neither,321.0,135.0,41.0,8.0,0.0
+18033,DeKalb,IN,Midwest,Neither,465.0,199.0,79.0,7.0,0.0
+18035,Delaware,IN,Midwest,Neither,391.0,151.0,57.0,14.0,0.0
+18037,Dubois,IN,Midwest,Neither,294.0,129.0,48.0,20.0,4.0
+18039,Elkhart,IN,Midwest,Neither,515.0,248.0,65.0,7.0,0.0
+18041,Fayette,IN,Midwest,Neither,311.0,123.0,37.0,4.0,0.0
+18043,Floyd,IN,Midwest,Neither,306.0,117.0,36.0,9.0,0.0
+18045,Fountain,IN,Midwest,Neither,446.0,191.0,32.0,5.0,2.0
+18047,Franklin,IN,Midwest,Neither,327.0,127.0,36.0,9.0,0.0
+18049,Fulton,IN,Midwest,Neither,482.0,250.0,59.0,7.0,0.0
+18051,Gibson,IN,Midwest,Neither,355.0,132.0,42.0,16.0,6.0
+18053,Grant,IN,Midwest,Neither,429.0,146.0,60.0,7.0,0.0
+18055,Greene,IN,Midwest,Neither,359.0,143.0,37.0,10.0,6.0
+18057,Hamilton,IN,Midwest,Neither,373.0,172.0,51.0,6.0,0.0
+18059,Hancock,IN,Midwest,Neither,348.0,135.0,41.0,8.0,0.0
+18061,Harrison,IN,Midwest,Neither,325.0,145.0,55.0,8.0,0.0
+18063,Hendricks,IN,Midwest,Neither,361.0,181.0,34.0,8.0,3.0
+18065,Henry,IN,Midwest,Neither,342.0,145.0,49.0,5.0,0.0
+18067,Howard,IN,Midwest,Neither,429.0,144.0,59.0,20.0,0.0
+18069,Huntington,IN,Midwest,Neither,427.0,183.0,63.0,7.0,0.0
+18071,Jackson,IN,Midwest,Neither,350.0,138.0,45.0,18.0,0.0
+18073,Jasper,IN,Midwest,Neither,484.0,227.0,54.0,0.0,0.0
+18075,Jay,IN,Midwest,Neither,380.0,139.0,48.0,12.0,0.0
+18077,Jefferson,IN,Midwest,Fire only,332.0,141.0,46.0,15.0,0.0
+18079,Jennings,IN,Midwest,Neither,323.0,133.0,43.0,16.0,0.0
+18081,Johnson,IN,Midwest,Neither,350.0,139.0,44.0,8.0,3.0
+18083,Knox,IN,Midwest,Neither,391.0,144.0,40.0,11.0,6.0
+18085,Kosciusko,IN,Midwest,Neither,508.0,247.0,62.0,7.0,0.0
+18087,LaGrange,IN,Midwest,Neither,504.0,243.0,61.0,7.0,0.0
+18089,Lake,IN,Midwest,Fire only,447.0,189.0,61.0,2.0,0.0
+18091,LaPorte,IN,Midwest,Neither,459.0,201.0,66.0,0.0,0.0
+18093,Lawrence,IN,Midwest,Neither,350.0,131.0,44.0,19.0,6.0
+18095,Madison,IN,Midwest,Neither,413.0,142.0,66.0,5.0,0.0
+18097,Marion,IN,Midwest,Neither,350.0,165.0,43.0,8.0,2.0
+18099,Marshall,IN,Midwest,Neither,483.0,228.0,63.0,7.0,0.0
+18101,Martin,IN,Midwest,Neither,342.0,138.0,43.0,11.0,6.0
+18103,Miami,IN,Midwest,Neither,486.0,216.0,63.0,20.0,0.0
+18105,Monroe,IN,Midwest,Neither,359.0,144.0,44.0,15.0,6.0
+18107,Montgomery,IN,Midwest,Neither,440.0,180.0,38.0,7.0,3.0
+18109,Morgan,IN,Midwest,Neither,338.0,156.0,39.0,8.0,3.0
+18111,Newton,IN,Midwest,Neither,477.0,202.0,53.0,0.0,0.0
+18113,Noble,IN,Midwest,Neither,490.0,224.0,68.0,7.0,0.0
+18115,Ohio,IN,Midwest,Neither,299.0,122.0,33.0,13.0,0.0
+18117,Orange,IN,Midwest,Neither,332.0,124.0,45.0,19.0,5.0
+18119,Owen,IN,Midwest,Neither,362.0,153.0,38.0,8.0,6.0
+18121,Parke,IN,Midwest,Neither,434.0,192.0,35.0,8.0,6.0
+18123,Perry,IN,Midwest,Neither,333.0,131.0,56.0,18.0,0.0
+18125,Pike,IN,Midwest,Neither,331.0,125.0,40.0,16.0,6.0
+18127,Porter,IN,Midwest,Fire only,444.0,188.0,64.0,0.0,0.0
+18129,Posey,IN,Midwest,Neither,359.0,141.0,46.0,18.0,8.0
+18131,Pulaski,IN,Midwest,Neither,479.0,229.0,76.0,7.0,0.0
+18133,Putnam,IN,Midwest,Neither,397.0,188.0,33.0,8.0,6.0
+18135,Randolph,IN,Midwest,Neither,367.0,137.0,56.0,10.0,0.0
+18137,Ripley,IN,Midwest,Fire only,320.0,133.0,44.0,14.0,0.0
+18139,Rush,IN,Midwest,Neither,325.0,138.0,43.0,7.0,0.0
+18141,St. Joseph,IN,Midwest,Neither,479.0,239.0,58.0,6.0,0.0
+18143,Scott,IN,Midwest,Neither,325.0,132.0,44.0,14.0,0.0
+18145,Shelby,IN,Midwest,Neither,352.0,137.0,49.0,8.0,0.0
+18147,Spencer,IN,Midwest,Neither,328.0,138.0,53.0,22.0,4.0
+18149,Starke,IN,Midwest,Neither,461.0,217.0,59.0,0.0,0.0
+18151,Steuben,IN,Midwest,Neither,475.0,233.0,61.0,7.0,0.0
+18153,Sullivan,IN,Midwest,Neither,390.0,160.0,34.0,10.0,6.0
+18155,Switzerland,IN,Midwest,Neither,318.0,136.0,42.0,13.0,0.0
+18157,Tippecanoe,IN,Midwest,Neither,435.0,199.0,42.0,5.0,0.0
+18159,Tipton,IN,Midwest,Neither,406.0,146.0,62.0,16.0,0.0
+18161,Union,IN,Midwest,Neither,310.0,124.0,35.0,5.0,0.0
+18163,Vanderburgh,IN,Midwest,Neither,324.0,137.0,45.0,18.0,6.0
+18165,Vermillion,IN,Midwest,Neither,462.0,206.0,46.0,7.0,6.0
+18167,Vigo,IN,Midwest,Neither,390.0,183.0,32.0,7.0,6.0
+18169,Wabash,IN,Midwest,Neither,466.0,187.0,63.0,19.0,0.0
+18171,Warren,IN,Midwest,Neither,429.0,188.0,36.0,4.0,0.0
+18173,Warrick,IN,Midwest,Neither,329.0,137.0,44.0,22.0,4.0
+18175,Washington,IN,Midwest,Neither,329.0,138.0,47.0,18.0,0.0
+18177,Wayne,IN,Midwest,Neither,343.0,139.0,37.0,2.0,0.0
+18179,Wells,IN,Midwest,Neither,400.0,148.0,62.0,21.0,0.0
+18181,White,IN,Midwest,Neither,463.0,214.0,60.0,3.0,0.0
+18183,Whitley,IN,Midwest,Neither,449.0,208.0,74.0,7.0,0.0
+19001,Adair,IA,Midwest,Neither,716.0,423.0,226.0,41.0,0.0
+19003,Adams,IA,Midwest,Neither,706.0,413.0,172.0,23.0,0.0
+19005,Allamakee,IA,Midwest,Neither,546.0,250.0,97.0,49.0,1.0
+19007,Appanoose,IA,Midwest,Neither,656.0,413.0,210.0,63.0,0.0
+19009,Audubon,IA,Midwest,Neither,675.0,424.0,187.0,33.0,0.0
+19011,Benton,IA,Midwest,Neither,573.0,376.0,145.0,58.0,4.0
+19013,Black Hawk,IA,Midwest,Neither,493.0,286.0,134.0,64.0,2.0
+19015,Boone,IA,Midwest,Neither,632.0,400.0,179.0,50.0,0.0
+19017,Bremer,IA,Midwest,Neither,468.0,241.0,131.0,62.0,0.0
+19019,Buchanan,IA,Midwest,Neither,440.0,278.0,120.0,54.0,2.0
+19021,Buena Vista,IA,Midwest,Neither,644.0,455.0,251.0,77.0,0.0
+19023,Butler,IA,Midwest,Neither,527.0,266.0,140.0,80.0,0.0
+19025,Calhoun,IA,Midwest,Neither,684.0,483.0,278.0,67.0,0.0
+19027,Carroll,IA,Midwest,Neither,674.0,462.0,256.0,51.0,0.0
+19029,Cass,IA,Midwest,Neither,680.0,419.0,217.0,37.0,0.0
+19031,Cedar,IA,Midwest,Neither,567.0,352.0,160.0,68.0,0.0
+19033,Cerro Gordo,IA,Midwest,Neither,551.0,313.0,157.0,89.0,0.0
+19035,Cherokee,IA,Midwest,Neither,655.0,441.0,238.0,97.0,0.0
+19037,Chickasaw,IA,Midwest,Neither,541.0,244.0,107.0,61.0,1.0
+19039,Clarke,IA,Midwest,Neither,634.0,366.0,200.0,40.0,0.0
+19041,Clay,IA,Midwest,Neither,653.0,411.0,217.0,88.0,0.0
+19043,Clayton,IA,Midwest,Neither,521.0,300.0,104.0,53.0,1.0
+19045,Clinton,IA,Midwest,Neither,475.0,314.0,123.0,42.0,0.0
+19047,Crawford,IA,Midwest,Neither,668.0,449.0,265.0,45.0,0.0
+19049,Dallas,IA,Midwest,Neither,655.0,369.0,165.0,33.0,0.0
+19051,Davis,IA,Midwest,Neither,668.0,416.0,219.0,53.0,0.0
+19053,Decatur,IA,Midwest,Neither,650.0,404.0,162.0,48.0,0.0
+19055,Delaware,IA,Midwest,Neither,452.0,283.0,120.0,46.0,2.0
+19057,Des Moines,IA,Midwest,Neither,621.0,366.0,134.0,32.0,0.0
+19059,Dickinson,IA,Midwest,Neither,619.0,326.0,186.0,51.0,0.0
+19061,Dubuque,IA,Midwest,Neither,468.0,295.0,114.0,23.0,0.0
+19063,Emmet,IA,Midwest,Neither,637.0,367.0,189.0,40.0,0.0
+19065,Fayette,IA,Midwest,Neither,519.0,265.0,112.0,68.0,1.0
+19067,Floyd,IA,Midwest,Neither,534.0,301.0,137.0,87.0,0.0
+19069,Franklin,IA,Midwest,Neither,563.0,323.0,160.0,84.0,0.0
+19071,Fremont,IA,Midwest,Neither,696.0,448.0,167.0,39.0,0.0
+19073,Greene,IA,Midwest,Neither,668.0,449.0,235.0,56.0,0.0
+19075,Grundy,IA,Midwest,Neither,530.0,349.0,135.0,58.0,0.0
+19077,Guthrie,IA,Midwest,Neither,676.0,424.0,177.0,39.0,0.0
+19079,Hamilton,IA,Midwest,Neither,608.0,413.0,210.0,42.0,0.0
+19081,Hancock,IA,Midwest,Neither,594.0,357.0,186.0,81.0,0.0
+19083,Hardin,IA,Midwest,Neither,585.0,337.0,160.0,46.0,0.0
+19085,Harrison,IA,Midwest,Neither,683.0,442.0,249.0,79.0,4.0
+19087,Henry,IA,Midwest,Neither,636.0,401.0,166.0,49.0,0.0
+19089,Howard,IA,Midwest,Neither,490.0,254.0,115.0,62.0,1.0
+19091,Humboldt,IA,Midwest,Neither,604.0,419.0,239.0,64.0,0.0
+19093,Ida,IA,Midwest,Neither,663.0,482.0,230.0,52.0,0.0
+19095,Iowa,IA,Midwest,Neither,613.0,399.0,208.0,52.0,4.0
+19097,Jackson,IA,Midwest,Neither,482.0,328.0,112.0,45.0,0.0
+19099,Jasper,IA,Midwest,Neither,635.0,372.0,174.0,22.0,0.0
+19101,Jefferson,IA,Midwest,Neither,654.0,403.0,189.0,62.0,0.0
+19103,Johnson,IA,Midwest,Neither,610.0,366.0,202.0,60.0,2.0
+19105,Jones,IA,Midwest,Neither,484.0,316.0,151.0,65.0,0.0
+19107,Keokuk,IA,Midwest,Neither,690.0,390.0,226.0,41.0,0.0
+19109,Kossuth,IA,Midwest,Neither,646.0,422.0,230.0,73.0,0.0
+19111,Lee,IA,Midwest,Neither,644.0,366.0,153.0,35.0,0.0
+19113,Linn,IA,Midwest,Neither,551.0,348.0,149.0,49.0,2.0
+19115,Louisa,IA,Midwest,Neither,632.0,365.0,144.0,43.0,0.0
+19117,Lucas,IA,Midwest,Neither,633.0,392.0,198.0,60.0,0.0
+19119,Lyon,IA,Midwest,Neither,627.0,356.0,180.0,64.0,27.0
+19121,Madison,IA,Midwest,Neither,642.0,389.0,218.0,38.0,0.0
+19123,Mahaska,IA,Midwest,Neither,699.0,406.0,224.0,52.0,0.0
+19125,Marion,IA,Midwest,Neither,696.0,404.0,212.0,35.0,0.0
+19127,Marshall,IA,Midwest,Neither,584.0,359.0,156.0,29.0,0.0
+19129,Mills,IA,Midwest,Neither,682.0,418.0,235.0,49.0,0.0
+19131,Mitchell,IA,Midwest,Neither,543.0,296.0,146.0,78.0,1.0
+19133,Monona,IA,Midwest,Neither,653.0,434.0,245.0,99.0,43.0
+19135,Monroe,IA,Midwest,Neither,662.0,408.0,230.0,55.0,0.0
+19137,Montgomery,IA,Midwest,Neither,687.0,432.0,210.0,24.0,0.0
+19139,Muscatine,IA,Midwest,Neither,606.0,321.0,161.0,50.0,0.0
+19141,O'Brien,IA,Midwest,Neither,644.0,392.0,211.0,90.0,0.0
+19143,Osceola,IA,Midwest,Neither,606.0,328.0,182.0,79.0,0.0
+19145,Page,IA,Midwest,Neither,697.0,428.0,177.0,40.0,0.0
+19147,Palo Alto,IA,Midwest,Neither,645.0,435.0,231.0,83.0,0.0
+19149,Plymouth,IA,Midwest,Neither,647.0,436.0,275.0,104.0,27.0
+19151,Pocahontas,IA,Midwest,Neither,650.0,451.0,245.0,60.0,0.0
+19153,Polk,IA,Midwest,Neither,657.0,363.0,195.0,31.0,0.0
+19155,Pottawattamie,IA,Midwest,Neither,731.0,427.0,248.0,59.0,0.0
+19157,Poweshiek,IA,Midwest,Neither,626.0,418.0,195.0,57.0,0.0
+19159,Ringgold,IA,Midwest,Neither,656.0,359.0,165.0,36.0,0.0
+19161,Sac,IA,Midwest,Neither,678.0,497.0,293.0,67.0,0.0
+19163,Scott,IA,Midwest,Neither,534.0,281.0,100.0,37.0,0.0
+19165,Shelby,IA,Midwest,Neither,667.0,430.0,210.0,36.0,0.0
+19167,Sioux,IA,Midwest,Neither,661.0,395.0,236.0,88.0,27.0
+19169,Story,IA,Midwest,Neither,609.0,336.0,159.0,25.0,0.0
+19171,Tama,IA,Midwest,Neither,595.0,379.0,149.0,61.0,4.0
+19173,Taylor,IA,Midwest,Neither,699.0,396.0,158.0,32.0,0.0
+19175,Union,IA,Midwest,Neither,649.0,377.0,190.0,29.0,0.0
+19177,Van Buren,IA,Midwest,Neither,648.0,403.0,193.0,51.0,0.0
+19179,Wapello,IA,Midwest,Neither,675.0,404.0,248.0,53.0,0.0
+19181,Warren,IA,Midwest,Neither,640.0,370.0,203.0,27.0,0.0
+19183,Washington,IA,Midwest,Neither,641.0,348.0,209.0,50.0,0.0
+19185,Wayne,IA,Midwest,Neither,654.0,415.0,181.0,77.0,0.0
+19187,Webster,IA,Midwest,Neither,662.0,455.0,241.0,69.0,0.0
+19189,Winnebago,IA,Midwest,Neither,614.0,357.0,168.0,51.0,0.0
+19191,Winneshiek,IA,Midwest,Neither,559.0,249.0,102.0,52.0,1.0
+19193,Woodbury,IA,Midwest,Neither,686.0,455.0,259.0,110.0,66.0
+19195,Worth,IA,Midwest,Neither,573.0,304.0,146.0,83.0,1.0
+19197,Wright,IA,Midwest,Neither,606.0,385.0,203.0,78.0,0.0
+20001,Allen,KS,Midwest,Neither,623.0,394.0,184.0,80.0,19.0
+20003,Anderson,KS,Midwest,Neither,636.0,394.0,153.0,61.0,6.0
+20005,Atchison,KS,Midwest,Neither,707.0,372.0,153.0,68.0,3.0
+20007,Barber,KS,Midwest,Drought only,813.0,546.0,373.0,194.0,109.0
+20009,Barton,KS,Midwest,Drought only,882.0,571.0,284.0,188.0,50.0
+20011,Bourbon,KS,Midwest,Neither,615.0,373.0,182.0,52.0,10.0
+20013,Brown,KS,Midwest,Neither,705.0,398.0,154.0,63.0,1.0
+20015,Butler,KS,Midwest,Neither,699.0,466.0,227.0,143.0,53.0
+20017,Chase,KS,Midwest,Fire only,689.0,372.0,179.0,97.0,18.0
+20019,Chautauqua,KS,Midwest,Neither,685.0,458.0,290.0,146.0,67.0
+20021,Cherokee,KS,Midwest,Neither,659.0,369.0,173.0,72.0,18.0
+20023,Cheyenne,KS,Midwest,Drought only,1016.0,719.0,474.0,255.0,47.0
+20025,Clark,KS,Midwest,Drought only,916.0,647.0,430.0,219.0,110.0
+20027,Clay,KS,Midwest,Neither,758.0,403.0,169.0,21.0,0.0
+20029,Cloud,KS,Midwest,Neither,804.0,425.0,178.0,18.0,0.0
+20031,Coffey,KS,Midwest,Fire only,663.0,386.0,189.0,110.0,8.0
+20033,Comanche,KS,Midwest,Drought only,859.0,588.0,415.0,224.0,100.0
+20035,Cowley,KS,Midwest,Neither,714.0,513.0,288.0,148.0,63.0
+20037,Crawford,KS,Midwest,Neither,635.0,374.0,180.0,68.0,17.0
+20039,Decatur,KS,Midwest,Drought only,1028.0,722.0,459.0,265.0,103.0
+20041,Dickinson,KS,Midwest,Neither,780.0,402.0,184.0,85.0,7.0
+20043,Doniphan,KS,Midwest,Neither,689.0,384.0,145.0,69.0,1.0
+20045,Douglas,KS,Midwest,Neither,652.0,377.0,129.0,45.0,12.0
+20047,Edwards,KS,Midwest,Drought only,828.0,572.0,309.0,179.0,68.0
+20049,Elk,KS,Midwest,Neither,674.0,444.0,253.0,125.0,63.0
+20051,Ellis,KS,Midwest,Fire + Drought,918.0,609.0,347.0,143.0,96.0
+20053,Ellsworth,KS,Midwest,Neither,791.0,508.0,247.0,137.0,27.0
+20055,Finney,KS,Midwest,Drought only,894.0,758.0,530.0,271.0,139.0
+20057,Ford,KS,Midwest,Drought only,867.0,630.0,400.0,208.0,88.0
+20059,Franklin,KS,Midwest,Neither,627.0,362.0,134.0,51.0,8.0
+20061,Geary,KS,Midwest,Fire only,760.0,320.0,138.0,59.0,6.0
+20063,Gove,KS,Midwest,Drought only,961.0,675.0,375.0,179.0,110.0
+20065,Graham,KS,Midwest,Drought only,944.0,649.0,378.0,205.0,102.0
+20067,Grant,KS,Midwest,Drought only,897.0,736.0,532.0,334.0,158.0
+20069,Gray,KS,Midwest,Drought only,897.0,673.0,444.0,245.0,128.0
+20071,Greeley,KS,Midwest,Drought only,938.0,652.0,466.0,250.0,87.0
+20073,Greenwood,KS,Midwest,Neither,691.0,428.0,212.0,118.0,62.0
+20075,Hamilton,KS,Midwest,Drought only,931.0,753.0,573.0,292.0,105.0
+20077,Harper,KS,Midwest,Drought only,777.0,530.0,364.0,199.0,109.0
+20079,Harvey,KS,Midwest,Neither,706.0,457.0,268.0,168.0,43.0
+20081,Haskell,KS,Midwest,Drought only,878.0,695.0,461.0,251.0,135.0
+20083,Hodgeman,KS,Midwest,Drought only,869.0,649.0,404.0,199.0,75.0
+20085,Jackson,KS,Midwest,Fire only,743.0,370.0,164.0,60.0,1.0
+20087,Jefferson,KS,Midwest,Neither,689.0,370.0,152.0,68.0,11.0
+20089,Jewell,KS,Midwest,Neither,914.0,600.0,248.0,94.0,27.0
+20091,Johnson,KS,Midwest,Neither,649.0,353.0,140.0,40.0,12.0
+20093,Kearny,KS,Midwest,Drought only,904.0,749.0,582.0,283.0,116.0
+20095,Kingman,KS,Midwest,Neither,750.0,525.0,300.0,159.0,71.0
+20097,Kiowa,KS,Midwest,Drought only,807.0,562.0,351.0,190.0,87.0
+20099,Labette,KS,Midwest,Neither,668.0,431.0,233.0,101.0,19.0
+20101,Lane,KS,Midwest,Drought only,910.0,679.0,396.0,201.0,111.0
+20103,Leavenworth,KS,Midwest,Neither,673.0,366.0,158.0,79.0,11.0
+20105,Lincoln,KS,Midwest,Neither,820.0,474.0,227.0,98.0,18.0
+20107,Linn,KS,Midwest,Neither,620.0,376.0,144.0,33.0,6.0
+20109,Logan,KS,Midwest,Drought only,958.0,706.0,422.0,213.0,100.0
+20111,Lyon,KS,Midwest,Neither,689.0,381.0,178.0,88.0,13.0
+20113,McPherson,KS,Midwest,Neither,739.0,482.0,275.0,168.0,32.0
+20115,Marion,KS,Midwest,Neither,735.0,427.0,224.0,107.0,7.0
+20117,Marshall,KS,Midwest,Neither,741.0,444.0,203.0,21.0,0.0
+20119,Meade,KS,Midwest,Drought only,917.0,675.0,439.0,268.0,122.0
+20121,Miami,KS,Midwest,Neither,647.0,348.0,117.0,24.0,7.0
+20123,Mitchell,KS,Midwest,Neither,840.0,483.0,230.0,87.0,10.0
+20125,Montgomery,KS,Midwest,Neither,683.0,434.0,290.0,130.0,66.0
+20127,Morris,KS,Midwest,Neither,756.0,375.0,175.0,90.0,12.0
+20129,Morton,KS,Midwest,Fire + Drought,952.0,768.0,556.0,367.0,178.0
+20131,Nemaha,KS,Midwest,Neither,753.0,436.0,162.0,46.0,1.0
+20133,Neosho,KS,Midwest,Neither,647.0,405.0,184.0,79.0,18.0
+20135,Ness,KS,Midwest,Drought only,908.0,679.0,424.0,184.0,73.0
+20137,Norton,KS,Midwest,Drought only,981.0,649.0,419.0,223.0,76.0
+20139,Osage,KS,Midwest,Neither,680.0,366.0,152.0,57.0,9.0
+20141,Osborne,KS,Midwest,Fire + Drought,870.0,528.0,266.0,105.0,37.0
+20143,Ottawa,KS,Midwest,Neither,800.0,421.0,161.0,23.0,9.0
+20145,Pawnee,KS,Midwest,Drought only,900.0,584.0,343.0,173.0,66.0
+20147,Phillips,KS,Midwest,Drought only,897.0,612.0,377.0,159.0,60.0
+20149,Pottawatomie,KS,Midwest,Neither,760.0,392.0,153.0,43.0,1.0
+20151,Pratt,KS,Midwest,Drought only,786.0,537.0,333.0,170.0,74.0
+20153,Rawlins,KS,Midwest,Drought only,1028.0,789.0,484.0,273.0,98.0
+20155,Reno,KS,Midwest,Drought only,775.0,520.0,308.0,199.0,78.0
+20157,Republic,KS,Midwest,Neither,848.0,478.0,209.0,46.0,0.0
+20159,Rice,KS,Midwest,Drought only,791.0,511.0,259.0,172.0,36.0
+20161,Riley,KS,Midwest,Neither,788.0,426.0,152.0,44.0,1.0
+20163,Rooks,KS,Midwest,Drought only,871.0,587.0,314.0,131.0,66.0
+20165,Rush,KS,Midwest,Drought only,883.0,610.0,337.0,150.0,81.0
+20167,Russell,KS,Midwest,Fire + Drought,871.0,561.0,272.0,141.0,46.0
+20169,Saline,KS,Midwest,Neither,786.0,400.0,173.0,94.0,13.0
+20171,Scott,KS,Midwest,Drought only,912.0,692.0,488.0,211.0,112.0
+20173,Sedgwick,KS,Midwest,Neither,714.0,494.0,269.0,162.0,56.0
+20175,Seward,KS,Midwest,Drought only,895.0,680.0,430.0,320.0,170.0
+20177,Shawnee,KS,Midwest,Neither,711.0,379.0,139.0,48.0,8.0
+20179,Sheridan,KS,Midwest,Drought only,975.0,679.0,405.0,196.0,108.0
+20181,Sherman,KS,Midwest,Drought only,953.0,681.0,464.0,225.0,53.0
+20183,Smith,KS,Midwest,Drought only,910.0,608.0,325.0,142.0,28.0
+20185,Stafford,KS,Midwest,Fire + Drought,841.0,538.0,287.0,205.0,78.0
+20187,Stanton,KS,Midwest,Fire + Drought,925.0,776.0,608.0,351.0,117.0
+20189,Stevens,KS,Midwest,Drought only,939.0,722.0,510.0,362.0,180.0
+20191,Sumner,KS,Midwest,Neither,756.0,535.0,362.0,186.0,97.0
+20193,Thomas,KS,Midwest,Drought only,975.0,721.0,454.0,244.0,101.0
+20195,Trego,KS,Midwest,Drought only,931.0,672.0,348.0,184.0,113.0
+20197,Wabaunsee,KS,Midwest,Fire only,714.0,384.0,137.0,66.0,12.0
+20199,Wallace,KS,Midwest,Drought only,968.0,677.0,463.0,227.0,62.0
+20201,Washington,KS,Midwest,Neither,775.0,476.0,193.0,19.0,0.0
+20203,Wichita,KS,Midwest,Fire + Drought,946.0,661.0,500.0,234.0,94.0
+20205,Wilson,KS,Midwest,Neither,653.0,399.0,221.0,113.0,63.0
+20207,Woodson,KS,Midwest,Neither,640.0,391.0,179.0,110.0,28.0
+20209,Wyandotte,KS,Midwest,Neither,637.0,320.0,137.0,44.0,11.0
+21001,Adair,KY,South,Neither,370.0,168.0,72.0,22.0,0.0
+21003,Allen,KY,South,Neither,411.0,174.0,66.0,14.0,0.0
+21005,Anderson,KY,South,Neither,312.0,165.0,57.0,10.0,0.0
+21007,Ballard,KY,South,Neither,408.0,197.0,86.0,28.0,9.0
+21009,Barren,KY,South,Neither,401.0,165.0,64.0,14.0,0.0
+21011,Bath,KY,South,Neither,342.0,145.0,55.0,10.0,0.0
+21013,Bell,KY,South,Neither,441.0,217.0,85.0,41.0,11.0
+21015,Boone,KY,South,Neither,307.0,138.0,46.0,9.0,0.0
+21017,Bourbon,KY,South,Neither,328.0,151.0,65.0,10.0,0.0
+21019,Boyd,KY,South,Neither,324.0,139.0,55.0,6.0,0.0
+21021,Boyle,KY,South,Neither,358.0,169.0,59.0,10.0,0.0
+21023,Bracken,KY,South,Neither,296.0,136.0,36.0,8.0,0.0
+21025,Breathitt,KY,South,Fire only,409.0,174.0,70.0,18.0,5.0
+21027,Breckinridge,KY,South,Neither,338.0,163.0,66.0,11.0,0.0
+21029,Bullitt,KY,South,Neither,305.0,163.0,43.0,8.0,0.0
+21031,Butler,KY,South,Neither,370.0,180.0,72.0,13.0,0.0
+21033,Caldwell,KY,South,Neither,337.0,170.0,75.0,21.0,5.0
+21035,Calloway,KY,South,Neither,407.0,220.0,107.0,34.0,7.0
+21037,Campbell,KY,South,Neither,294.0,129.0,37.0,8.0,0.0
+21039,Carlisle,KY,South,Neither,422.0,210.0,96.0,31.0,9.0
+21041,Carroll,KY,South,Neither,305.0,128.0,46.0,12.0,0.0
+21043,Carter,KY,South,Neither,344.0,149.0,68.0,12.0,0.0
+21045,Casey,KY,South,Neither,390.0,179.0,75.0,22.0,0.0
+21047,Christian,KY,South,Neither,405.0,207.0,84.0,21.0,6.0
+21049,Clark,KY,South,Neither,341.0,156.0,59.0,10.0,0.0
+21051,Clay,KY,South,Fire only,397.0,185.0,82.0,34.0,7.0
+21053,Clinton,KY,South,Neither,383.0,188.0,68.0,27.0,1.0
+21055,Crittenden,KY,South,Neither,363.0,163.0,75.0,21.0,5.0
+21057,Cumberland,KY,South,Neither,406.0,178.0,66.0,16.0,0.0
+21059,Daviess,KY,South,Neither,334.0,155.0,71.0,22.0,5.0
+21061,Edmonson,KY,South,Neither,368.0,154.0,70.0,9.0,0.0
+21063,Elliott,KY,South,Neither,327.0,140.0,68.0,10.0,0.0
+21065,Estill,KY,South,Neither,352.0,159.0,60.0,10.0,0.0
+21067,Fayette,KY,South,Neither,329.0,164.0,58.0,10.0,0.0
+21069,Fleming,KY,South,Neither,317.0,144.0,64.0,10.0,0.0
+21071,Floyd,KY,South,Neither,401.0,180.0,79.0,23.0,4.0
+21073,Franklin,KY,South,Neither,296.0,154.0,43.0,10.0,0.0
+21075,Fulton,KY,South,Neither,448.0,230.0,111.0,40.0,7.0
+21077,Gallatin,KY,South,Neither,295.0,128.0,49.0,12.0,0.0
+21079,Garrard,KY,South,Neither,362.0,167.0,59.0,13.0,0.0
+21081,Grant,KY,South,Neither,291.0,134.0,45.0,8.0,0.0
+21083,Graves,KY,South,Neither,440.0,234.0,108.0,33.0,9.0
+21085,Grayson,KY,South,Neither,356.0,182.0,77.0,9.0,0.0
+21087,Green,KY,South,Neither,382.0,160.0,67.0,11.0,0.0
+21089,Greenup,KY,South,Neither,336.0,137.0,56.0,12.0,0.0
+21091,Hancock,KY,South,Neither,329.0,138.0,57.0,21.0,0.0
+21093,Hardin,KY,South,Neither,343.0,181.0,72.0,10.0,0.0
+21095,Harlan,KY,South,Neither,444.0,224.0,87.0,41.0,15.0
+21097,Harrison,KY,South,Neither,308.0,139.0,50.0,9.0,0.0
+21099,Hart,KY,South,Neither,373.0,167.0,66.0,9.0,0.0
+21101,Henderson,KY,South,Neither,341.0,154.0,48.0,24.0,6.0
+21103,Henry,KY,South,Neither,306.0,131.0,41.0,13.0,0.0
+21105,Hickman,KY,South,Neither,430.0,227.0,109.0,40.0,7.0
+21107,Hopkins,KY,South,Neither,347.0,169.0,82.0,21.0,5.0
+21109,Jackson,KY,South,Neither,379.0,161.0,66.0,21.0,5.0
+21111,Jefferson,KY,South,Neither,314.0,147.0,41.0,11.0,0.0
+21113,Jessamine,KY,South,Neither,330.0,162.0,60.0,9.0,0.0
+21115,Johnson,KY,South,Neither,372.0,160.0,70.0,12.0,0.0
+21117,Kenton,KY,South,Neither,293.0,136.0,39.0,8.0,0.0
+21119,Knott,KY,South,Neither,399.0,188.0,74.0,25.0,5.0
+21121,Knox,KY,South,Neither,400.0,190.0,75.0,40.0,8.0
+21123,Larue,KY,South,Neither,345.0,165.0,61.0,6.0,0.0
+21125,Laurel,KY,South,Neither,384.0,171.0,75.0,31.0,7.0
+21127,Lawrence,KY,South,Neither,368.0,155.0,73.0,12.0,0.0
+21129,Lee,KY,South,Neither,372.0,151.0,60.0,12.0,5.0
+21131,Leslie,KY,South,Fire only,386.0,197.0,73.0,35.0,10.0
+21133,Letcher,KY,South,Neither,434.0,210.0,75.0,33.0,15.0
+21135,Lewis,KY,South,Neither,329.0,141.0,50.0,10.0,0.0
+21137,Lincoln,KY,South,Neither,373.0,174.0,73.0,22.0,0.0
+21139,Livingston,KY,South,Neither,394.0,188.0,83.0,23.0,8.0
+21141,Logan,KY,South,Neither,417.0,180.0,78.0,16.0,3.0
+21143,Lyon,KY,South,Fire only,368.0,176.0,79.0,22.0,5.0
+21145,McCracken,KY,South,Neither,414.0,200.0,88.0,23.0,8.0
+21147,McCreary,KY,South,Fire only,418.0,207.0,81.0,40.0,8.0
+21149,McLean,KY,South,Neither,326.0,157.0,69.0,20.0,5.0
+21151,Madison,KY,South,Neither,357.0,171.0,66.0,10.0,0.0
+21153,Magoffin,KY,South,Neither,392.0,180.0,74.0,16.0,4.0
+21155,Marion,KY,South,Neither,360.0,175.0,67.0,7.0,0.0
+21157,Marshall,KY,South,Neither,397.0,206.0,100.0,29.0,8.0
+21159,Martin,KY,South,Neither,366.0,145.0,57.0,11.0,0.0
+21161,Mason,KY,South,Neither,290.0,139.0,43.0,10.0,0.0
+21163,Meade,KY,South,Neither,325.0,148.0,61.0,8.0,0.0
+21165,Menifee,KY,South,Neither,349.0,144.0,56.0,10.0,0.0
+21167,Mercer,KY,South,Neither,345.0,169.0,64.0,10.0,0.0
+21169,Metcalfe,KY,South,Neither,386.0,150.0,69.0,15.0,0.0
+21171,Monroe,KY,South,Neither,388.0,178.0,59.0,14.0,0.0
+21173,Montgomery,KY,South,Neither,337.0,142.0,52.0,10.0,0.0
+21175,Morgan,KY,South,Neither,371.0,157.0,73.0,12.0,0.0
+21177,Muhlenberg,KY,South,Neither,357.0,181.0,72.0,17.0,0.0
+21179,Nelson,KY,South,Neither,337.0,173.0,61.0,6.0,0.0
+21181,Nicholas,KY,South,Neither,320.0,138.0,56.0,10.0,0.0
+21183,Ohio,KY,South,Neither,352.0,192.0,77.0,22.0,0.0
+21185,Oldham,KY,South,Neither,301.0,131.0,44.0,11.0,0.0
+21187,Owen,KY,South,Neither,313.0,146.0,50.0,13.0,0.0
+21189,Owsley,KY,South,Neither,377.0,172.0,68.0,22.0,7.0
+21191,Pendleton,KY,South,Neither,294.0,129.0,43.0,8.0,0.0
+21193,Perry,KY,South,Neither,429.0,197.0,77.0,32.0,7.0
+21195,Pike,KY,South,Neither,432.0,184.0,67.0,26.0,4.0
+21197,Powell,KY,South,Neither,354.0,152.0,59.0,10.0,0.0
+21199,Pulaski,KY,South,Neither,403.0,185.0,75.0,27.0,5.0
+21201,Robertson,KY,South,Neither,284.0,138.0,41.0,9.0,0.0
+21203,Rockcastle,KY,South,Fire only,379.0,161.0,70.0,26.0,5.0
+21205,Rowan,KY,South,Neither,331.0,144.0,59.0,10.0,0.0
+21207,Russell,KY,South,Neither,387.0,162.0,68.0,23.0,0.0
+21209,Scott,KY,South,Neither,312.0,158.0,55.0,9.0,0.0
+21211,Shelby,KY,South,Neither,299.0,155.0,43.0,13.0,0.0
+21213,Simpson,KY,South,Neither,418.0,169.0,64.0,13.0,3.0
+21215,Spencer,KY,South,Neither,292.0,149.0,45.0,8.0,0.0
+21217,Taylor,KY,South,Neither,363.0,170.0,71.0,12.0,0.0
+21219,Todd,KY,South,Neither,408.0,176.0,71.0,18.0,5.0
+21221,Trigg,KY,South,Neither,397.0,200.0,95.0,22.0,6.0
+21223,Trimble,KY,South,Neither,314.0,132.0,47.0,11.0,0.0
+21225,Union,KY,South,Neither,343.0,157.0,59.0,20.0,6.0
+21227,Warren,KY,South,Neither,406.0,157.0,73.0,11.0,0.0
+21229,Washington,KY,South,Neither,332.0,169.0,59.0,8.0,0.0
+21231,Wayne,KY,South,Neither,415.0,194.0,71.0,28.0,5.0
+21233,Webster,KY,South,Neither,334.0,153.0,65.0,20.0,6.0
+21235,Whitley,KY,South,Neither,424.0,204.0,85.0,41.0,8.0
+21237,Wolfe,KY,South,Neither,367.0,155.0,60.0,12.0,4.0
+21239,Woodford,KY,South,Neither,311.0,173.0,57.0,10.0,0.0
+22001,Acadia,LA,South,Neither,612.0,331.0,192.0,93.0,28.0
+22003,Allen,LA,South,Neither,588.0,355.0,198.0,97.0,45.0
+22005,Ascension,LA,South,Neither,571.0,278.0,131.0,72.0,31.0
+22007,Assumption,LA,South,Neither,604.0,308.0,150.0,79.0,33.0
+22009,Avoyelles,LA,South,Neither,651.0,377.0,183.0,68.0,35.0
+22011,Beauregard,LA,South,Neither,589.0,344.0,183.0,108.0,57.0
+22013,Bienville,LA,South,Neither,682.0,370.0,209.0,113.0,23.0
+22015,Bossier,LA,South,Neither,726.0,466.0,254.0,121.0,30.0
+22017,Caddo,LA,South,Neither,740.0,490.0,273.0,120.0,39.0
+22019,Calcasieu,LA,South,Neither,615.0,362.0,199.0,104.0,50.0
+22021,Caldwell,LA,South,Neither,620.0,339.0,187.0,109.0,22.0
+22023,Cameron,LA,South,Fire only,643.0,361.0,210.0,108.0,37.0
+22025,Catahoula,LA,South,Neither,648.0,375.0,193.0,77.0,31.0
+22027,Claiborne,LA,South,Neither,686.0,392.0,230.0,118.0,20.0
+22029,Concordia,LA,South,Neither,676.0,361.0,179.0,70.0,29.0
+22031,De Soto,LA,South,Neither,672.0,395.0,225.0,102.0,37.0
+22033,East Baton Rouge,LA,South,Neither,575.0,258.0,130.0,72.0,30.0
+22035,East Carroll,LA,South,Neither,594.0,311.0,176.0,75.0,3.0
+22037,East Feliciana,LA,South,Neither,561.0,263.0,130.0,61.0,21.0
+22039,Evangeline,LA,South,Neither,601.0,375.0,195.0,80.0,39.0
+22041,Franklin,LA,South,Neither,636.0,367.0,189.0,94.0,19.0
+22043,Grant,LA,South,Neither,633.0,367.0,197.0,107.0,39.0
+22045,Iberia,LA,South,Neither,640.0,327.0,159.0,82.0,29.0
+22047,Iberville,LA,South,Neither,600.0,300.0,140.0,76.0,29.0
+22049,Jackson,LA,South,Neither,635.0,328.0,190.0,107.0,16.0
+22051,Jefferson,LA,South,Neither,620.0,341.0,158.0,99.0,33.0
+22053,Jefferson Davis,LA,South,Neither,592.0,347.0,212.0,107.0,38.0
+22055,Lafayette,LA,South,Neither,560.0,311.0,167.0,76.0,23.0
+22057,Lafourche,LA,South,Neither,628.0,333.0,162.0,99.0,37.0
+22059,LaSalle,LA,South,Neither,631.0,363.0,190.0,104.0,34.0
+22061,Lincoln,LA,South,Neither,641.0,345.0,189.0,103.0,9.0
+22063,Livingston,LA,South,Neither,591.0,298.0,143.0,72.0,34.0
+22065,Madison,LA,South,Neither,620.0,324.0,174.0,69.0,16.0
+22067,Morehouse,LA,South,Neither,644.0,354.0,207.0,115.0,2.0
+22069,Natchitoches,LA,South,Fire only,663.0,373.0,211.0,116.0,54.0
+22071,Orleans,LA,South,Neither,576.0,304.0,135.0,75.0,27.0
+22073,Ouachita,LA,South,Neither,608.0,338.0,193.0,110.0,6.0
+22075,Plaquemines,LA,South,Neither,590.0,318.0,155.0,92.0,26.0
+22077,Pointe Coupee,LA,South,Neither,588.0,310.0,147.0,71.0,30.0
+22079,Rapides,LA,South,Fire only,653.0,393.0,205.0,102.0,52.0
+22081,Red River,LA,South,Neither,642.0,366.0,202.0,101.0,32.0
+22083,Richland,LA,South,Neither,618.0,341.0,207.0,100.0,16.0
+22085,Sabine,LA,South,Neither,635.0,360.0,218.0,94.0,60.0
+22087,St. Bernard,LA,South,Neither,609.0,342.0,153.0,78.0,30.0
+22089,St. Charles,LA,South,Neither,606.0,319.0,150.0,86.0,36.0
+22091,St. Helena,LA,South,Neither,554.0,267.0,118.0,59.0,22.0
+22093,St. James,LA,South,Neither,571.0,283.0,130.0,74.0,33.0
+22095,St. John the Baptist,LA,South,Neither,578.0,285.0,144.0,79.0,33.0
+22097,St. Landry,LA,South,Neither,623.0,362.0,187.0,79.0,32.0
+22099,St. Martin,LA,South,Neither,676.0,369.0,175.0,91.0,32.0
+22101,St. Mary,LA,South,Neither,628.0,323.0,153.0,85.0,31.0
+22103,St. Tammany,LA,South,Neither,612.0,287.0,128.0,75.0,35.0
+22105,Tangipahoa,LA,South,Neither,609.0,315.0,133.0,69.0,32.0
+22107,Tensas,LA,South,Neither,635.0,320.0,154.0,50.0,20.0
+22109,Terrebonne,LA,South,Neither,609.0,333.0,159.0,95.0,36.0
+22111,Union,LA,South,Neither,680.0,361.0,226.0,108.0,9.0
+22113,Vermilion,LA,South,Neither,648.0,343.0,185.0,95.0,35.0
+22115,Vernon,LA,South,Fire only,627.0,360.0,185.0,105.0,60.0
+22117,Washington,LA,South,Neither,555.0,278.0,115.0,59.0,25.0
+22119,Webster,LA,South,Neither,704.0,422.0,237.0,128.0,18.0
+22121,West Baton Rouge,LA,South,Neither,530.0,264.0,126.0,70.0,29.0
+22123,West Carroll,LA,South,Neither,564.0,322.0,199.0,78.0,0.0
+22125,West Feliciana,LA,South,Neither,599.0,295.0,145.0,62.0,25.0
+22127,Winn,LA,South,Neither,639.0,356.0,204.0,114.0,40.0
+23001,Androscoggin,ME,Northeast,Neither,499.0,225.0,88.0,35.0,0.0
+23003,Aroostook,ME,Northeast,Neither,425.0,240.0,79.0,20.0,0.0
+23005,Cumberland,ME,Northeast,Neither,525.0,271.0,92.0,33.0,0.0
+23007,Franklin,ME,Northeast,Neither,477.0,235.0,112.0,26.0,0.0
+23009,Hancock,ME,Northeast,Neither,481.0,208.0,77.0,23.0,0.0
+23011,Kennebec,ME,Northeast,Neither,465.0,215.0,84.0,28.0,0.0
+23013,Knox,ME,Northeast,Neither,464.0,232.0,84.0,30.0,0.0
+23015,Lincoln,ME,Northeast,Neither,464.0,255.0,85.0,29.0,0.0
+23017,Oxford,ME,Northeast,Neither,539.0,265.0,118.0,28.0,0.0
+23019,Penobscot,ME,Northeast,Neither,458.0,252.0,88.0,26.0,0.0
+23021,Piscataquis,ME,Northeast,Neither,495.0,254.0,91.0,17.0,0.0
+23023,Sagadahoc,ME,Northeast,Neither,465.0,257.0,84.0,29.0,0.0
+23025,Somerset,ME,Northeast,Neither,523.0,265.0,130.0,26.0,0.0
+23027,Waldo,ME,Northeast,Neither,480.0,240.0,85.0,23.0,0.0
+23029,Washington,ME,Northeast,Neither,428.0,199.0,78.0,23.0,0.0
+23031,York,ME,Northeast,Neither,522.0,272.0,114.0,33.0,0.0
+24001,Allegany,MD,South,Neither,512.0,163.0,63.0,20.0,0.0
+24003,Anne Arundel,MD,South,Neither,458.0,258.0,101.0,20.0,2.0
+24005,Baltimore,MD,South,Neither,451.0,214.0,91.0,23.0,1.0
+24009,Calvert,MD,South,Neither,480.0,233.0,93.0,13.0,2.0
+24011,Caroline,MD,South,Neither,414.0,220.0,97.0,22.0,2.0
+24013,Carroll,MD,South,Neither,457.0,219.0,66.0,21.0,0.0
+24015,Cecil,MD,South,Neither,407.0,186.0,77.0,28.0,2.0
+24017,Charles,MD,South,Neither,510.0,246.0,92.0,15.0,2.0
+24019,Dorchester,MD,South,Fire only,478.0,234.0,110.0,13.0,2.0
+24021,Frederick,MD,South,Neither,482.0,241.0,88.0,23.0,0.0
+24023,Garrett,MD,South,Neither,497.0,127.0,53.0,21.0,0.0
+24025,Harford,MD,South,Neither,416.0,195.0,87.0,28.0,2.0
+24027,Howard,MD,South,Neither,436.0,235.0,75.0,23.0,0.0
+24029,Kent,MD,South,Neither,406.0,195.0,79.0,24.0,2.0
+24031,Montgomery,MD,South,Neither,461.0,272.0,90.0,19.0,0.0
+24033,Prince George's,MD,South,Neither,488.0,255.0,107.0,20.0,2.0
+24035,Queen Anne's,MD,South,Neither,418.0,197.0,87.0,23.0,2.0
+24037,St. Mary's,MD,South,Neither,476.0,234.0,108.0,14.0,2.0
+24039,Somerset,MD,South,Neither,472.0,242.0,100.0,16.0,2.0
+24041,Talbot,MD,South,Neither,424.0,212.0,91.0,14.0,2.0
+24043,Washington,MD,South,Neither,535.0,217.0,87.0,17.0,0.0
+24045,Wicomico,MD,South,Neither,453.0,232.0,103.0,15.0,2.0
+24047,Worcester,MD,South,Neither,467.0,239.0,97.0,14.0,1.0
+24510,Baltimore,MD,South,Neither,392.0,201.0,80.0,23.0,0.0
+25001,Barnstable,MA,Northeast,Fire only,424.0,187.0,49.0,16.0,0.0
+25003,Berkshire,MA,Northeast,Neither,437.0,204.0,68.0,12.0,0.0
+25005,Bristol,MA,Northeast,Neither,436.0,187.0,61.0,21.0,0.0
+25007,Dukes,MA,Northeast,Neither,410.0,139.0,41.0,12.0,0.0
+25009,Essex,MA,Northeast,Neither,463.0,255.0,103.0,37.0,0.0
+25011,Franklin,MA,Northeast,Neither,419.0,209.0,97.0,25.0,0.0
+25013,Hampden,MA,Northeast,Neither,457.0,225.0,97.0,31.0,0.0
+25015,Hampshire,MA,Northeast,Neither,421.0,210.0,88.0,24.0,0.0
+25017,Middlesex,MA,Northeast,Neither,493.0,268.0,117.0,38.0,0.0
+25019,Nantucket,MA,Northeast,Neither,369.0,164.0,33.0,4.0,0.0
+25021,Norfolk,MA,Northeast,Neither,443.0,195.0,73.0,34.0,0.0
+25023,Plymouth,MA,Northeast,Neither,452.0,165.0,71.0,29.0,0.0
+25025,Suffolk,MA,Northeast,Neither,414.0,173.0,65.0,28.0,0.0
+25027,Worcester,MA,Northeast,Neither,479.0,267.0,117.0,31.0,0.0
+26001,Alcona,MI,Midwest,Neither,410.0,140.0,42.0,0.0,0.0
+26003,Alger,MI,Midwest,Neither,510.0,177.0,43.0,8.0,0.0
+26005,Allegan,MI,Midwest,Neither,396.0,187.0,47.0,0.0,0.0
+26007,Alpena,MI,Midwest,Neither,440.0,143.0,42.0,0.0,0.0
+26009,Antrim,MI,Midwest,Neither,466.0,165.0,26.0,0.0,0.0
+26011,Arenac,MI,Midwest,Neither,421.0,188.0,48.0,0.0,0.0
+26013,Baraga,MI,Midwest,Neither,575.0,234.0,61.0,11.0,0.0
+26015,Barry,MI,Midwest,Neither,414.0,189.0,36.0,0.0,0.0
+26017,Bay,MI,Midwest,Neither,448.0,173.0,67.0,0.0,0.0
+26019,Benzie,MI,Midwest,Neither,467.0,139.0,38.0,0.0,0.0
+26021,Berrien,MI,Midwest,Neither,458.0,209.0,74.0,0.0,0.0
+26023,Branch,MI,Midwest,Neither,502.0,238.0,48.0,4.0,0.0
+26025,Calhoun,MI,Midwest,Neither,464.0,213.0,27.0,0.0,0.0
+26027,Cass,MI,Midwest,Neither,483.0,235.0,69.0,4.0,0.0
+26029,Charlevoix,MI,Midwest,Neither,531.0,164.0,34.0,0.0,0.0
+26031,Cheboygan,MI,Midwest,Neither,455.0,155.0,28.0,0.0,0.0
+26033,Chippewa,MI,Midwest,Neither,438.0,161.0,26.0,0.0,0.0
+26035,Clare,MI,Midwest,Neither,416.0,167.0,41.0,0.0,0.0
+26037,Clinton,MI,Midwest,Neither,429.0,174.0,28.0,0.0,0.0
+26039,Crawford,MI,Midwest,Neither,441.0,161.0,44.0,0.0,0.0
+26041,Delta,MI,Midwest,Neither,552.0,238.0,85.0,7.0,0.0
+26043,Dickinson,MI,Midwest,Neither,613.0,290.0,121.0,11.0,0.0
+26045,Eaton,MI,Midwest,Neither,410.0,170.0,29.0,0.0,0.0
+26047,Emmet,MI,Midwest,Neither,416.0,139.0,22.0,0.0,0.0
+26049,Genesee,MI,Midwest,Neither,428.0,144.0,29.0,0.0,0.0
+26051,Gladwin,MI,Midwest,Neither,417.0,192.0,57.0,0.0,0.0
+26053,Gogebic,MI,Midwest,Neither,684.0,368.0,141.0,12.0,0.0
+26055,Grand Traverse,MI,Midwest,Neither,465.0,172.0,44.0,0.0,0.0
+26057,Gratiot,MI,Midwest,Neither,417.0,179.0,67.0,0.0,0.0
+26059,Hillsdale,MI,Midwest,Neither,502.0,236.0,44.0,4.0,0.0
+26061,Houghton,MI,Midwest,Neither,621.0,275.0,75.0,11.0,0.0
+26063,Huron,MI,Midwest,Neither,485.0,222.0,69.0,0.0,0.0
+26065,Ingham,MI,Midwest,Neither,411.0,167.0,30.0,0.0,0.0
+26067,Ionia,MI,Midwest,Neither,436.0,188.0,32.0,0.0,0.0
+26069,Iosco,MI,Midwest,Neither,415.0,174.0,42.0,0.0,0.0
+26071,Iron,MI,Midwest,Neither,652.0,332.0,107.0,12.0,0.0
+26073,Isabella,MI,Midwest,Neither,422.0,158.0,41.0,0.0,0.0
+26075,Jackson,MI,Midwest,Neither,480.0,201.0,30.0,0.0,0.0
+26077,Kalamazoo,MI,Midwest,Neither,428.0,200.0,42.0,0.0,0.0
+26079,Kalkaska,MI,Midwest,Neither,452.0,163.0,36.0,0.0,0.0
+26081,Kent,MI,Midwest,Neither,445.0,187.0,35.0,0.0,0.0
+26083,Keweenaw,MI,Midwest,Neither,619.0,249.0,65.0,7.0,0.0
+26085,Lake,MI,Midwest,Neither,447.0,171.0,39.0,0.0,0.0
+26087,Lapeer,MI,Midwest,Neither,448.0,148.0,27.0,0.0,0.0
+26089,Leelanau,MI,Midwest,Neither,480.0,152.0,23.0,0.0,0.0
+26091,Lenawee,MI,Midwest,Neither,505.0,236.0,47.0,5.0,0.0
+26093,Livingston,MI,Midwest,Neither,421.0,143.0,29.0,0.0,0.0
+26095,Luce,MI,Midwest,Neither,412.0,174.0,27.0,1.0,0.0
+26097,Mackinac,MI,Midwest,Neither,491.0,180.0,31.0,0.0,0.0
+26099,Macomb,MI,Midwest,Neither,399.0,133.0,17.0,0.0,0.0
+26101,Manistee,MI,Midwest,Neither,431.0,179.0,47.0,0.0,0.0
+26103,Marquette,MI,Midwest,Neither,607.0,252.0,100.0,11.0,0.0
+26105,Mason,MI,Midwest,Neither,413.0,181.0,42.0,0.0,0.0
+26107,Mecosta,MI,Midwest,Neither,418.0,126.0,29.0,0.0,0.0
+26109,Menominee,MI,Midwest,Neither,586.0,239.0,94.0,6.0,0.0
+26111,Midland,MI,Midwest,Neither,419.0,171.0,65.0,0.0,0.0
+26113,Missaukee,MI,Midwest,Neither,432.0,156.0,37.0,0.0,0.0
+26115,Monroe,MI,Midwest,Neither,439.0,207.0,48.0,0.0,0.0
+26117,Montcalm,MI,Midwest,Neither,435.0,156.0,45.0,0.0,0.0
+26119,Montmorency,MI,Midwest,Neither,438.0,164.0,45.0,0.0,0.0
+26121,Muskegon,MI,Midwest,Neither,354.0,127.0,37.0,0.0,0.0
+26123,Newaygo,MI,Midwest,Neither,431.0,150.0,29.0,0.0,0.0
+26125,Oakland,MI,Midwest,Neither,445.0,154.0,28.0,0.0,0.0
+26127,Oceana,MI,Midwest,Neither,398.0,137.0,17.0,0.0,0.0
+26129,Ogemaw,MI,Midwest,Neither,426.0,181.0,42.0,0.0,0.0
+26131,Ontonagon,MI,Midwest,Neither,654.0,315.0,115.0,11.0,0.0
+26133,Osceola,MI,Midwest,Neither,426.0,142.0,32.0,0.0,0.0
+26135,Oscoda,MI,Midwest,Neither,434.0,161.0,41.0,0.0,0.0
+26137,Otsego,MI,Midwest,Neither,445.0,173.0,41.0,0.0,0.0
+26139,Ottawa,MI,Midwest,Neither,362.0,173.0,49.0,0.0,0.0
+26141,Presque Isle,MI,Midwest,Neither,416.0,147.0,45.0,0.0,0.0
+26143,Roscommon,MI,Midwest,Neither,405.0,163.0,37.0,0.0,0.0
+26145,Saginaw,MI,Midwest,Neither,460.0,188.0,60.0,0.0,0.0
+26147,St. Clair,MI,Midwest,Neither,424.0,139.0,24.0,0.0,0.0
+26149,St. Joseph,MI,Midwest,Neither,513.0,254.0,61.0,4.0,0.0
+26151,Sanilac,MI,Midwest,Neither,510.0,191.0,51.0,0.0,0.0
+26153,Schoolcraft,MI,Midwest,Neither,483.0,203.0,29.0,2.0,0.0
+26155,Shiawassee,MI,Midwest,Neither,429.0,137.0,29.0,0.0,0.0
+26157,Tuscola,MI,Midwest,Neither,503.0,233.0,65.0,0.0,0.0
+26159,Van Buren,MI,Midwest,Neither,413.0,172.0,52.0,0.0,0.0
+26161,Washtenaw,MI,Midwest,Neither,455.0,181.0,29.0,0.0,0.0
+26163,Wayne,MI,Midwest,Neither,428.0,152.0,28.0,0.0,0.0
+26165,Wexford,MI,Midwest,Neither,436.0,154.0,46.0,0.0,0.0
+27001,Aitkin,MN,Midwest,Neither,739.0,378.0,172.0,59.0,3.0
+27003,Anoka,MN,Midwest,Neither,622.0,377.0,119.0,28.0,0.0
+27005,Becker,MN,Midwest,Fire only,692.0,416.0,143.0,48.0,0.0
+27007,Beltrami,MN,Midwest,Neither,885.0,536.0,245.0,93.0,6.0
+27009,Benton,MN,Midwest,Neither,618.0,267.0,121.0,24.0,0.0
+27011,Big Stone,MN,Midwest,Neither,649.0,394.0,88.0,21.0,0.0
+27013,Blue Earth,MN,Midwest,Neither,606.0,356.0,151.0,46.0,0.0
+27015,Brown,MN,Midwest,Neither,598.0,301.0,147.0,51.0,0.0
+27017,Carlton,MN,Midwest,Neither,651.0,353.0,135.0,40.0,3.0
+27019,Carver,MN,Midwest,Neither,583.0,351.0,127.0,12.0,0.0
+27021,Cass,MN,Midwest,Neither,803.0,466.0,216.0,61.0,0.0
+27023,Chippewa,MN,Midwest,Neither,633.0,368.0,97.0,30.0,0.0
+27025,Chisago,MN,Midwest,Neither,606.0,410.0,135.0,10.0,0.0
+27027,Clay,MN,Midwest,Fire only,606.0,302.0,86.0,12.0,3.0
+27029,Clearwater,MN,Midwest,Fire only,791.0,442.0,191.0,79.0,6.0
+27031,Cook,MN,Midwest,Fire only,653.0,372.0,166.0,64.0,0.0
+27033,Cottonwood,MN,Midwest,Neither,595.0,298.0,156.0,44.0,0.0
+27035,Crow Wing,MN,Midwest,Neither,707.0,357.0,186.0,53.0,0.0
+27037,Dakota,MN,Midwest,Neither,598.0,349.0,157.0,24.0,0.0
+27039,Dodge,MN,Midwest,Neither,544.0,288.0,110.0,31.0,1.0
+27041,Douglas,MN,Midwest,Neither,689.0,399.0,81.0,14.0,0.0
+27043,Faribault,MN,Midwest,Neither,635.0,376.0,150.0,53.0,0.0
+27045,Fillmore,MN,Midwest,Neither,551.0,282.0,117.0,58.0,1.0
+27047,Freeborn,MN,Midwest,Neither,595.0,339.0,159.0,62.0,3.0
+27049,Goodhue,MN,Midwest,Neither,565.0,371.0,138.0,21.0,0.0
+27051,Grant,MN,Midwest,Neither,681.0,358.0,70.0,12.0,0.0
+27053,Hennepin,MN,Midwest,Neither,621.0,383.0,161.0,17.0,0.0
+27055,Houston,MN,Midwest,Neither,532.0,273.0,97.0,25.0,1.0
+27057,Hubbard,MN,Midwest,Neither,765.0,456.0,181.0,54.0,0.0
+27059,Isanti,MN,Midwest,Neither,610.0,335.0,118.0,15.0,0.0
+27061,Itasca,MN,Midwest,Neither,880.0,468.0,237.0,62.0,0.0
+27063,Jackson,MN,Midwest,Neither,623.0,348.0,155.0,36.0,0.0
+27065,Kanabec,MN,Midwest,Neither,615.0,298.0,107.0,41.0,0.0
+27067,Kandiyohi,MN,Midwest,Neither,601.0,320.0,89.0,34.0,0.0
+27069,Kittson,MN,Midwest,Neither,657.0,289.0,147.0,46.0,0.0
+27071,Koochiching,MN,Midwest,Neither,883.0,501.0,245.0,92.0,6.0
+27073,Lac qui Parle,MN,Midwest,Neither,639.0,380.0,119.0,31.0,0.0
+27075,Lake,MN,Midwest,Fire only,707.0,425.0,194.0,64.0,0.0
+27077,Lake of the Woods,MN,Midwest,Neither,801.0,460.0,182.0,94.0,6.0
+27079,Le Sueur,MN,Midwest,Neither,579.0,369.0,143.0,52.0,0.0
+27081,Lincoln,MN,Midwest,Neither,621.0,388.0,138.0,37.0,0.0
+27083,Lyon,MN,Midwest,Neither,611.0,370.0,149.0,42.0,0.0
+27085,McLeod,MN,Midwest,Neither,616.0,310.0,122.0,44.0,0.0
+27087,Mahnomen,MN,Midwest,Fire only,668.0,342.0,113.0,46.0,6.0
+27089,Marshall,MN,Midwest,Fire only,707.0,396.0,167.0,78.0,0.0
+27091,Martin,MN,Midwest,Neither,653.0,354.0,169.0,48.0,0.0
+27093,Meeker,MN,Midwest,Neither,610.0,310.0,101.0,38.0,0.0
+27095,Mille Lacs,MN,Midwest,Neither,621.0,321.0,128.0,45.0,0.0
+27097,Morrison,MN,Midwest,Neither,659.0,331.0,123.0,49.0,0.0
+27099,Mower,MN,Midwest,Neither,570.0,290.0,152.0,81.0,3.0
+27101,Murray,MN,Midwest,Neither,604.0,340.0,153.0,44.0,0.0
+27103,Nicollet,MN,Midwest,Neither,608.0,337.0,148.0,54.0,0.0
+27105,Nobles,MN,Midwest,Neither,600.0,353.0,151.0,35.0,0.0
+27107,Norman,MN,Midwest,Neither,643.0,325.0,115.0,21.0,6.0
+27109,Olmsted,MN,Midwest,Neither,546.0,314.0,110.0,31.0,1.0
+27111,Otter Tail,MN,Midwest,Neither,757.0,413.0,136.0,37.0,0.0
+27113,Pennington,MN,Midwest,Neither,703.0,389.0,115.0,78.0,6.0
+27115,Pine,MN,Midwest,Neither,614.0,404.0,133.0,41.0,3.0
+27117,Pipestone,MN,Midwest,Neither,594.0,369.0,147.0,49.0,0.0
+27119,Polk,MN,Midwest,Fire only,756.0,433.0,127.0,49.0,6.0
+27121,Pope,MN,Midwest,Neither,650.0,335.0,86.0,40.0,0.0
+27123,Ramsey,MN,Midwest,Neither,596.0,359.0,126.0,18.0,0.0
+27125,Red Lake,MN,Midwest,Neither,689.0,363.0,101.0,49.0,6.0
+27127,Redwood,MN,Midwest,Neither,606.0,334.0,155.0,42.0,0.0
+27129,Renville,MN,Midwest,Neither,595.0,321.0,135.0,38.0,0.0
+27131,Rice,MN,Midwest,Neither,568.0,357.0,134.0,26.0,0.0
+27133,Rock,MN,Midwest,Neither,602.0,344.0,158.0,42.0,0.0
+27135,Roseau,MN,Midwest,Neither,723.0,372.0,151.0,83.0,0.0
+27137,St. Louis,MN,Midwest,Neither,823.0,471.0,244.0,68.0,0.0
+27139,Scott,MN,Midwest,Neither,572.0,349.0,138.0,14.0,0.0
+27141,Sherburne,MN,Midwest,Fire only,655.0,364.0,108.0,44.0,0.0
+27143,Sibley,MN,Midwest,Neither,592.0,316.0,144.0,41.0,0.0
+27145,Stearns,MN,Midwest,Neither,665.0,352.0,109.0,50.0,0.0
+27147,Steele,MN,Midwest,Neither,576.0,328.0,111.0,56.0,0.0
+27149,Stevens,MN,Midwest,Neither,646.0,368.0,82.0,12.0,0.0
+27151,Swift,MN,Midwest,Neither,628.0,381.0,86.0,32.0,0.0
+27153,Todd,MN,Midwest,Neither,685.0,361.0,138.0,49.0,0.0
+27155,Traverse,MN,Midwest,Neither,680.0,374.0,71.0,0.0,0.0
+27157,Wabasha,MN,Midwest,Neither,561.0,328.0,89.0,22.0,0.0
+27159,Wadena,MN,Midwest,Neither,672.0,391.0,158.0,50.0,0.0
+27161,Waseca,MN,Midwest,Neither,565.0,314.0,121.0,49.0,0.0
+27163,Washington,MN,Midwest,Neither,612.0,386.0,133.0,6.0,0.0
+27165,Watonwan,MN,Midwest,Neither,597.0,296.0,148.0,48.0,0.0
+27167,Wilkin,MN,Midwest,Neither,678.0,299.0,71.0,0.0,0.0
+27169,Winona,MN,Midwest,Neither,502.0,284.0,80.0,26.0,0.0
+27171,Wright,MN,Midwest,Neither,646.0,350.0,114.0,41.0,0.0
+27173,Yellow Medicine,MN,Midwest,Neither,625.0,379.0,148.0,38.0,0.0
+28001,Adams,MS,South,Neither,620.0,326.0,124.0,46.0,18.0
+28003,Alcorn,MS,South,Neither,499.0,262.0,112.0,56.0,7.0
+28005,Amite,MS,South,Neither,603.0,267.0,132.0,54.0,18.0
+28007,Attala,MS,South,Neither,518.0,248.0,116.0,49.0,13.0
+28009,Benton,MS,South,Neither,484.0,233.0,108.0,41.0,5.0
+28011,Bolivar,MS,South,Neither,632.0,375.0,170.0,56.0,8.0
+28013,Calhoun,MS,South,Neither,545.0,302.0,126.0,46.0,14.0
+28015,Carroll,MS,South,Neither,548.0,308.0,144.0,53.0,14.0
+28017,Chickasaw,MS,South,Neither,511.0,293.0,140.0,48.0,19.0
+28019,Choctaw,MS,South,Neither,484.0,243.0,105.0,45.0,8.0
+28021,Claiborne,MS,South,Neither,609.0,290.0,133.0,47.0,19.0
+28023,Clarke,MS,South,Neither,543.0,258.0,89.0,42.0,9.0
+28025,Clay,MS,South,Neither,510.0,291.0,154.0,49.0,12.0
+28027,Coahoma,MS,South,Neither,645.0,405.0,184.0,46.0,9.0
+28029,Copiah,MS,South,Neither,569.0,247.0,112.0,43.0,18.0
+28031,Covington,MS,South,Neither,497.0,229.0,92.0,42.0,14.0
+28033,DeSoto,MS,South,Neither,542.0,303.0,149.0,51.0,7.0
+28035,Forrest,MS,South,Fire only,550.0,292.0,130.0,52.0,18.0
+28037,Franklin,MS,South,Neither,571.0,250.0,115.0,42.0,18.0
+28039,George,MS,South,Neither,573.0,302.0,143.0,66.0,18.0
+28041,Greene,MS,South,Neither,586.0,297.0,132.0,58.0,17.0
+28043,Grenada,MS,South,Neither,559.0,331.0,163.0,53.0,16.0
+28045,Hancock,MS,South,Neither,575.0,278.0,125.0,74.0,28.0
+28047,Harrison,MS,South,Fire only,567.0,317.0,126.0,68.0,29.0
+28049,Hinds,MS,South,Neither,559.0,245.0,133.0,53.0,20.0
+28051,Holmes,MS,South,Neither,545.0,283.0,136.0,56.0,12.0
+28053,Humphreys,MS,South,Neither,524.0,290.0,143.0,56.0,0.0
+28055,Issaquena,MS,South,Neither,582.0,302.0,178.0,73.0,9.0
+28057,Itawamba,MS,South,Neither,528.0,293.0,143.0,58.0,25.0
+28059,Jackson,MS,South,Fire only,570.0,314.0,141.0,66.0,20.0
+28061,Jasper,MS,South,Neither,508.0,230.0,93.0,50.0,20.0
+28063,Jefferson,MS,South,Neither,592.0,285.0,126.0,39.0,17.0
+28065,Jefferson Davis,MS,South,Neither,508.0,230.0,93.0,41.0,15.0
+28067,Jones,MS,South,Neither,510.0,245.0,115.0,49.0,12.0
+28069,Kemper,MS,South,Neither,544.0,236.0,114.0,48.0,18.0
+28071,Lafayette,MS,South,Neither,563.0,316.0,154.0,42.0,13.0
+28073,Lamar,MS,South,Neither,547.0,272.0,124.0,51.0,19.0
+28075,Lauderdale,MS,South,Neither,538.0,248.0,98.0,49.0,16.0
+28077,Lawrence,MS,South,Neither,542.0,218.0,102.0,40.0,15.0
+28079,Leake,MS,South,Neither,498.0,242.0,117.0,51.0,15.0
+28081,Lee,MS,South,Neither,528.0,288.0,125.0,49.0,16.0
+28083,Leflore,MS,South,Neither,583.0,385.0,173.0,56.0,11.0
+28085,Lincoln,MS,South,Neither,552.0,242.0,112.0,42.0,13.0
+28087,Lowndes,MS,South,Neither,532.0,295.0,152.0,57.0,18.0
+28089,Madison,MS,South,Neither,515.0,234.0,118.0,51.0,19.0
+28091,Marion,MS,South,Neither,543.0,262.0,112.0,47.0,23.0
+28093,Marshall,MS,South,Neither,559.0,286.0,130.0,46.0,7.0
+28095,Monroe,MS,South,Neither,545.0,301.0,155.0,59.0,25.0
+28097,Montgomery,MS,South,Neither,527.0,289.0,120.0,47.0,14.0
+28099,Neshoba,MS,South,Neither,489.0,239.0,107.0,50.0,13.0
+28101,Newton,MS,South,Neither,475.0,215.0,100.0,49.0,22.0
+28103,Noxubee,MS,South,Neither,520.0,292.0,135.0,50.0,14.0
+28105,Oktibbeha,MS,South,Neither,488.0,257.0,145.0,50.0,6.0
+28107,Panola,MS,South,Neither,612.0,379.0,180.0,52.0,15.0
+28109,Pearl River,MS,South,Neither,584.0,299.0,126.0,67.0,26.0
+28111,Perry,MS,South,Fire only,554.0,295.0,132.0,55.0,19.0
+28113,Pike,MS,South,Neither,529.0,257.0,115.0,48.0,17.0
+28115,Pontotoc,MS,South,Neither,515.0,282.0,103.0,40.0,13.0
+28117,Prentiss,MS,South,Neither,535.0,276.0,101.0,51.0,12.0
+28119,Quitman,MS,South,Neither,635.0,396.0,202.0,45.0,13.0
+28121,Rankin,MS,South,Neither,516.0,230.0,107.0,52.0,20.0
+28123,Scott,MS,South,Neither,497.0,220.0,111.0,51.0,15.0
+28125,Sharkey,MS,South,Neither,539.0,277.0,158.0,59.0,6.0
+28127,Simpson,MS,South,Neither,518.0,209.0,89.0,40.0,13.0
+28129,Smith,MS,South,Neither,514.0,232.0,100.0,51.0,14.0
+28131,Stone,MS,South,Neither,541.0,298.0,135.0,65.0,25.0
+28133,Sunflower,MS,South,Neither,616.0,381.0,190.0,47.0,8.0
+28135,Tallahatchie,MS,South,Neither,611.0,400.0,201.0,45.0,16.0
+28137,Tate,MS,South,Neither,564.0,315.0,130.0,54.0,9.0
+28139,Tippah,MS,South,Neither,504.0,226.0,108.0,49.0,4.0
+28141,Tishomingo,MS,South,Neither,547.0,307.0,133.0,56.0,17.0
+28143,Tunica,MS,South,Neither,592.0,363.0,158.0,43.0,10.0
+28145,Union,MS,South,Neither,532.0,260.0,96.0,43.0,7.0
+28147,Walthall,MS,South,Neither,561.0,267.0,114.0,46.0,17.0
+28149,Warren,MS,South,Neither,600.0,275.0,155.0,53.0,16.0
+28151,Washington,MS,South,Neither,570.0,317.0,189.0,67.0,0.0
+28153,Wayne,MS,South,Fire only,555.0,285.0,123.0,51.0,9.0
+28155,Webster,MS,South,Neither,501.0,269.0,129.0,46.0,17.0
+28157,Wilkinson,MS,South,Neither,611.0,285.0,135.0,58.0,25.0
+28159,Winston,MS,South,Fire only,509.0,257.0,126.0,52.0,12.0
+28161,Yalobusha,MS,South,Neither,583.0,340.0,155.0,49.0,16.0
+28163,Yazoo,MS,South,Neither,548.0,263.0,141.0,62.0,16.0
+29001,Adair,MO,Midwest,Neither,686.0,393.0,130.0,51.0,2.0
+29003,Andrew,MO,Midwest,Neither,668.0,371.0,170.0,82.0,3.0
+29005,Atchison,MO,Midwest,Neither,703.0,400.0,158.0,47.0,0.0
+29007,Audrain,MO,Midwest,Neither,575.0,323.0,106.0,27.0,0.0
+29009,Barry,MO,Midwest,Fire only,616.0,325.0,122.0,43.0,6.0
+29011,Barton,MO,Midwest,Neither,639.0,389.0,185.0,60.0,7.0
+29013,Bates,MO,Midwest,Neither,598.0,346.0,146.0,38.0,4.0
+29015,Benton,MO,Midwest,Neither,571.0,305.0,136.0,44.0,5.0
+29017,Bollinger,MO,Midwest,Neither,472.0,219.0,84.0,14.0,6.0
+29019,Boone,MO,Midwest,Neither,591.0,335.0,137.0,49.0,6.0
+29021,Buchanan,MO,Midwest,Neither,664.0,369.0,164.0,68.0,3.0
+29023,Butler,MO,Midwest,Neither,530.0,274.0,122.0,35.0,6.0
+29025,Caldwell,MO,Midwest,Neither,603.0,332.0,157.0,59.0,7.0
+29027,Callaway,MO,Midwest,Neither,575.0,293.0,107.0,38.0,0.0
+29029,Camden,MO,Midwest,Neither,549.0,282.0,126.0,28.0,3.0
+29031,Cape Girardeau,MO,Midwest,Neither,450.0,199.0,65.0,19.0,6.0
+29033,Carroll,MO,Midwest,Neither,585.0,327.0,151.0,48.0,6.0
+29035,Carter,MO,Midwest,Fire only,555.0,279.0,126.0,15.0,6.0
+29037,Cass,MO,Midwest,Neither,614.0,342.0,163.0,35.0,4.0
+29039,Cedar,MO,Midwest,Neither,596.0,353.0,155.0,55.0,7.0
+29041,Chariton,MO,Midwest,Neither,594.0,350.0,147.0,54.0,6.0
+29043,Christian,MO,Midwest,Fire only,580.0,316.0,125.0,21.0,3.0
+29045,Clark,MO,Midwest,Neither,648.0,393.0,151.0,33.0,0.0
+29047,Clay,MO,Midwest,Neither,632.0,356.0,161.0,59.0,11.0
+29049,Clinton,MO,Midwest,Neither,628.0,361.0,165.0,68.0,7.0
+29051,Cole,MO,Midwest,Neither,545.0,282.0,124.0,36.0,2.0
+29053,Cooper,MO,Midwest,Neither,592.0,315.0,164.0,51.0,8.0
+29055,Crawford,MO,Midwest,Neither,496.0,233.0,88.0,18.0,0.0
+29057,Dade,MO,Midwest,Neither,596.0,351.0,155.0,47.0,7.0
+29059,Dallas,MO,Midwest,Neither,573.0,295.0,133.0,24.0,0.0
+29061,Daviess,MO,Midwest,Neither,614.0,346.0,166.0,63.0,3.0
+29063,DeKalb,MO,Midwest,Neither,635.0,360.0,170.0,78.0,3.0
+29065,Dent,MO,Midwest,Fire only,509.0,214.0,80.0,10.0,0.0
+29067,Douglas,MO,Midwest,Fire only,578.0,250.0,101.0,12.0,0.0
+29069,Dunklin,MO,Midwest,Neither,517.0,284.0,120.0,55.0,7.0
+29071,Franklin,MO,Midwest,Neither,502.0,305.0,91.0,10.0,0.0
+29073,Gasconade,MO,Midwest,Neither,514.0,291.0,96.0,25.0,1.0
+29075,Gentry,MO,Midwest,Neither,628.0,361.0,167.0,82.0,3.0
+29077,Greene,MO,Midwest,Neither,593.0,351.0,138.0,27.0,3.0
+29079,Grundy,MO,Midwest,Neither,586.0,322.0,136.0,55.0,3.0
+29081,Harrison,MO,Midwest,Neither,638.0,381.0,171.0,63.0,3.0
+29083,Henry,MO,Midwest,Neither,581.0,336.0,140.0,47.0,5.0
+29085,Hickory,MO,Midwest,Neither,547.0,307.0,148.0,37.0,3.0
+29087,Holt,MO,Midwest,Neither,663.0,374.0,154.0,63.0,0.0
+29089,Howard,MO,Midwest,Neither,592.0,314.0,137.0,55.0,6.0
+29091,Howell,MO,Midwest,Fire only,584.0,289.0,107.0,23.0,3.0
+29093,Iron,MO,Midwest,Fire only,485.0,247.0,86.0,10.0,0.0
+29095,Jackson,MO,Midwest,Neither,647.0,376.0,184.0,51.0,12.0
+29097,Jasper,MO,Midwest,Neither,650.0,368.0,157.0,50.0,7.0
+29099,Jefferson,MO,Midwest,Neither,459.0,244.0,63.0,9.0,0.0
+29101,Johnson,MO,Midwest,Neither,630.0,332.0,177.0,56.0,6.0
+29103,Knox,MO,Midwest,Neither,656.0,407.0,141.0,36.0,0.0
+29105,Laclede,MO,Midwest,Fire only,542.0,288.0,116.0,19.0,0.0
+29107,Lafayette,MO,Midwest,Neither,604.0,355.0,188.0,51.0,3.0
+29109,Lawrence,MO,Midwest,Neither,622.0,347.0,147.0,43.0,7.0
+29111,Lewis,MO,Midwest,Neither,639.0,383.0,147.0,27.0,0.0
+29113,Lincoln,MO,Midwest,Neither,496.0,270.0,78.0,13.0,0.0
+29115,Linn,MO,Midwest,Neither,623.0,341.0,136.0,46.0,3.0
+29117,Livingston,MO,Midwest,Neither,589.0,329.0,144.0,57.0,3.0
+29119,McDonald,MO,Midwest,Neither,620.0,319.0,115.0,38.0,6.0
+29121,Macon,MO,Midwest,Neither,665.0,380.0,125.0,43.0,0.0
+29123,Madison,MO,Midwest,Neither,428.0,195.0,75.0,11.0,6.0
+29125,Maries,MO,Midwest,Neither,497.0,254.0,107.0,21.0,0.0
+29127,Marion,MO,Midwest,Neither,590.0,351.0,107.0,23.0,0.0
+29129,Mercer,MO,Midwest,Neither,623.0,365.0,115.0,46.0,0.0
+29131,Miller,MO,Midwest,Neither,526.0,259.0,107.0,26.0,2.0
+29133,Mississippi,MO,Midwest,Neither,461.0,220.0,112.0,46.0,8.0
+29135,Moniteau,MO,Midwest,Neither,585.0,308.0,153.0,52.0,5.0
+29137,Monroe,MO,Midwest,Neither,609.0,370.0,149.0,19.0,0.0
+29139,Montgomery,MO,Midwest,Neither,525.0,266.0,80.0,30.0,0.0
+29141,Morgan,MO,Midwest,Neither,580.0,284.0,132.0,37.0,5.0
+29143,New Madrid,MO,Midwest,Neither,475.0,262.0,116.0,50.0,7.0
+29145,Newton,MO,Midwest,Neither,639.0,330.0,133.0,51.0,8.0
+29147,Nodaway,MO,Midwest,Neither,679.0,399.0,172.0,78.0,3.0
+29149,Oregon,MO,Midwest,Fire only,576.0,292.0,116.0,26.0,4.0
+29151,Osage,MO,Midwest,Neither,522.0,269.0,104.0,23.0,2.0
+29153,Ozark,MO,Midwest,Fire only,567.0,276.0,108.0,32.0,4.0
+29155,Pemiscot,MO,Midwest,Neither,506.0,276.0,114.0,53.0,7.0
+29157,Perry,MO,Midwest,Neither,428.0,185.0,59.0,13.0,6.0
+29159,Pettis,MO,Midwest,Neither,579.0,337.0,161.0,55.0,5.0
+29161,Phelps,MO,Midwest,Fire only,520.0,237.0,95.0,21.0,0.0
+29163,Pike,MO,Midwest,Neither,521.0,318.0,88.0,31.0,0.0
+29165,Platte,MO,Midwest,Neither,676.0,358.0,164.0,66.0,11.0
+29167,Polk,MO,Midwest,Neither,577.0,338.0,161.0,36.0,3.0
+29169,Pulaski,MO,Midwest,Fire only,516.0,259.0,69.0,14.0,0.0
+29171,Putnam,MO,Midwest,Neither,674.0,383.0,145.0,62.0,2.0
+29173,Ralls,MO,Midwest,Neither,565.0,333.0,111.0,29.0,0.0
+29175,Randolph,MO,Midwest,Neither,608.0,318.0,115.0,26.0,0.0
+29177,Ray,MO,Midwest,Neither,634.0,366.0,157.0,54.0,7.0
+29179,Reynolds,MO,Midwest,Fire only,546.0,260.0,103.0,11.0,0.0
+29181,Ripley,MO,Midwest,Fire only,558.0,301.0,131.0,29.0,6.0
+29183,St. Charles,MO,Midwest,Neither,476.0,278.0,54.0,10.0,0.0
+29185,St. Clair,MO,Midwest,Neither,573.0,336.0,154.0,53.0,3.0
+29186,Ste. Genevieve,MO,Midwest,Neither,436.0,207.0,58.0,8.0,0.0
+29187,St. Francois,MO,Midwest,Neither,462.0,209.0,71.0,8.0,0.0
+29189,St. Louis,MO,Midwest,Neither,446.0,247.0,43.0,8.0,0.0
+29195,Saline,MO,Midwest,Neither,605.0,330.0,153.0,65.0,6.0
+29197,Schuyler,MO,Midwest,Neither,656.0,387.0,150.0,55.0,0.0
+29199,Scotland,MO,Midwest,Neither,654.0,393.0,152.0,52.0,0.0
+29201,Scott,MO,Midwest,Neither,450.0,212.0,84.0,22.0,6.0
+29203,Shannon,MO,Midwest,Fire only,561.0,290.0,111.0,12.0,0.0
+29205,Shelby,MO,Midwest,Neither,639.0,381.0,129.0,30.0,0.0
+29207,Stoddard,MO,Midwest,Neither,477.0,237.0,130.0,37.0,6.0
+29209,Stone,MO,Midwest,Neither,607.0,314.0,130.0,28.0,4.0
+29211,Sullivan,MO,Midwest,Neither,656.0,371.0,147.0,54.0,3.0
+29213,Taney,MO,Midwest,Fire only,596.0,299.0,119.0,25.0,4.0
+29215,Texas,MO,Midwest,Fire only,524.0,247.0,74.0,7.0,0.0
+29217,Vernon,MO,Midwest,Neither,627.0,365.0,185.0,61.0,8.0
+29219,Warren,MO,Midwest,Neither,501.0,279.0,71.0,14.0,0.0
+29221,Washington,MO,Midwest,Fire only,476.0,223.0,80.0,10.0,0.0
+29223,Wayne,MO,Midwest,Neither,519.0,239.0,119.0,14.0,6.0
+29225,Webster,MO,Midwest,Neither,553.0,298.0,114.0,18.0,0.0
+29227,Worth,MO,Midwest,Neither,626.0,354.0,141.0,66.0,0.0
+29229,Wright,MO,Midwest,Neither,522.0,237.0,79.0,15.0,0.0
+29510,St. Louis,MO,Midwest,Neither,366.0,187.0,31.0,6.0,0.0
+30001,Beaverhead,MT,West,Fire + Drought,1078.0,854.0,573.0,323.0,128.0
+30003,Big Horn,MT,West,Fire + Drought,956.0,671.0,509.0,301.0,41.0
+30005,Blaine,MT,West,Fire + Drought,866.0,616.0,399.0,192.0,34.0
+30007,Broadwater,MT,West,Fire + Drought,937.0,721.0,485.0,267.0,71.0
+30009,Carbon,MT,West,Fire + Drought,945.0,670.0,465.0,269.0,41.0
+30011,Carter,MT,West,Fire + Drought,950.0,657.0,455.0,206.0,47.0
+30013,Cascade,MT,West,Fire + Drought,940.0,704.0,521.0,269.0,59.0
+30015,Chouteau,MT,West,Drought only,920.0,670.0,447.0,232.0,37.0
+30017,Custer,MT,West,Fire + Drought,939.0,663.0,447.0,162.0,60.0
+30019,Daniels,MT,West,Neither,785.0,428.0,235.0,104.0,16.0
+30021,Dawson,MT,West,Neither,897.0,553.0,325.0,97.0,20.0
+30023,Deer Lodge,MT,West,Drought only,937.0,688.0,457.0,189.0,49.0
+30025,Fallon,MT,West,Drought only,941.0,630.0,399.0,188.0,9.0
+30027,Fergus,MT,West,Fire + Drought,895.0,618.0,446.0,262.0,51.0
+30029,Flathead,MT,West,Fire + Drought,1043.0,776.0,491.0,177.0,5.0
+30031,Gallatin,MT,West,Fire + Drought,1018.0,790.0,506.0,273.0,69.0
+30033,Garfield,MT,West,Fire only,924.0,613.0,416.0,184.0,37.0
+30035,Glacier,MT,West,Fire + Drought,975.0,777.0,526.0,208.0,4.0
+30037,Golden Valley,MT,West,Drought only,879.0,544.0,378.0,245.0,7.0
+30039,Granite,MT,West,Fire + Drought,909.0,624.0,436.0,195.0,23.0
+30041,Hill,MT,West,Fire + Drought,856.0,609.0,418.0,203.0,31.0
+30043,Jefferson,MT,West,Fire + Drought,961.0,783.0,523.0,292.0,74.0
+30045,Judith Basin,MT,West,Fire + Drought,820.0,652.0,439.0,199.0,27.0
+30047,Lake,MT,West,Fire + Drought,931.0,596.0,368.0,126.0,1.0
+30049,Lewis and Clark,MT,West,Fire + Drought,1015.0,810.0,547.0,327.0,86.0
+30051,Liberty,MT,West,Drought only,866.0,601.0,423.0,219.0,20.0
+30053,Lincoln,MT,West,Fire + Drought,863.0,602.0,330.0,119.0,5.0
+30055,McCone,MT,West,Neither,903.0,572.0,305.0,114.0,32.0
+30057,Madison,MT,West,Fire + Drought,1017.0,786.0,533.0,305.0,128.0
+30059,Meagher,MT,West,Fire + Drought,959.0,708.0,433.0,250.0,53.0
+30061,Mineral,MT,West,Fire + Drought,874.0,545.0,333.0,137.0,4.0
+30063,Missoula,MT,West,Fire + Drought,933.0,655.0,431.0,170.0,20.0
+30065,Musselshell,MT,West,Fire + Drought,819.0,544.0,399.0,251.0,3.0
+30067,Park,MT,West,Fire + Drought,1003.0,714.0,436.0,250.0,38.0
+30069,Petroleum,MT,West,Fire + Drought,836.0,558.0,382.0,225.0,34.0
+30071,Phillips,MT,West,Fire + Drought,851.0,605.0,372.0,172.0,52.0
+30073,Pondera,MT,West,Fire + Drought,998.0,763.0,546.0,237.0,31.0
+30075,Powder River,MT,West,Fire + Drought,883.0,653.0,474.0,236.0,47.0
+30077,Powell,MT,West,Fire + Drought,1001.0,784.0,509.0,232.0,72.0
+30079,Prairie,MT,West,Fire + Drought,904.0,571.0,344.0,135.0,18.0
+30081,Ravalli,MT,West,Fire + Drought,948.0,631.0,424.0,177.0,15.0
+30083,Richland,MT,West,Fire only,873.0,553.0,301.0,127.0,18.0
+30085,Roosevelt,MT,West,Fire only,870.0,529.0,305.0,126.0,28.0
+30087,Rosebud,MT,West,Fire + Drought,884.0,660.0,474.0,271.0,53.0
+30089,Sanders,MT,West,Fire + Drought,957.0,607.0,362.0,153.0,5.0
+30091,Sheridan,MT,West,Neither,800.0,462.0,271.0,93.0,11.0
+30093,Silver Bow,MT,West,Drought only,949.0,737.0,508.0,273.0,74.0
+30095,Stillwater,MT,West,Fire + Drought,934.0,667.0,426.0,263.0,8.0
+30097,Sweet Grass,MT,West,Fire + Drought,917.0,670.0,419.0,234.0,3.0
+30099,Teton,MT,West,Fire + Drought,983.0,789.0,536.0,253.0,45.0
+30101,Toole,MT,West,Drought only,921.0,653.0,476.0,213.0,26.0
+30103,Treasure,MT,West,Fire + Drought,770.0,522.0,379.0,210.0,41.0
+30105,Valley,MT,West,Neither,843.0,569.0,302.0,107.0,35.0
+30107,Wheatland,MT,West,Drought only,876.0,622.0,386.0,246.0,17.0
+30109,Wibaux,MT,West,Drought only,896.0,557.0,292.0,90.0,9.0
+30111,Yellowstone,MT,West,Fire + Drought,873.0,615.0,419.0,270.0,16.0
+31001,Adams,NE,Midwest,Drought only,928.0,651.0,333.0,126.0,35.0
+31003,Antelope,NE,Midwest,Neither,717.0,497.0,278.0,123.0,56.0
+31005,Arthur,NE,Midwest,Drought only,886.0,608.0,429.0,236.0,56.0
+31007,Banner,NE,Midwest,Fire + Drought,917.0,712.0,465.0,310.0,49.0
+31009,Blaine,NE,Midwest,Fire + Drought,740.0,510.0,391.0,140.0,47.0
+31011,Boone,NE,Midwest,Neither,773.0,490.0,306.0,134.0,40.0
+31013,Box Butte,NE,Midwest,Drought only,962.0,692.0,491.0,315.0,47.0
+31015,Boyd,NE,Midwest,Neither,729.0,473.0,296.0,125.0,31.0
+31017,Brown,NE,Midwest,Drought only,742.0,541.0,365.0,140.0,39.0
+31019,Buffalo,NE,Midwest,Drought only,874.0,664.0,417.0,168.0,43.0
+31021,Burt,NE,Midwest,Fire only,679.0,399.0,222.0,103.0,70.0
+31023,Butler,NE,Midwest,Neither,765.0,463.0,247.0,115.0,78.0
+31025,Cass,NE,Midwest,Neither,693.0,423.0,232.0,57.0,1.0
+31027,Cedar,NE,Midwest,Neither,724.0,446.0,261.0,119.0,75.0
+31029,Chase,NE,Midwest,Drought only,984.0,704.0,447.0,269.0,68.0
+31031,Cherry,NE,Midwest,Fire + Drought,915.0,710.0,442.0,221.0,61.0
+31033,Cheyenne,NE,Midwest,Drought only,999.0,758.0,483.0,280.0,40.0
+31035,Clay,NE,Midwest,Drought only,899.0,589.0,301.0,100.0,31.0
+31037,Colfax,NE,Midwest,Neither,729.0,452.0,231.0,114.0,79.0
+31039,Cuming,NE,Midwest,Neither,705.0,403.0,235.0,109.0,79.0
+31041,Custer,NE,Midwest,Drought only,857.0,621.0,432.0,137.0,73.0
+31043,Dakota,NE,Midwest,Neither,681.0,437.0,270.0,111.0,75.0
+31045,Dawes,NE,Midwest,Fire + Drought,939.0,701.0,473.0,268.0,41.0
+31047,Dawson,NE,Midwest,Drought only,862.0,578.0,474.0,155.0,70.0
+31049,Deuel,NE,Midwest,Drought only,951.0,656.0,429.0,251.0,65.0
+31051,Dixon,NE,Midwest,Neither,696.0,447.0,281.0,120.0,75.0
+31053,Dodge,NE,Midwest,Neither,706.0,426.0,218.0,114.0,79.0
+31055,Douglas,NE,Midwest,Neither,695.0,419.0,238.0,74.0,1.0
+31057,Dundy,NE,Midwest,Drought only,1007.0,664.0,440.0,264.0,44.0
+31059,Fillmore,NE,Midwest,Drought only,890.0,513.0,252.0,88.0,21.0
+31061,Franklin,NE,Midwest,Drought only,875.0,620.0,383.0,144.0,30.0
+31063,Frontier,NE,Midwest,Drought only,987.0,634.0,455.0,269.0,91.0
+31065,Furnas,NE,Midwest,Fire + Drought,917.0,602.0,420.0,200.0,90.0
+31067,Gage,NE,Midwest,Neither,808.0,484.0,255.0,65.0,0.0
+31069,Garden,NE,Midwest,Drought only,947.0,747.0,551.0,272.0,40.0
+31071,Garfield,NE,Midwest,Fire + Drought,726.0,500.0,333.0,111.0,34.0
+31073,Gosper,NE,Midwest,Fire + Drought,869.0,584.0,416.0,151.0,67.0
+31075,Grant,NE,Midwest,Drought only,841.0,595.0,407.0,191.0,56.0
+31077,Greeley,NE,Midwest,Drought only,768.0,513.0,311.0,117.0,37.0
+31079,Hall,NE,Midwest,Drought only,897.0,607.0,338.0,151.0,62.0
+31081,Hamilton,NE,Midwest,Drought only,884.0,566.0,290.0,133.0,59.0
+31083,Harlan,NE,Midwest,Drought only,858.0,550.0,381.0,145.0,41.0
+31085,Hayes,NE,Midwest,Drought only,970.0,689.0,444.0,268.0,97.0
+31087,Hitchcock,NE,Midwest,Drought only,1013.0,695.0,467.0,279.0,104.0
+31089,Holt,NE,Midwest,Neither,766.0,549.0,353.0,160.0,56.0
+31091,Hooker,NE,Midwest,Fire + Drought,799.0,571.0,392.0,188.0,57.0
+31093,Howard,NE,Midwest,Drought only,825.0,565.0,329.0,167.0,43.0
+31095,Jefferson,NE,Midwest,Neither,820.0,470.0,253.0,88.0,4.0
+31097,Johnson,NE,Midwest,Neither,732.0,424.0,181.0,56.0,0.0
+31099,Kearney,NE,Midwest,Drought only,906.0,649.0,412.0,140.0,14.0
+31101,Keith,NE,Midwest,Drought only,972.0,671.0,426.0,306.0,85.0
+31103,Keya Paha,NE,Midwest,Neither,731.0,487.0,285.0,125.0,35.0
+31105,Kimball,NE,Midwest,Drought only,921.0,646.0,440.0,235.0,38.0
+31107,Knox,NE,Midwest,Neither,741.0,530.0,293.0,117.0,56.0
+31109,Lancaster,NE,Midwest,Neither,789.0,465.0,237.0,90.0,7.0
+31111,Lincoln,NE,Midwest,Fire + Drought,967.0,669.0,486.0,283.0,109.0
+31113,Logan,NE,Midwest,Drought only,774.0,568.0,404.0,156.0,62.0
+31115,Loup,NE,Midwest,Drought only,722.0,508.0,348.0,119.0,35.0
+31117,McPherson,NE,Midwest,Drought only,850.0,595.0,434.0,194.0,57.0
+31119,Madison,NE,Midwest,Neither,725.0,474.0,277.0,124.0,75.0
+31121,Merrick,NE,Midwest,Drought only,864.0,539.0,305.0,147.0,73.0
+31123,Morrill,NE,Midwest,Drought only,976.0,749.0,575.0,284.0,50.0
+31125,Nance,NE,Midwest,Drought only,801.0,487.0,294.0,135.0,73.0
+31127,Nemaha,NE,Midwest,Neither,735.0,414.0,166.0,42.0,0.0
+31129,Nuckolls,NE,Midwest,Drought only,912.0,596.0,263.0,92.0,12.0
+31131,Otoe,NE,Midwest,Neither,729.0,443.0,195.0,71.0,1.0
+31133,Pawnee,NE,Midwest,Neither,751.0,422.0,174.0,31.0,0.0
+31135,Perkins,NE,Midwest,Drought only,991.0,711.0,440.0,302.0,76.0
+31137,Phelps,NE,Midwest,Drought only,855.0,574.0,404.0,135.0,46.0
+31139,Pierce,NE,Midwest,Neither,730.0,464.0,277.0,125.0,75.0
+31141,Platte,NE,Midwest,Neither,756.0,504.0,291.0,127.0,66.0
+31143,Polk,NE,Midwest,Neither,801.0,466.0,248.0,120.0,63.0
+31145,Red Willow,NE,Midwest,Drought only,986.0,670.0,454.0,281.0,117.0
+31147,Richardson,NE,Midwest,Neither,737.0,422.0,178.0,37.0,0.0
+31149,Rock,NE,Midwest,Neither,717.0,515.0,330.0,119.0,39.0
+31151,Saline,NE,Midwest,Neither,823.0,481.0,240.0,91.0,8.0
+31153,Sarpy,NE,Midwest,Neither,684.0,430.0,229.0,47.0,1.0
+31155,Saunders,NE,Midwest,Neither,721.0,468.0,226.0,99.0,35.0
+31157,Scotts Bluff,NE,Midwest,Fire + Drought,912.0,687.0,531.0,308.0,50.0
+31159,Seward,NE,Midwest,Neither,802.0,477.0,246.0,89.0,23.0
+31161,Sheridan,NE,Midwest,Drought only,943.0,721.0,506.0,236.0,41.0
+31163,Sherman,NE,Midwest,Drought only,832.0,582.0,347.0,109.0,48.0
+31165,Sioux,NE,Midwest,Fire + Drought,962.0,734.0,526.0,335.0,48.0
+31167,Stanton,NE,Midwest,Neither,718.0,449.0,257.0,118.0,79.0
+31169,Thayer,NE,Midwest,Neither,892.0,505.0,267.0,89.0,13.0
+31171,Thomas,NE,Midwest,Fire + Drought,742.0,543.0,383.0,170.0,65.0
+31173,Thurston,NE,Midwest,Fire only,699.0,430.0,260.0,107.0,79.0
+31175,Valley,NE,Midwest,Drought only,769.0,517.0,350.0,108.0,40.0
+31177,Washington,NE,Midwest,Neither,686.0,421.0,225.0,82.0,28.0
+31179,Wayne,NE,Midwest,Neither,711.0,431.0,254.0,107.0,79.0
+31181,Webster,NE,Midwest,Drought only,923.0,628.0,268.0,137.0,0.0
+31183,Wheeler,NE,Midwest,Neither,721.0,477.0,322.0,119.0,31.0
+31185,York,NE,Midwest,Drought only,872.0,490.0,253.0,91.0,32.0
+32001,Churchill,NV,West,Fire + Drought,1065.0,874.0,650.0,433.0,141.0
+32003,Clark,NV,West,Fire + Drought,1200.0,907.0,686.0,402.0,92.0
+32005,Douglas,NV,West,Fire + Drought,982.0,787.0,496.0,252.0,91.0
+32007,Elko,NV,West,Fire + Drought,1062.0,897.0,701.0,448.0,68.0
+32009,Esmeralda,NV,West,Drought only,1090.0,955.0,649.0,368.0,113.0
+32011,Eureka,NV,West,Fire + Drought,1053.0,852.0,637.0,374.0,32.0
+32013,Humboldt,NV,West,Fire + Drought,1081.0,895.0,761.0,449.0,120.0
+32015,Lander,NV,West,Fire + Drought,1059.0,861.0,673.0,431.0,137.0
+32017,Lincoln,NV,West,Fire + Drought,1206.0,965.0,654.0,362.0,131.0
+32019,Lyon,NV,West,Fire + Drought,1055.0,868.0,590.0,386.0,103.0
+32021,Mineral,NV,West,Drought only,1065.0,898.0,668.0,433.0,68.0
+32023,Nye,NV,West,Fire + Drought,1135.0,987.0,822.0,528.0,119.0
+32027,Pershing,NV,West,Fire + Drought,1070.0,892.0,713.0,454.0,133.0
+32029,Storey,NV,West,Fire + Drought,1022.0,835.0,557.0,274.0,91.0
+32031,Washoe,NV,West,Fire + Drought,1102.0,926.0,767.0,459.0,91.0
+32033,White Pine,NV,West,Fire + Drought,1068.0,854.0,656.0,302.0,100.0
+32510,Carson City,NV,West,Fire + Drought,965.0,733.0,471.0,238.0,91.0
+33001,Belknap,NH,Northeast,Neither,457.0,254.0,97.0,27.0,0.0
+33003,Carroll,NH,Northeast,Neither,477.0,199.0,99.0,18.0,0.0
+33005,Cheshire,NH,Northeast,Neither,451.0,234.0,96.0,10.0,0.0
+33007,Coos,NH,Northeast,Neither,469.0,205.0,78.0,9.0,0.0
+33009,Grafton,NH,Northeast,Neither,504.0,205.0,81.0,10.0,0.0
+33011,Hillsborough,NH,Northeast,Neither,496.0,262.0,118.0,30.0,0.0
+33013,Merrimack,NH,Northeast,Neither,496.0,258.0,112.0,32.0,0.0
+33015,Rockingham,NH,Northeast,Neither,487.0,265.0,131.0,38.0,0.0
+33017,Strafford,NH,Northeast,Neither,482.0,249.0,113.0,23.0,0.0
+33019,Sullivan,NH,Northeast,Neither,461.0,219.0,80.0,10.0,0.0
+34001,Atlantic,NJ,Northeast,Neither,411.0,154.0,76.0,35.0,0.0
+34003,Bergen,NJ,Northeast,Neither,399.0,222.0,71.0,11.0,0.0
+34005,Burlington,NJ,Northeast,Fire only,432.0,177.0,70.0,36.0,0.0
+34007,Camden,NJ,Northeast,Fire only,404.0,175.0,70.0,38.0,0.0
+34009,Cape May,NJ,Northeast,Neither,420.0,160.0,66.0,33.0,0.0
+34011,Cumberland,NJ,Northeast,Neither,412.0,162.0,82.0,37.0,1.0
+34013,Essex,NJ,Northeast,Neither,366.0,216.0,55.0,11.0,0.0
+34015,Gloucester,NJ,Northeast,Neither,416.0,172.0,75.0,38.0,0.0
+34017,Hudson,NJ,Northeast,Neither,365.0,188.0,61.0,11.0,0.0
+34019,Hunterdon,NJ,Northeast,Neither,387.0,193.0,66.0,11.0,0.0
+34021,Mercer,NJ,Northeast,Neither,370.0,178.0,73.0,17.0,0.0
+34023,Middlesex,NJ,Northeast,Neither,373.0,209.0,72.0,11.0,0.0
+34025,Monmouth,NJ,Northeast,Neither,377.0,186.0,69.0,26.0,0.0
+34027,Morris,NJ,Northeast,Neither,409.0,220.0,88.0,10.0,0.0
+34029,Ocean,NJ,Northeast,Fire only,361.0,165.0,65.0,33.0,0.0
+34031,Passaic,NJ,Northeast,Neither,407.0,221.0,79.0,11.0,0.0
+34033,Salem,NJ,Northeast,Neither,406.0,161.0,78.0,40.0,1.0
+34035,Somerset,NJ,Northeast,Neither,379.0,206.0,66.0,11.0,0.0
+34037,Sussex,NJ,Northeast,Neither,438.0,193.0,72.0,15.0,0.0
+34039,Union,NJ,Northeast,Neither,358.0,190.0,58.0,11.0,0.0
+34041,Warren,NJ,Northeast,Neither,405.0,178.0,62.0,8.0,0.0
+35001,Bernalillo,NM,West,Drought only,1124.0,800.0,607.0,288.0,75.0
+35003,Catron,NM,West,Fire + Drought,1214.0,1016.0,678.0,358.0,108.0
+35005,Chaves,NM,West,Fire + Drought,1180.0,889.0,727.0,490.0,201.0
+35006,Cibola,NM,West,Fire + Drought,1222.0,1023.0,735.0,376.0,61.0
+35007,Colfax,NM,West,Fire + Drought,1148.0,874.0,699.0,480.0,204.0
+35009,Curry,NM,West,Drought only,989.0,730.0,461.0,314.0,157.0
+35011,De Baca,NM,West,Drought only,1115.0,794.0,518.0,329.0,92.0
+35013,Doña Ana,NM,West,Drought only,1098.0,847.0,579.0,328.0,101.0
+35015,Eddy,NM,West,Fire + Drought,1156.0,893.0,693.0,441.0,201.0
+35017,Grant,NM,West,Fire + Drought,1136.0,908.0,678.0,406.0,167.0
+35019,Guadalupe,NM,West,Drought only,1161.0,836.0,554.0,358.0,111.0
+35021,Harding,NM,West,Fire + Drought,1050.0,812.0,615.0,316.0,85.0
+35023,Hidalgo,NM,West,Fire + Drought,1106.0,901.0,634.0,389.0,160.0
+35025,Lea,NM,West,Fire + Drought,1070.0,820.0,652.0,401.0,161.0
+35027,Lincoln,NM,West,Fire + Drought,1203.0,909.0,636.0,407.0,126.0
+35028,Los Alamos,NM,West,Fire + Drought,1060.0,834.0,541.0,330.0,123.0
+35029,Luna,NM,West,Drought only,1077.0,871.0,593.0,392.0,149.0
+35031,McKinley,NM,West,Drought only,1233.0,1081.0,802.0,438.0,108.0
+35033,Mora,NM,West,Fire + Drought,1150.0,851.0,714.0,425.0,160.0
+35035,Otero,NM,West,Fire + Drought,1194.0,927.0,667.0,400.0,156.0
+35037,Quay,NM,West,Drought only,1033.0,779.0,543.0,321.0,78.0
+35039,Rio Arriba,NM,West,Fire + Drought,1187.0,952.0,788.0,493.0,139.0
+35041,Roosevelt,NM,West,Drought only,1052.0,788.0,531.0,335.0,163.0
+35043,Sandoval,NM,West,Fire + Drought,1183.0,936.0,769.0,422.0,150.0
+35045,San Juan,NM,West,Drought only,1211.0,1018.0,797.0,466.0,125.0
+35047,San Miguel,NM,West,Fire + Drought,1191.0,951.0,643.0,447.0,154.0
+35049,Santa Fe,NM,West,Fire + Drought,1163.0,869.0,617.0,442.0,150.0
+35051,Sierra,NM,West,Fire + Drought,1160.0,919.0,620.0,301.0,77.0
+35053,Socorro,NM,West,Fire + Drought,1201.0,857.0,574.0,267.0,117.0
+35055,Taos,NM,West,Fire + Drought,1121.0,859.0,634.0,453.0,134.0
+35057,Torrance,NM,West,Fire + Drought,1173.0,839.0,560.0,349.0,101.0
+35059,Union,NM,West,Fire + Drought,1063.0,876.0,680.0,405.0,169.0
+35061,Valencia,NM,West,Drought only,1105.0,785.0,529.0,247.0,75.0
+36001,Albany,NY,Northeast,Neither,318.0,97.0,0.0,0.0,0.0
+36003,Allegany,NY,Northeast,Neither,421.0,127.0,30.0,4.0,0.0
+36005,Bronx,NY,Northeast,Neither,383.0,181.0,59.0,4.0,0.0
+36007,Broome,NY,Northeast,Neither,255.0,46.0,3.0,0.0,0.0
+36009,Cattaraugus,NY,Northeast,Neither,461.0,147.0,35.0,0.0,0.0
+36011,Cayuga,NY,Northeast,Neither,380.0,102.0,20.0,10.0,0.0
+36013,Chautauqua,NY,Northeast,Neither,405.0,98.0,18.0,0.0,0.0
+36015,Chemung,NY,Northeast,Neither,279.0,73.0,20.0,7.0,0.0
+36017,Chenango,NY,Northeast,Neither,237.0,39.0,0.0,0.0,0.0
+36019,Clinton,NY,Northeast,Neither,376.0,93.0,27.0,0.0,0.0
+36021,Columbia,NY,Northeast,Neither,395.0,116.0,41.0,5.0,0.0
+36023,Cortland,NY,Northeast,Neither,255.0,75.0,20.0,0.0,0.0
+36025,Delaware,NY,Northeast,Neither,335.0,69.0,5.0,0.0,0.0
+36027,Dutchess,NY,Northeast,Neither,467.0,199.0,82.0,12.0,0.0
+36029,Erie,NY,Northeast,Neither,449.0,187.0,33.0,7.0,0.0
+36031,Essex,NY,Northeast,Neither,437.0,126.0,29.0,4.0,0.0
+36033,Franklin,NY,Northeast,Neither,444.0,125.0,26.0,0.0,0.0
+36035,Fulton,NY,Northeast,Neither,354.0,56.0,0.0,0.0,0.0
+36037,Genesee,NY,Northeast,Neither,433.0,194.0,48.0,7.0,0.0
+36039,Greene,NY,Northeast,Neither,349.0,121.0,13.0,0.0,0.0
+36041,Hamilton,NY,Northeast,Neither,434.0,98.0,18.0,0.0,0.0
+36043,Herkimer,NY,Northeast,Neither,417.0,110.0,9.0,0.0,0.0
+36045,Jefferson,NY,Northeast,Neither,341.0,98.0,24.0,0.0,0.0
+36047,Kings,NY,Northeast,Neither,376.0,181.0,45.0,8.0,0.0
+36049,Lewis,NY,Northeast,Neither,344.0,111.0,11.0,0.0,0.0
+36051,Livingston,NY,Northeast,Neither,428.0,163.0,49.0,10.0,0.0
+36053,Madison,NY,Northeast,Neither,292.0,70.0,0.0,0.0,0.0
+36055,Monroe,NY,Northeast,Neither,425.0,140.0,37.0,10.0,0.0
+36057,Montgomery,NY,Northeast,Neither,302.0,50.0,0.0,0.0,0.0
+36059,Nassau,NY,Northeast,Neither,433.0,196.0,65.0,3.0,0.0
+36061,New York,NY,Northeast,Neither,373.0,184.0,57.0,10.0,0.0
+36063,Niagara,NY,Northeast,Neither,404.0,165.0,33.0,3.0,0.0
+36065,Oneida,NY,Northeast,Neither,357.0,100.0,6.0,0.0,0.0
+36067,Onondaga,NY,Northeast,Neither,317.0,94.0,20.0,0.0,0.0
+36069,Ontario,NY,Northeast,Neither,408.0,132.0,31.0,10.0,0.0
+36071,Orange,NY,Northeast,Neither,451.0,191.0,80.0,9.0,0.0
+36073,Orleans,NY,Northeast,Neither,415.0,172.0,34.0,4.0,0.0
+36075,Oswego,NY,Northeast,Neither,332.0,104.0,14.0,0.0,0.0
+36077,Otsego,NY,Northeast,Neither,293.0,36.0,0.0,0.0,0.0
+36079,Putnam,NY,Northeast,Neither,423.0,180.0,84.0,15.0,0.0
+36081,Queens,NY,Northeast,Neither,408.0,202.0,54.0,7.0,0.0
+36083,Rensselaer,NY,Northeast,Neither,339.0,103.0,15.0,0.0,0.0
+36085,Richmond,NY,Northeast,Fire only,344.0,171.0,54.0,11.0,0.0
+36087,Rockland,NY,Northeast,Neither,413.0,204.0,77.0,5.0,0.0
+36089,St. Lawrence,NY,Northeast,Neither,396.0,135.0,14.0,0.0,0.0
+36091,Saratoga,NY,Northeast,Neither,399.0,76.0,9.0,0.0,0.0
+36093,Schenectady,NY,Northeast,Neither,282.0,69.0,0.0,0.0,0.0
+36095,Schoharie,NY,Northeast,Neither,314.0,86.0,4.0,0.0,0.0
+36097,Schuyler,NY,Northeast,Neither,306.0,91.0,20.0,10.0,0.0
+36099,Seneca,NY,Northeast,Neither,349.0,104.0,20.0,10.0,0.0
+36101,Steuben,NY,Northeast,Neither,408.0,136.0,27.0,10.0,0.0
+36103,Suffolk,NY,Northeast,Neither,529.0,263.0,78.0,7.0,0.0
+36105,Sullivan,NY,Northeast,Neither,430.0,156.0,36.0,7.0,0.0
+36107,Tioga,NY,Northeast,Neither,278.0,63.0,20.0,7.0,0.0
+36109,Tompkins,NY,Northeast,Neither,286.0,90.0,20.0,10.0,0.0
+36111,Ulster,NY,Northeast,Neither,436.0,179.0,45.0,7.0,0.0
+36113,Warren,NY,Northeast,Neither,427.0,93.0,15.0,0.0,0.0
+36115,Washington,NY,Northeast,Neither,397.0,105.0,16.0,0.0,0.0
+36117,Wayne,NY,Northeast,Neither,382.0,118.0,29.0,7.0,0.0
+36119,Westchester,NY,Northeast,Neither,442.0,201.0,83.0,15.0,0.0
+36121,Wyoming,NY,Northeast,Neither,407.0,183.0,47.0,7.0,0.0
+36123,Yates,NY,Northeast,Neither,376.0,99.0,22.0,10.0,0.0
+37001,Alamance,NC,South,Neither,686.0,344.0,132.0,59.0,33.0
+37003,Alexander,NC,South,Neither,616.0,373.0,180.0,100.0,32.0
+37005,Alleghany,NC,South,Neither,550.0,308.0,130.0,61.0,4.0
+37007,Anson,NC,South,Neither,759.0,415.0,145.0,71.0,32.0
+37009,Ashe,NC,South,Neither,601.0,324.0,150.0,76.0,18.0
+37011,Avery,NC,South,Neither,592.0,345.0,169.0,98.0,26.0
+37013,Beaufort,NC,South,Neither,548.0,279.0,97.0,17.0,0.0
+37015,Bertie,NC,South,Neither,572.0,277.0,122.0,25.0,4.0
+37017,Bladen,NC,South,Neither,695.0,329.0,124.0,42.0,6.0
+37019,Brunswick,NC,South,Fire only,602.0,292.0,104.0,30.0,0.0
+37021,Buncombe,NC,South,Neither,619.0,390.0,225.0,118.0,35.0
+37023,Burke,NC,South,Neither,643.0,412.0,220.0,119.0,40.0
+37025,Cabarrus,NC,South,Neither,759.0,396.0,183.0,99.0,36.0
+37027,Caldwell,NC,South,Neither,625.0,378.0,192.0,110.0,31.0
+37029,Camden,NC,South,Neither,520.0,232.0,97.0,4.0,0.0
+37031,Carteret,NC,South,Fire only,485.0,231.0,56.0,12.0,0.0
+37033,Caswell,NC,South,Neither,699.0,326.0,130.0,57.0,30.0
+37035,Catawba,NC,South,Neither,668.0,421.0,218.0,112.0,41.0
+37037,Chatham,NC,South,Neither,709.0,360.0,138.0,58.0,32.0
+37039,Cherokee,NC,South,Fire only,630.0,372.0,218.0,114.0,44.0
+37041,Chowan,NC,South,Neither,497.0,234.0,88.0,5.0,0.0
+37043,Clay,NC,South,Fire only,635.0,389.0,229.0,108.0,42.0
+37045,Cleveland,NC,South,Neither,710.0,469.0,260.0,128.0,44.0
+37047,Columbus,NC,South,Neither,694.0,320.0,110.0,49.0,0.0
+37049,Craven,NC,South,Fire only,552.0,266.0,88.0,27.0,0.0
+37051,Cumberland,NC,South,Neither,704.0,329.0,130.0,48.0,18.0
+37053,Currituck,NC,South,Fire only,513.0,230.0,89.0,4.0,0.0
+37055,Dare,NC,South,Fire only,491.0,213.0,78.0,1.0,0.0
+37057,Davidson,NC,South,Neither,752.0,370.0,168.0,93.0,34.0
+37059,Davie,NC,South,Neither,691.0,356.0,163.0,97.0,34.0
+37061,Duplin,NC,South,Neither,634.0,319.0,125.0,31.0,13.0
+37063,Durham,NC,South,Neither,647.0,306.0,116.0,55.0,31.0
+37065,Edgecombe,NC,South,Neither,627.0,297.0,117.0,33.0,15.0
+37067,Forsyth,NC,South,Neither,685.0,340.0,157.0,88.0,34.0
+37069,Franklin,NC,South,Neither,643.0,291.0,106.0,49.0,24.0
+37071,Gaston,NC,South,Neither,735.0,442.0,225.0,115.0,48.0
+37073,Gates,NC,South,Neither,535.0,223.0,102.0,11.0,0.0
+37075,Graham,NC,South,Fire only,578.0,347.0,203.0,98.0,31.0
+37077,Granville,NC,South,Neither,666.0,325.0,122.0,58.0,31.0
+37079,Greene,NC,South,Neither,572.0,280.0,115.0,22.0,14.0
+37081,Guilford,NC,South,Neither,717.0,334.0,145.0,67.0,33.0
+37083,Halifax,NC,South,Neither,648.0,313.0,126.0,38.0,18.0
+37085,Harnett,NC,South,Neither,692.0,349.0,124.0,52.0,22.0
+37087,Haywood,NC,South,Fire only,623.0,371.0,225.0,110.0,37.0
+37089,Henderson,NC,South,Neither,648.0,407.0,245.0,127.0,49.0
+37091,Hertford,NC,South,Neither,536.0,239.0,109.0,14.0,3.0
+37093,Hoke,NC,South,Neither,700.0,349.0,109.0,53.0,21.0
+37095,Hyde,NC,South,Fire only,481.0,225.0,64.0,8.0,0.0
+37097,Iredell,NC,South,Neither,704.0,401.0,186.0,112.0,37.0
+37099,Jackson,NC,South,Neither,636.0,407.0,244.0,129.0,45.0
+37101,Johnston,NC,South,Neither,692.0,317.0,127.0,42.0,20.0
+37103,Jones,NC,South,Fire only,560.0,268.0,106.0,30.0,4.0
+37105,Lee,NC,South,Neither,686.0,364.0,121.0,56.0,27.0
+37107,Lenoir,NC,South,Neither,579.0,283.0,107.0,28.0,8.0
+37109,Lincoln,NC,South,Neither,704.0,435.0,223.0,114.0,47.0
+37111,McDowell,NC,South,Fire only,611.0,395.0,226.0,130.0,34.0
+37113,Macon,NC,South,Neither,643.0,407.0,245.0,125.0,40.0
+37115,Madison,NC,South,Neither,577.0,338.0,178.0,98.0,35.0
+37117,Martin,NC,South,Neither,564.0,272.0,117.0,24.0,6.0
+37119,Mecklenburg,NC,South,Neither,775.0,438.0,210.0,111.0,45.0
+37121,Mitchell,NC,South,Neither,598.0,353.0,179.0,99.0,27.0
+37123,Montgomery,NC,South,Neither,739.0,378.0,152.0,70.0,32.0
+37125,Moore,NC,South,Neither,741.0,364.0,143.0,61.0,31.0
+37127,Nash,NC,South,Neither,643.0,306.0,112.0,43.0,20.0
+37129,New Hanover,NC,South,Neither,504.0,247.0,95.0,22.0,0.0
+37131,Northampton,NC,South,Neither,627.0,278.0,109.0,34.0,6.0
+37133,Onslow,NC,South,Neither,543.0,264.0,105.0,30.0,0.0
+37135,Orange,NC,South,Neither,677.0,321.0,121.0,58.0,32.0
+37137,Pamlico,NC,South,Neither,452.0,225.0,55.0,12.0,0.0
+37139,Pasquotank,NC,South,Neither,519.0,225.0,92.0,3.0,0.0
+37141,Pender,NC,South,Neither,602.0,302.0,117.0,28.0,4.0
+37143,Perquimans,NC,South,Neither,500.0,231.0,91.0,5.0,0.0
+37145,Person,NC,South,Neither,674.0,329.0,123.0,55.0,29.0
+37147,Pitt,NC,South,Neither,593.0,282.0,120.0,22.0,10.0
+37149,Polk,NC,South,Fire only,676.0,439.0,248.0,135.0,52.0
+37151,Randolph,NC,South,Neither,747.0,365.0,150.0,72.0,33.0
+37153,Richmond,NC,South,Neither,752.0,381.0,137.0,67.0,31.0
+37155,Robeson,NC,South,Neither,695.0,363.0,119.0,51.0,8.0
+37157,Rockingham,NC,South,Neither,705.0,345.0,126.0,65.0,32.0
+37159,Rowan,NC,South,Neither,751.0,388.0,174.0,101.0,37.0
+37161,Rutherford,NC,South,Neither,691.0,453.0,252.0,138.0,40.0
+37163,Sampson,NC,South,Neither,673.0,350.0,120.0,40.0,17.0
+37165,Scotland,NC,South,Fire only,674.0,348.0,109.0,55.0,21.0
+37167,Stanly,NC,South,Neither,752.0,408.0,166.0,83.0,33.0
+37169,Stokes,NC,South,Neither,656.0,316.0,141.0,72.0,20.0
+37171,Surry,NC,South,Neither,603.0,322.0,151.0,61.0,19.0
+37173,Swain,NC,South,Fire only,599.0,354.0,199.0,105.0,35.0
+37175,Transylvania,NC,South,Neither,640.0,408.0,235.0,123.0,43.0
+37177,Tyrrell,NC,South,Neither,473.0,226.0,70.0,1.0,0.0
+37179,Union,NC,South,Neither,771.0,450.0,203.0,88.0,35.0
+37181,Vance,NC,South,Neither,618.0,307.0,110.0,53.0,26.0
+37183,Wake,NC,South,Neither,686.0,337.0,120.0,53.0,25.0
+37185,Warren,NC,South,Neither,638.0,288.0,113.0,51.0,24.0
+37187,Washington,NC,South,Neither,498.0,245.0,86.0,3.0,0.0
+37189,Watauga,NC,South,Neither,592.0,345.0,158.0,100.0,25.0
+37191,Wayne,NC,South,Neither,639.0,287.0,114.0,37.0,15.0
+37193,Wilkes,NC,South,Neither,633.0,367.0,180.0,94.0,26.0
+37195,Wilson,NC,South,Neither,635.0,287.0,116.0,37.0,18.0
+37197,Yadkin,NC,South,Neither,632.0,328.0,169.0,89.0,20.0
+37199,Yancey,NC,South,Neither,609.0,360.0,191.0,105.0,31.0
+38001,Adams,ND,Midwest,Fire + Drought,895.0,588.0,378.0,115.0,5.0
+38003,Barnes,ND,Midwest,Neither,608.0,293.0,97.0,11.0,0.0
+38005,Benson,ND,Midwest,Neither,691.0,398.0,116.0,38.0,16.0
+38007,Billings,ND,Midwest,Fire + Drought,874.0,582.0,297.0,106.0,0.0
+38009,Bottineau,ND,Midwest,Neither,727.0,399.0,232.0,58.0,15.0
+38011,Bowman,ND,Midwest,Drought only,917.0,624.0,405.0,140.0,5.0
+38013,Burke,ND,Midwest,Neither,799.0,427.0,254.0,80.0,0.0
+38015,Burleigh,ND,Midwest,Neither,732.0,453.0,141.0,46.0,15.0
+38017,Cass,ND,Midwest,Neither,612.0,279.0,94.0,10.0,3.0
+38019,Cavalier,ND,Midwest,Neither,641.0,357.0,150.0,33.0,0.0
+38021,Dickey,ND,Midwest,Neither,639.0,301.0,110.0,26.0,0.0
+38023,Divide,ND,Midwest,Neither,826.0,428.0,282.0,91.0,11.0
+38025,Dunn,ND,Midwest,Neither,836.0,530.0,270.0,99.0,12.0
+38027,Eddy,ND,Midwest,Neither,679.0,287.0,116.0,38.0,5.0
+38029,Emmons,ND,Midwest,Neither,770.0,466.0,194.0,53.0,5.0
+38031,Foster,ND,Midwest,Neither,657.0,281.0,129.0,38.0,4.0
+38033,Golden Valley,ND,Midwest,Drought only,880.0,588.0,328.0,105.0,9.0
+38035,Grand Forks,ND,Midwest,Neither,681.0,306.0,118.0,26.0,3.0
+38037,Grant,ND,Midwest,Neither,834.0,556.0,322.0,71.0,6.0
+38039,Griggs,ND,Midwest,Neither,633.0,265.0,104.0,20.0,2.0
+38041,Hettinger,ND,Midwest,Drought only,850.0,566.0,343.0,81.0,5.0
+38043,Kidder,ND,Midwest,Neither,721.0,334.0,130.0,42.0,4.0
+38045,LaMoure,ND,Midwest,Neither,605.0,305.0,128.0,17.0,0.0
+38047,Logan,ND,Midwest,Neither,644.0,324.0,137.0,40.0,0.0
+38049,McHenry,ND,Midwest,Neither,742.0,409.0,201.0,71.0,18.0
+38051,McIntosh,ND,Midwest,Neither,664.0,362.0,163.0,40.0,0.0
+38053,McKenzie,ND,Midwest,Fire only,902.0,542.0,305.0,132.0,12.0
+38055,McLean,ND,Midwest,Neither,837.0,465.0,178.0,62.0,23.0
+38057,Mercer,ND,Midwest,Neither,774.0,463.0,217.0,66.0,19.0
+38059,Morton,ND,Midwest,Neither,798.0,531.0,312.0,65.0,13.0
+38061,Mountrail,ND,Midwest,Neither,856.0,465.0,250.0,109.0,13.0
+38063,Nelson,ND,Midwest,Neither,662.0,296.0,132.0,34.0,0.0
+38065,Oliver,ND,Midwest,Neither,755.0,430.0,209.0,55.0,18.0
+38067,Pembina,ND,Midwest,Neither,628.0,321.0,99.0,26.0,0.0
+38069,Pierce,ND,Midwest,Neither,676.0,360.0,153.0,38.0,17.0
+38071,Ramsey,ND,Midwest,Neither,675.0,330.0,121.0,33.0,0.0
+38073,Ransom,ND,Midwest,Fire only,578.0,237.0,79.0,3.0,0.0
+38075,Renville,ND,Midwest,Neither,744.0,409.0,237.0,81.0,15.0
+38077,Richland,ND,Midwest,Neither,632.0,322.0,69.0,3.0,0.0
+38079,Rolette,ND,Midwest,Fire only,641.0,340.0,167.0,37.0,7.0
+38081,Sargent,ND,Midwest,Neither,605.0,269.0,64.0,3.0,0.0
+38083,Sheridan,ND,Midwest,Neither,751.0,327.0,109.0,38.0,18.0
+38085,Sioux,ND,Midwest,Neither,844.0,541.0,307.0,85.0,5.0
+38087,Slope,ND,Midwest,Fire + Drought,890.0,620.0,371.0,99.0,5.0
+38089,Stark,ND,Midwest,Drought only,856.0,556.0,277.0,81.0,5.0
+38091,Steele,ND,Midwest,Neither,610.0,223.0,93.0,13.0,0.0
+38093,Stutsman,ND,Midwest,Neither,668.0,349.0,129.0,33.0,4.0
+38095,Towner,ND,Midwest,Neither,627.0,337.0,169.0,37.0,6.0
+38097,Traill,ND,Midwest,Neither,630.0,279.0,87.0,12.0,4.0
+38099,Walsh,ND,Midwest,Neither,640.0,302.0,107.0,25.0,0.0
+38101,Ward,ND,Midwest,Neither,811.0,447.0,249.0,83.0,23.0
+38103,Wells,ND,Midwest,Neither,728.0,323.0,95.0,39.0,16.0
+38105,Williams,ND,Midwest,Fire only,852.0,497.0,283.0,127.0,10.0
+39001,Adams,OH,Midwest,Neither,309.0,150.0,60.0,10.0,0.0
+39003,Allen,OH,Midwest,Neither,372.0,144.0,40.0,13.0,0.0
+39005,Ashland,OH,Midwest,Neither,305.0,106.0,12.0,0.0,0.0
+39007,Ashtabula,OH,Midwest,Neither,288.0,84.0,7.0,0.0,0.0
+39009,Athens,OH,Midwest,Neither,275.0,104.0,27.0,13.0,11.0
+39011,Auglaize,OH,Midwest,Neither,361.0,119.0,41.0,13.0,0.0
+39013,Belmont,OH,Midwest,Neither,310.0,86.0,36.0,19.0,12.0
+39015,Brown,OH,Midwest,Neither,317.0,150.0,43.0,9.0,0.0
+39017,Butler,OH,Midwest,Neither,326.0,146.0,37.0,10.0,0.0
+39019,Carroll,OH,Midwest,Neither,329.0,81.0,28.0,14.0,0.0
+39021,Champaign,OH,Midwest,Neither,295.0,123.0,12.0,2.0,0.0
+39023,Clark,OH,Midwest,Neither,288.0,134.0,16.0,2.0,0.0
+39025,Clermont,OH,Midwest,Neither,313.0,145.0,43.0,9.0,0.0
+39027,Clinton,OH,Midwest,Neither,284.0,145.0,36.0,10.0,0.0
+39029,Columbiana,OH,Midwest,Neither,344.0,89.0,17.0,2.0,0.0
+39031,Coshocton,OH,Midwest,Neither,312.0,82.0,20.0,8.0,0.0
+39033,Crawford,OH,Midwest,Neither,302.0,95.0,11.0,0.0,0.0
+39035,Cuyahoga,OH,Midwest,Neither,259.0,97.0,10.0,0.0,0.0
+39037,Darke,OH,Midwest,Neither,369.0,137.0,48.0,0.0,0.0
+39039,Defiance,OH,Midwest,Neither,436.0,201.0,56.0,20.0,0.0
+39041,Delaware,OH,Midwest,Neither,272.0,85.0,17.0,2.0,0.0
+39043,Erie,OH,Midwest,Neither,290.0,144.0,13.0,4.0,0.0
+39045,Fairfield,OH,Midwest,Neither,291.0,90.0,30.0,14.0,10.0
+39047,Fayette,OH,Midwest,Neither,275.0,139.0,40.0,16.0,4.0
+39049,Franklin,OH,Midwest,Neither,294.0,117.0,31.0,10.0,1.0
+39051,Fulton,OH,Midwest,Neither,439.0,200.0,58.0,18.0,0.0
+39053,Gallia,OH,Midwest,Neither,314.0,137.0,61.0,14.0,0.0
+39055,Geauga,OH,Midwest,Neither,262.0,92.0,8.0,0.0,0.0
+39057,Greene,OH,Midwest,Neither,301.0,139.0,24.0,4.0,0.0
+39059,Guernsey,OH,Midwest,Neither,335.0,82.0,31.0,15.0,12.0
+39061,Hamilton,OH,Midwest,Neither,320.0,148.0,41.0,12.0,0.0
+39063,Hancock,OH,Midwest,Neither,399.0,168.0,33.0,15.0,0.0
+39065,Hardin,OH,Midwest,Neither,344.0,123.0,18.0,0.0,0.0
+39067,Harrison,OH,Midwest,Neither,329.0,83.0,30.0,15.0,12.0
+39069,Henry,OH,Midwest,Neither,436.0,185.0,50.0,20.0,0.0
+39071,Highland,OH,Midwest,Neither,300.0,139.0,42.0,14.0,3.0
+39073,Hocking,OH,Midwest,Neither,262.0,99.0,27.0,13.0,10.0
+39075,Holmes,OH,Midwest,Neither,310.0,91.0,23.0,4.0,0.0
+39077,Huron,OH,Midwest,Neither,297.0,117.0,12.0,4.0,0.0
+39079,Jackson,OH,Midwest,Neither,302.0,141.0,50.0,15.0,9.0
+39081,Jefferson,OH,Midwest,Neither,333.0,91.0,33.0,17.0,11.0
+39083,Knox,OH,Midwest,Neither,274.0,75.0,16.0,0.0,0.0
+39085,Lake,OH,Midwest,Neither,225.0,76.0,7.0,0.0,0.0
+39087,Lawrence,OH,Midwest,Neither,353.0,136.0,56.0,7.0,0.0
+39089,Licking,OH,Midwest,Neither,315.0,79.0,19.0,11.0,8.0
+39091,Logan,OH,Midwest,Neither,315.0,110.0,19.0,2.0,0.0
+39093,Lorain,OH,Midwest,Neither,262.0,105.0,10.0,0.0,0.0
+39095,Lucas,OH,Midwest,Neither,441.0,181.0,43.0,18.0,0.0
+39097,Madison,OH,Midwest,Neither,290.0,134.0,28.0,12.0,4.0
+39099,Mahoning,OH,Midwest,Neither,344.0,98.0,16.0,0.0,0.0
+39101,Marion,OH,Midwest,Neither,281.0,90.0,13.0,0.0,0.0
+39103,Medina,OH,Midwest,Neither,305.0,101.0,7.0,0.0,0.0
+39105,Meigs,OH,Midwest,Neither,302.0,111.0,35.0,14.0,11.0
+39107,Mercer,OH,Midwest,Neither,401.0,142.0,47.0,13.0,0.0
+39109,Miami,OH,Midwest,Neither,320.0,127.0,18.0,2.0,0.0
+39111,Monroe,OH,Midwest,Neither,325.0,86.0,35.0,19.0,12.0
+39113,Montgomery,OH,Midwest,Neither,306.0,130.0,27.0,4.0,0.0
+39115,Morgan,OH,Midwest,Neither,281.0,90.0,29.0,15.0,12.0
+39117,Morrow,OH,Midwest,Neither,277.0,88.0,10.0,0.0,0.0
+39119,Muskingum,OH,Midwest,Neither,323.0,84.0,30.0,15.0,12.0
+39121,Noble,OH,Midwest,Neither,329.0,78.0,33.0,15.0,12.0
+39123,Ottawa,OH,Midwest,Neither,360.0,163.0,28.0,12.0,0.0
+39125,Paulding,OH,Midwest,Neither,432.0,173.0,55.0,14.0,0.0
+39127,Perry,OH,Midwest,Neither,295.0,83.0,27.0,15.0,12.0
+39129,Pickaway,OH,Midwest,Neither,281.0,122.0,36.0,12.0,4.0
+39131,Pike,OH,Midwest,Neither,298.0,147.0,34.0,13.0,3.0
+39133,Portage,OH,Midwest,Neither,328.0,110.0,12.0,0.0,0.0
+39135,Preble,OH,Midwest,Neither,325.0,123.0,30.0,4.0,0.0
+39137,Putnam,OH,Midwest,Neither,383.0,165.0,47.0,15.0,0.0
+39139,Richland,OH,Midwest,Neither,311.0,96.0,11.0,0.0,0.0
+39141,Ross,OH,Midwest,Neither,291.0,143.0,42.0,13.0,4.0
+39143,Sandusky,OH,Midwest,Neither,348.0,154.0,24.0,13.0,0.0
+39145,Scioto,OH,Midwest,Neither,333.0,160.0,55.0,9.0,0.0
+39147,Seneca,OH,Midwest,Neither,347.0,159.0,23.0,6.0,0.0
+39149,Shelby,OH,Midwest,Neither,340.0,116.0,25.0,0.0,0.0
+39151,Stark,OH,Midwest,Neither,354.0,115.0,22.0,4.0,0.0
+39153,Summit,OH,Midwest,Neither,329.0,106.0,12.0,0.0,0.0
+39155,Trumbull,OH,Midwest,Neither,326.0,96.0,11.0,0.0,0.0
+39157,Tuscarawas,OH,Midwest,Neither,347.0,95.0,30.0,13.0,11.0
+39159,Union,OH,Midwest,Neither,293.0,110.0,14.0,2.0,0.0
+39161,Van Wert,OH,Midwest,Neither,405.0,151.0,50.0,14.0,0.0
+39163,Vinton,OH,Midwest,Neither,295.0,133.0,31.0,13.0,9.0
+39165,Warren,OH,Midwest,Neither,302.0,145.0,37.0,11.0,0.0
+39167,Washington,OH,Midwest,Neither,319.0,102.0,28.0,14.0,4.0
+39169,Wayne,OH,Midwest,Neither,330.0,112.0,19.0,4.0,0.0
+39171,Williams,OH,Midwest,Neither,444.0,211.0,65.0,16.0,0.0
+39173,Wood,OH,Midwest,Neither,437.0,177.0,44.0,15.0,0.0
+39175,Wyandot,OH,Midwest,Neither,333.0,129.0,15.0,3.0,0.0
+40001,Adair,OK,South,Fire only,633.0,318.0,142.0,55.0,4.0
+40003,Alfalfa,OK,South,Drought only,789.0,568.0,403.0,257.0,107.0
+40005,Atoka,OK,South,Fire only,791.0,538.0,322.0,152.0,38.0
+40007,Beaver,OK,South,Fire + Drought,945.0,697.0,466.0,323.0,165.0
+40009,Beckham,OK,South,Drought only,972.0,742.0,502.0,350.0,145.0
+40011,Blaine,OK,South,Fire + Drought,855.0,613.0,406.0,241.0,87.0
+40013,Bryan,OK,South,Drought only,843.0,619.0,366.0,161.0,36.0
+40015,Caddo,OK,South,Drought only,933.0,687.0,430.0,254.0,30.0
+40017,Canadian,OK,South,Drought only,839.0,598.0,377.0,195.0,22.0
+40019,Carter,OK,South,Fire + Drought,837.0,602.0,335.0,191.0,38.0
+40021,Cherokee,OK,South,Fire only,671.0,322.0,159.0,74.0,13.0
+40023,Choctaw,OK,South,Drought only,815.0,565.0,341.0,158.0,36.0
+40025,Cimarron,OK,South,Fire + Drought,982.0,795.0,584.0,389.0,193.0
+40027,Cleveland,OK,South,Neither,775.0,484.0,281.0,127.0,24.0
+40029,Coal,OK,South,Neither,690.0,463.0,255.0,133.0,46.0
+40031,Comanche,OK,South,Fire + Drought,926.0,694.0,467.0,291.0,125.0
+40033,Cotton,OK,South,Drought only,891.0,653.0,425.0,272.0,125.0
+40035,Craig,OK,South,Neither,693.0,393.0,224.0,91.0,22.0
+40037,Creek,OK,South,Fire only,743.0,457.0,292.0,104.0,42.0
+40039,Custer,OK,South,Drought only,894.0,680.0,459.0,287.0,78.0
+40041,Delaware,OK,South,Neither,696.0,355.0,141.0,65.0,10.0
+40043,Dewey,OK,South,Drought only,886.0,644.0,443.0,293.0,96.0
+40045,Ellis,OK,South,Fire + Drought,961.0,741.0,484.0,283.0,141.0
+40047,Garfield,OK,South,Drought only,799.0,591.0,397.0,216.0,62.0
+40049,Garvin,OK,South,Drought only,821.0,550.0,320.0,157.0,45.0
+40051,Grady,OK,South,Drought only,868.0,610.0,359.0,188.0,33.0
+40053,Grant,OK,South,Drought only,779.0,567.0,389.0,217.0,103.0
+40055,Greer,OK,South,Drought only,965.0,708.0,530.0,377.0,199.0
+40057,Harmon,OK,South,Drought only,961.0,683.0,518.0,375.0,179.0
+40059,Harper,OK,South,Fire + Drought,925.0,668.0,464.0,296.0,122.0
+40061,Haskell,OK,South,Neither,604.0,286.0,173.0,87.0,7.0
+40063,Hughes,OK,South,Fire only,677.0,440.0,243.0,101.0,37.0
+40065,Jackson,OK,South,Drought only,946.0,728.0,527.0,403.0,203.0
+40067,Jefferson,OK,South,Drought only,866.0,622.0,419.0,211.0,68.0
+40069,Johnston,OK,South,Drought only,801.0,561.0,314.0,144.0,46.0
+40071,Kay,OK,South,Drought only,766.0,537.0,381.0,183.0,86.0
+40073,Kingfisher,OK,South,Drought only,815.0,586.0,376.0,220.0,74.0
+40075,Kiowa,OK,South,Fire + Drought,976.0,729.0,522.0,350.0,151.0
+40077,Latimer,OK,South,Neither,662.0,351.0,198.0,102.0,8.0
+40079,Le Flore,OK,South,Fire only,673.0,378.0,200.0,101.0,12.0
+40081,Lincoln,OK,South,Neither,752.0,476.0,276.0,129.0,43.0
+40083,Logan,OK,South,Neither,759.0,551.0,346.0,150.0,36.0
+40085,Love,OK,South,Drought only,822.0,576.0,335.0,170.0,26.0
+40087,McClain,OK,South,Neither,813.0,503.0,290.0,144.0,24.0
+40089,McCurtain,OK,South,Fire only,746.0,468.0,274.0,135.0,30.0
+40091,McIntosh,OK,South,Fire only,622.0,333.0,174.0,93.0,24.0
+40093,Major,OK,South,Fire + Drought,823.0,608.0,457.0,264.0,94.0
+40095,Marshall,OK,South,Drought only,785.0,548.0,296.0,154.0,22.0
+40097,Mayes,OK,South,Neither,708.0,386.0,179.0,90.0,15.0
+40099,Murray,OK,South,Fire + Drought,782.0,526.0,303.0,147.0,46.0
+40101,Muskogee,OK,South,Neither,652.0,333.0,180.0,89.0,8.0
+40103,Noble,OK,South,Drought only,766.0,579.0,390.0,193.0,57.0
+40105,Nowata,OK,South,Neither,690.0,450.0,254.0,109.0,35.0
+40107,Okfuskee,OK,South,Fire only,663.0,375.0,204.0,102.0,44.0
+40109,Oklahoma,OK,South,Neither,742.0,510.0,275.0,127.0,19.0
+40111,Okmulgee,OK,South,Fire only,645.0,381.0,190.0,91.0,41.0
+40113,Osage,OK,South,Fire only,793.0,569.0,382.0,204.0,83.0
+40115,Ottawa,OK,South,Neither,650.0,366.0,155.0,66.0,19.0
+40117,Pawnee,OK,South,Fire + Drought,748.0,543.0,363.0,171.0,56.0
+40119,Payne,OK,South,Neither,764.0,551.0,311.0,141.0,38.0
+40121,Pittsburg,OK,South,Neither,698.0,428.0,232.0,131.0,32.0
+40123,Pontotoc,OK,South,Neither,751.0,531.0,294.0,133.0,45.0
+40125,Pottawatomie,OK,South,Neither,746.0,489.0,262.0,114.0,37.0
+40127,Pushmataha,OK,South,Neither,763.0,516.0,285.0,144.0,34.0
+40129,Roger Mills,OK,South,Fire + Drought,938.0,723.0,489.0,274.0,110.0
+40131,Rogers,OK,South,Neither,721.0,419.0,226.0,103.0,29.0
+40133,Seminole,OK,South,Fire only,699.0,447.0,255.0,112.0,37.0
+40135,Sequoyah,OK,South,Neither,607.0,294.0,166.0,64.0,3.0
+40137,Stephens,OK,South,Drought only,880.0,595.0,387.0,235.0,65.0
+40139,Texas,OK,South,Drought only,977.0,757.0,556.0,369.0,203.0
+40141,Tillman,OK,South,Drought only,931.0,696.0,497.0,367.0,203.0
+40143,Tulsa,OK,South,Neither,718.0,464.0,265.0,101.0,35.0
+40145,Wagoner,OK,South,Neither,716.0,373.0,181.0,87.0,14.0
+40147,Washington,OK,South,Neither,690.0,458.0,312.0,148.0,48.0
+40149,Washita,OK,South,Drought only,945.0,732.0,490.0,295.0,79.0
+40151,Woods,OK,South,Drought only,888.0,646.0,453.0,283.0,121.0
+40153,Woodward,OK,South,Drought only,926.0,674.0,462.0,280.0,160.0
+41001,Baker,OR,West,Fire + Drought,1051.0,785.0,520.0,244.0,0.0
+41003,Benton,OR,West,Neither,680.0,394.0,207.0,45.0,0.0
+41005,Clackamas,OR,West,Fire only,776.0,456.0,234.0,49.0,0.0
+41007,Clatsop,OR,West,Neither,499.0,261.0,73.0,2.0,0.0
+41009,Columbia,OR,West,Neither,547.0,275.0,105.0,0.0,0.0
+41011,Coos,OR,West,Neither,669.0,433.0,242.0,104.0,0.0
+41013,Crook,OR,West,Fire + Drought,1071.0,775.0,489.0,297.0,91.0
+41015,Curry,OR,West,Fire only,676.0,416.0,260.0,106.0,0.0
+41017,Deschutes,OR,West,Fire + Drought,1111.0,863.0,489.0,291.0,100.0
+41019,Douglas,OR,West,Fire only,888.0,636.0,367.0,171.0,9.0
+41021,Gilliam,OR,West,Fire + Drought,980.0,633.0,310.0,147.0,42.0
+41023,Grant,OR,West,Fire + Drought,1066.0,773.0,553.0,258.0,46.0
+41025,Harney,OR,West,Fire + Drought,1114.0,967.0,765.0,417.0,73.0
+41027,Hood River,OR,West,Fire only,773.0,408.0,198.0,49.0,0.0
+41029,Jackson,OR,West,Fire + Drought,946.0,643.0,383.0,292.0,0.0
+41031,Jefferson,OR,West,Fire + Drought,964.0,655.0,381.0,227.0,57.0
+41033,Josephine,OR,West,Fire only,776.0,506.0,315.0,159.0,0.0
+41035,Klamath,OR,West,Fire + Drought,1110.0,957.0,567.0,305.0,63.0
+41037,Lake,OR,West,Fire + Drought,1126.0,983.0,783.0,413.0,63.0
+41039,Lane,OR,West,Fire only,863.0,596.0,319.0,101.0,9.0
+41041,Lincoln,OR,West,Neither,591.0,338.0,159.0,23.0,0.0
+41043,Linn,OR,West,Fire only,811.0,509.0,252.0,87.0,0.0
+41045,Malheur,OR,West,Fire + Drought,1086.0,944.0,662.0,319.0,25.0
+41047,Marion,OR,West,Fire only,777.0,475.0,238.0,46.0,0.0
+41049,Morrow,OR,West,Fire + Drought,974.0,649.0,309.0,125.0,24.0
+41051,Multnomah,OR,West,Fire only,638.0,346.0,177.0,16.0,0.0
+41053,Polk,OR,West,Neither,657.0,361.0,187.0,2.0,0.0
+41055,Sherman,OR,West,Fire + Drought,947.0,581.0,309.0,144.0,42.0
+41057,Tillamook,OR,West,Neither,519.0,276.0,125.0,16.0,0.0
+41059,Umatilla,OR,West,Fire + Drought,1024.0,653.0,329.0,107.0,20.0
+41061,Union,OR,West,Drought only,959.0,670.0,365.0,127.0,0.0
+41063,Wallowa,OR,West,Fire + Drought,947.0,662.0,309.0,121.0,20.0
+41065,Wasco,OR,West,Fire + Drought,963.0,618.0,374.0,168.0,49.0
+41067,Washington,OR,West,Neither,597.0,302.0,156.0,2.0,0.0
+41069,Wheeler,OR,West,Fire + Drought,1030.0,700.0,384.0,187.0,49.0
+41071,Yamhill,OR,West,Neither,640.0,318.0,173.0,2.0,0.0
+42001,Adams,PA,Northeast,Neither,452.0,206.0,39.0,19.0,0.0
+42003,Allegheny,PA,Northeast,Neither,339.0,78.0,8.0,0.0,0.0
+42005,Armstrong,PA,Northeast,Neither,399.0,82.0,1.0,0.0,0.0
+42007,Beaver,PA,Northeast,Neither,341.0,74.0,14.0,2.0,0.0
+42009,Bedford,PA,Northeast,Neither,507.0,162.0,46.0,2.0,0.0
+42011,Berks,PA,Northeast,Neither,422.0,181.0,66.0,13.0,0.0
+42013,Blair,PA,Northeast,Neither,405.0,104.0,10.0,0.0,0.0
+42015,Bradford,PA,Northeast,Neither,377.0,101.0,4.0,0.0,0.0
+42017,Bucks,PA,Northeast,Neither,396.0,184.0,77.0,20.0,0.0
+42019,Butler,PA,Northeast,Neither,391.0,78.0,1.0,0.0,0.0
+42021,Cambria,PA,Northeast,Neither,405.0,118.0,22.0,0.0,0.0
+42023,Cameron,PA,Northeast,Neither,402.0,92.0,20.0,0.0,0.0
+42025,Carbon,PA,Northeast,Neither,432.0,153.0,53.0,0.0,0.0
+42027,Centre,PA,Northeast,Neither,446.0,147.0,21.0,0.0,0.0
+42029,Chester,PA,Northeast,Neither,415.0,172.0,68.0,27.0,1.0
+42031,Clarion,PA,Northeast,Neither,409.0,76.0,4.0,0.0,0.0
+42033,Clearfield,PA,Northeast,Neither,416.0,98.0,17.0,0.0,0.0
+42035,Clinton,PA,Northeast,Neither,439.0,135.0,23.0,0.0,0.0
+42037,Columbia,PA,Northeast,Neither,428.0,119.0,34.0,0.0,0.0
+42039,Crawford,PA,Northeast,Neither,398.0,93.0,11.0,0.0,0.0
+42041,Cumberland,PA,Northeast,Neither,481.0,155.0,20.0,4.0,0.0
+42043,Dauphin,PA,Northeast,Neither,438.0,144.0,46.0,10.0,0.0
+42045,Delaware,PA,Northeast,Neither,361.0,156.0,68.0,24.0,0.0
+42047,Elk,PA,Northeast,Neither,474.0,99.0,19.0,0.0,0.0
+42049,Erie,PA,Northeast,Neither,351.0,87.0,18.0,0.0,0.0
+42051,Fayette,PA,Northeast,Neither,414.0,84.0,26.0,3.0,0.0
+42053,Forest,PA,Northeast,Neither,455.0,90.0,9.0,0.0,0.0
+42055,Franklin,PA,Northeast,Neither,521.0,213.0,48.0,9.0,0.0
+42057,Fulton,PA,Northeast,Neither,498.0,163.0,35.0,3.0,0.0
+42059,Greene,PA,Northeast,Neither,329.0,95.0,24.0,13.0,0.0
+42061,Huntingdon,PA,Northeast,Neither,494.0,141.0,18.0,0.0,0.0
+42063,Indiana,PA,Northeast,Neither,402.0,89.0,17.0,0.0,0.0
+42065,Jefferson,PA,Northeast,Neither,419.0,87.0,1.0,0.0,0.0
+42067,Juniata,PA,Northeast,Neither,434.0,142.0,9.0,0.0,0.0
+42069,Lackawanna,PA,Northeast,Neither,386.0,92.0,12.0,0.0,0.0
+42071,Lancaster,PA,Northeast,Neither,433.0,188.0,71.0,23.0,0.0
+42073,Lawrence,PA,Northeast,Neither,305.0,78.0,9.0,0.0,0.0
+42075,Lebanon,PA,Northeast,Neither,410.0,154.0,52.0,11.0,0.0
+42077,Lehigh,PA,Northeast,Neither,394.0,154.0,64.0,8.0,0.0
+42079,Luzerne,PA,Northeast,Neither,442.0,146.0,34.0,0.0,0.0
+42081,Lycoming,PA,Northeast,Neither,447.0,141.0,24.0,0.0,0.0
+42083,McKean,PA,Northeast,Neither,449.0,105.0,22.0,0.0,0.0
+42085,Mercer,PA,Northeast,Neither,362.0,72.0,9.0,0.0,0.0
+42087,Mifflin,PA,Northeast,Neither,419.0,117.0,8.0,0.0,0.0
+42089,Monroe,PA,Northeast,Neither,416.0,171.0,66.0,1.0,0.0
+42091,Montgomery,PA,Northeast,Neither,376.0,174.0,75.0,23.0,0.0
+42093,Montour,PA,Northeast,Neither,366.0,118.0,10.0,0.0,0.0
+42095,Northampton,PA,Northeast,Neither,398.0,179.0,67.0,8.0,0.0
+42097,Northumberland,PA,Northeast,Neither,438.0,140.0,35.0,0.0,0.0
+42099,Perry,PA,Northeast,Neither,444.0,136.0,14.0,1.0,0.0
+42101,Philadelphia,PA,Northeast,Neither,365.0,159.0,63.0,23.0,0.0
+42103,Pike,PA,Northeast,Neither,386.0,171.0,48.0,7.0,0.0
+42105,Potter,PA,Northeast,Neither,454.0,110.0,30.0,0.0,0.0
+42107,Schuylkill,PA,Northeast,Neither,458.0,160.0,44.0,0.0,0.0
+42109,Snyder,PA,Northeast,Neither,397.0,139.0,6.0,0.0,0.0
+42111,Somerset,PA,Northeast,Neither,501.0,142.0,36.0,2.0,0.0
+42113,Sullivan,PA,Northeast,Neither,381.0,73.0,0.0,0.0,0.0
+42115,Susquehanna,PA,Northeast,Neither,281.0,67.0,1.0,0.0,0.0
+42117,Tioga,PA,Northeast,Neither,388.0,110.0,24.0,0.0,0.0
+42119,Union,PA,Northeast,Neither,410.0,128.0,10.0,0.0,0.0
+42121,Venango,PA,Northeast,Neither,423.0,82.0,9.0,0.0,0.0
+42123,Warren,PA,Northeast,Neither,444.0,86.0,11.0,0.0,0.0
+42125,Washington,PA,Northeast,Neither,326.0,93.0,26.0,13.0,0.0
+42127,Wayne,PA,Northeast,Neither,396.0,104.0,14.0,0.0,0.0
+42129,Westmoreland,PA,Northeast,Neither,407.0,77.0,20.0,3.0,0.0
+42131,Wyoming,PA,Northeast,Neither,339.0,72.0,0.0,0.0,0.0
+42133,York,PA,Northeast,Neither,456.0,201.0,71.0,22.0,0.0
+44001,Bristol,RI,Northeast,Neither,379.0,163.0,39.0,11.0,0.0
+44003,Kent,RI,Northeast,Neither,412.0,172.0,59.0,10.0,0.0
+44005,Newport,RI,Northeast,Neither,388.0,177.0,48.0,13.0,0.0
+44007,Providence,RI,Northeast,Neither,436.0,205.0,62.0,19.0,0.0
+44009,Washington,RI,Northeast,Neither,447.0,206.0,57.0,13.0,0.0
+45001,Abbeville,SC,South,Drought only,787.0,550.0,350.0,218.0,57.0
+45003,Aiken,SC,South,Neither,810.0,503.0,262.0,152.0,21.0
+45005,Allendale,SC,South,Neither,772.0,491.0,243.0,113.0,7.0
+45007,Anderson,SC,South,Drought only,765.0,546.0,363.0,195.0,65.0
+45009,Bamberg,SC,South,Neither,767.0,439.0,206.0,101.0,7.0
+45011,Barnwell,SC,South,Neither,780.0,485.0,245.0,117.0,19.0
+45013,Beaufort,SC,South,Neither,771.0,390.0,163.0,90.0,11.0
+45015,Berkeley,SC,South,Fire only,705.0,348.0,133.0,46.0,0.0
+45017,Calhoun,SC,South,Neither,694.0,396.0,187.0,63.0,5.0
+45019,Charleston,SC,South,Neither,705.0,328.0,135.0,75.0,3.0
+45021,Cherokee,SC,South,Neither,758.0,506.0,313.0,138.0,47.0
+45023,Chester,SC,South,Neither,814.0,526.0,283.0,110.0,39.0
+45025,Chesterfield,SC,South,Fire only,761.0,420.0,200.0,81.0,26.0
+45027,Clarendon,SC,South,Neither,737.0,359.0,137.0,51.0,0.0
+45029,Colleton,SC,South,Neither,814.0,418.0,183.0,89.0,4.0
+45031,Darlington,SC,South,Neither,735.0,375.0,136.0,71.0,8.0
+45033,Dillon,SC,South,Neither,679.0,348.0,114.0,63.0,4.0
+45035,Dorchester,SC,South,Neither,723.0,382.0,148.0,63.0,4.0
+45037,Edgefield,SC,South,Drought only,815.0,528.0,279.0,185.0,25.0
+45039,Fairfield,SC,South,Neither,806.0,515.0,283.0,95.0,36.0
+45041,Florence,SC,South,Neither,716.0,374.0,131.0,64.0,0.0
+45043,Georgetown,SC,South,Neither,601.0,304.0,128.0,35.0,0.0
+45045,Greenville,SC,South,Drought only,764.0,528.0,336.0,188.0,56.0
+45047,Greenwood,SC,South,Drought only,816.0,538.0,321.0,207.0,50.0
+45049,Hampton,SC,South,Neither,799.0,478.0,207.0,99.0,6.0
+45051,Horry,SC,South,Neither,692.0,330.0,129.0,67.0,0.0
+45053,Jasper,SC,South,Neither,817.0,450.0,194.0,92.0,12.0
+45055,Kershaw,SC,South,Neither,785.0,454.0,212.0,80.0,26.0
+45057,Lancaster,SC,South,Neither,791.0,489.0,225.0,94.0,30.0
+45059,Laurens,SC,South,Drought only,811.0,550.0,329.0,190.0,53.0
+45061,Lee,SC,South,Neither,754.0,372.0,136.0,70.0,7.0
+45063,Lexington,SC,South,Neither,765.0,466.0,247.0,95.0,9.0
+45065,McCormick,SC,South,Drought only,813.0,562.0,338.0,222.0,57.0
+45067,Marion,SC,South,Neither,683.0,345.0,129.0,65.0,0.0
+45069,Marlboro,SC,South,Neither,719.0,364.0,133.0,69.0,22.0
+45071,Newberry,SC,South,Drought only,822.0,526.0,287.0,157.0,43.0
+45073,Oconee,SC,South,Neither,736.0,487.0,306.0,175.0,59.0
+45075,Orangeburg,SC,South,Neither,802.0,457.0,231.0,71.0,4.0
+45077,Pickens,SC,South,Neither,712.0,480.0,295.0,171.0,57.0
+45079,Richland,SC,South,Neither,783.0,458.0,238.0,84.0,9.0
+45081,Saluda,SC,South,Neither,805.0,491.0,266.0,168.0,28.0
+45083,Spartanburg,SC,South,Drought only,777.0,533.0,330.0,175.0,55.0
+45085,Sumter,SC,South,Neither,761.0,385.0,157.0,58.0,4.0
+45087,Union,SC,South,Drought only,799.0,530.0,315.0,135.0,46.0
+45089,Williamsburg,SC,South,Neither,685.0,331.0,130.0,54.0,0.0
+45091,York,SC,South,Neither,818.0,528.0,281.0,123.0,39.0
+46003,Aurora,SD,Midwest,Neither,685.0,390.0,199.0,66.0,0.0
+46005,Beadle,SD,Midwest,Neither,692.0,350.0,158.0,25.0,0.0
+46007,Bennett,SD,Midwest,Drought only,840.0,587.0,349.0,158.0,36.0
+46009,Bon Homme,SD,Midwest,Neither,716.0,416.0,223.0,87.0,37.0
+46011,Brookings,SD,Midwest,Neither,631.0,347.0,124.0,31.0,0.0
+46013,Brown,SD,Midwest,Neither,700.0,371.0,113.0,9.0,0.0
+46015,Brule,SD,Midwest,Neither,756.0,449.0,230.0,71.0,23.0
+46017,Buffalo,SD,Midwest,Neither,707.0,360.0,185.0,51.0,0.0
+46019,Butte,SD,Midwest,Drought only,865.0,680.0,429.0,181.0,13.0
+46021,Campbell,SD,Midwest,Neither,769.0,465.0,236.0,54.0,6.0
+46023,Charles Mix,SD,Midwest,Neither,782.0,499.0,278.0,102.0,31.0
+46025,Clark,SD,Midwest,Neither,665.0,319.0,71.0,0.0,0.0
+46027,Clay,SD,Midwest,Neither,638.0,405.0,218.0,107.0,37.0
+46029,Codington,SD,Midwest,Neither,656.0,317.0,84.0,16.0,0.0
+46031,Corson,SD,Midwest,Drought only,886.0,584.0,380.0,125.0,8.0
+46033,Custer,SD,Midwest,Fire + Drought,923.0,700.0,448.0,193.0,43.0
+46035,Davison,SD,Midwest,Neither,655.0,372.0,159.0,58.0,0.0
+46037,Day,SD,Midwest,Neither,666.0,360.0,62.0,1.0,0.0
+46039,Deuel,SD,Midwest,Neither,619.0,321.0,110.0,21.0,0.0
+46041,Dewey,SD,Midwest,Drought only,882.0,580.0,389.0,151.0,35.0
+46043,Douglas,SD,Midwest,Neither,686.0,420.0,191.0,57.0,24.0
+46045,Edmunds,SD,Midwest,Neither,746.0,382.0,185.0,39.0,4.0
+46047,Fall River,SD,Midwest,Fire + Drought,941.0,718.0,505.0,235.0,42.0
+46049,Faulk,SD,Midwest,Neither,748.0,363.0,174.0,35.0,3.0
+46051,Grant,SD,Midwest,Neither,669.0,348.0,95.0,21.0,0.0
+46053,Gregory,SD,Midwest,Neither,765.0,488.0,292.0,102.0,28.0
+46055,Haakon,SD,Midwest,Drought only,864.0,654.0,378.0,167.0,39.0
+46057,Hamlin,SD,Midwest,Neither,604.0,274.0,88.0,16.0,0.0
+46059,Hand,SD,Midwest,Neither,751.0,364.0,179.0,48.0,0.0
+46061,Hanson,SD,Midwest,Neither,635.0,330.0,140.0,38.0,0.0
+46063,Harding,SD,Midwest,Fire + Drought,910.0,688.0,447.0,175.0,0.0
+46065,Hughes,SD,Midwest,Neither,782.0,458.0,254.0,98.0,32.0
+46067,Hutchinson,SD,Midwest,Neither,680.0,386.0,186.0,61.0,36.0
+46069,Hyde,SD,Midwest,Neither,747.0,405.0,179.0,52.0,4.0
+46071,Jackson,SD,Midwest,Fire + Drought,872.0,670.0,379.0,200.0,38.0
+46073,Jerauld,SD,Midwest,Neither,663.0,365.0,194.0,59.0,0.0
+46075,Jones,SD,Midwest,Fire + Drought,831.0,488.0,273.0,111.0,34.0
+46077,Kingsbury,SD,Midwest,Neither,656.0,330.0,133.0,26.0,0.0
+46079,Lake,SD,Midwest,Neither,653.0,347.0,146.0,41.0,0.0
+46081,Lawrence,SD,Midwest,Fire + Drought,857.0,660.0,339.0,121.0,13.0
+46083,Lincoln,SD,Midwest,Neither,653.0,363.0,222.0,81.0,31.0
+46085,Lyman,SD,Midwest,Neither,798.0,507.0,276.0,91.0,33.0
+46087,McCook,SD,Midwest,Neither,637.0,343.0,158.0,48.0,0.0
+46089,McPherson,SD,Midwest,Neither,741.0,378.0,164.0,41.0,1.0
+46091,Marshall,SD,Midwest,Neither,646.0,315.0,59.0,0.0,0.0
+46093,Meade,SD,Midwest,Fire + Drought,888.0,718.0,450.0,190.0,40.0
+46095,Mellette,SD,Midwest,Drought only,833.0,555.0,315.0,145.0,32.0
+46097,Miner,SD,Midwest,Neither,630.0,329.0,118.0,38.0,0.0
+46099,Minnehaha,SD,Midwest,Neither,657.0,348.0,177.0,68.0,0.0
+46101,Moody,SD,Midwest,Neither,621.0,346.0,157.0,45.0,0.0
+46102,Oglala Lakota,SD,Midwest,Fire + Drought,891.0,687.0,451.0,210.0,40.0
+46103,Pennington,SD,Midwest,Fire + Drought,947.0,749.0,498.0,250.0,51.0
+46105,Perkins,SD,Midwest,Fire + Drought,926.0,677.0,429.0,180.0,6.0
+46107,Potter,SD,Midwest,Neither,786.0,469.0,254.0,75.0,6.0
+46109,Roberts,SD,Midwest,Neither,691.0,353.0,76.0,0.0,0.0
+46111,Sanborn,SD,Midwest,Neither,657.0,327.0,133.0,50.0,0.0
+46115,Spink,SD,Midwest,Neither,690.0,364.0,99.0,8.0,0.0
+46117,Stanley,SD,Midwest,Drought only,843.0,522.0,316.0,121.0,34.0
+46119,Sully,SD,Midwest,Neither,790.0,484.0,279.0,99.0,33.0
+46121,Todd,SD,Midwest,Neither,811.0,497.0,294.0,135.0,35.0
+46123,Tripp,SD,Midwest,Neither,769.0,482.0,284.0,99.0,28.0
+46125,Turner,SD,Midwest,Neither,653.0,368.0,217.0,92.0,37.0
+46127,Union,SD,Midwest,Neither,651.0,449.0,273.0,120.0,31.0
+46129,Walworth,SD,Midwest,Neither,797.0,434.0,264.0,72.0,6.0
+46135,Yankton,SD,Midwest,Neither,690.0,385.0,215.0,86.0,37.0
+46137,Ziebach,SD,Midwest,Drought only,879.0,632.0,389.0,163.0,39.0
+47001,Anderson,TN,South,Neither,508.0,279.0,124.0,64.0,17.0
+47003,Bedford,TN,South,Neither,523.0,310.0,162.0,92.0,33.0
+47005,Benton,TN,South,Neither,456.0,234.0,121.0,42.0,5.0
+47007,Bledsoe,TN,South,Neither,581.0,333.0,193.0,85.0,41.0
+47009,Blount,TN,South,Fire only,564.0,353.0,168.0,90.0,23.0
+47011,Bradley,TN,South,Neither,614.0,387.0,214.0,103.0,50.0
+47013,Campbell,TN,South,Neither,478.0,259.0,110.0,54.0,8.0
+47015,Cannon,TN,South,Neither,454.0,273.0,153.0,61.0,31.0
+47017,Carroll,TN,South,Neither,452.0,255.0,119.0,41.0,4.0
+47019,Carter,TN,South,Neither,579.0,318.0,141.0,90.0,21.0
+47021,Cheatham,TN,South,Neither,466.0,233.0,80.0,26.0,9.0
+47023,Chester,TN,South,Neither,472.0,232.0,105.0,37.0,5.0
+47025,Claiborne,TN,South,Neither,486.0,264.0,100.0,52.0,11.0
+47027,Clay,TN,South,Neither,415.0,203.0,83.0,17.0,1.0
+47029,Cocke,TN,South,Fire only,565.0,316.0,156.0,87.0,23.0
+47031,Coffee,TN,South,Neither,507.0,315.0,180.0,90.0,39.0
+47033,Crockett,TN,South,Neither,482.0,261.0,126.0,39.0,0.0
+47035,Cumberland,TN,South,Neither,576.0,304.0,165.0,84.0,26.0
+47037,Davidson,TN,South,Neither,491.0,243.0,116.0,29.0,11.0
+47039,Decatur,TN,South,Neither,519.0,245.0,106.0,38.0,5.0
+47041,DeKalb,TN,South,Neither,464.0,255.0,144.0,54.0,24.0
+47043,Dickson,TN,South,Neither,479.0,245.0,91.0,29.0,11.0
+47045,Dyer,TN,South,Neither,510.0,286.0,141.0,54.0,7.0
+47047,Fayette,TN,South,Neither,496.0,236.0,117.0,45.0,2.0
+47049,Fentress,TN,South,Fire only,479.0,262.0,124.0,54.0,3.0
+47051,Franklin,TN,South,Neither,553.0,339.0,199.0,116.0,53.0
+47053,Gibson,TN,South,Neither,503.0,268.0,133.0,53.0,0.0
+47055,Giles,TN,South,Neither,566.0,322.0,169.0,106.0,28.0
+47057,Grainger,TN,South,Neither,499.0,277.0,112.0,59.0,16.0
+47059,Greene,TN,South,Neither,556.0,317.0,150.0,74.0,24.0
+47061,Grundy,TN,South,Neither,531.0,328.0,187.0,82.0,41.0
+47063,Hamblen,TN,South,Neither,493.0,291.0,129.0,65.0,18.0
+47065,Hamilton,TN,South,Neither,631.0,390.0,224.0,109.0,51.0
+47067,Hancock,TN,South,Neither,477.0,242.0,98.0,54.0,16.0
+47069,Hardeman,TN,South,Neither,509.0,229.0,113.0,39.0,3.0
+47071,Hardin,TN,South,Neither,562.0,292.0,125.0,49.0,13.0
+47073,Hawkins,TN,South,Neither,493.0,260.0,113.0,61.0,18.0
+47075,Haywood,TN,South,Neither,490.0,252.0,129.0,42.0,0.0
+47077,Henderson,TN,South,Neither,510.0,269.0,107.0,34.0,5.0
+47079,Henry,TN,South,Neither,460.0,253.0,128.0,33.0,8.0
+47081,Hickman,TN,South,Neither,485.0,255.0,120.0,43.0,8.0
+47083,Houston,TN,South,Neither,431.0,204.0,90.0,32.0,7.0
+47085,Humphreys,TN,South,Neither,442.0,234.0,111.0,34.0,7.0
+47087,Jackson,TN,South,Neither,428.0,213.0,92.0,40.0,5.0
+47089,Jefferson,TN,South,Neither,514.0,304.0,137.0,75.0,21.0
+47091,Johnson,TN,South,Neither,576.0,304.0,133.0,76.0,21.0
+47093,Knox,TN,South,Neither,523.0,313.0,137.0,70.0,20.0
+47095,Lake,TN,South,Neither,453.0,242.0,110.0,48.0,7.0
+47097,Lauderdale,TN,South,Neither,530.0,301.0,147.0,46.0,0.0
+47099,Lawrence,TN,South,Neither,566.0,302.0,155.0,75.0,16.0
+47101,Lewis,TN,South,Neither,461.0,259.0,111.0,45.0,12.0
+47103,Lincoln,TN,South,Neither,569.0,325.0,191.0,106.0,46.0
+47105,Loudon,TN,South,Neither,579.0,328.0,174.0,76.0,21.0
+47107,McMinn,TN,South,Neither,597.0,366.0,202.0,94.0,23.0
+47109,McNairy,TN,South,Neither,526.0,272.0,122.0,46.0,11.0
+47111,Macon,TN,South,Neither,403.0,194.0,77.0,14.0,0.0
+47113,Madison,TN,South,Neither,469.0,244.0,107.0,33.0,4.0
+47115,Marion,TN,South,Neither,598.0,367.0,220.0,108.0,54.0
+47117,Marshall,TN,South,Neither,508.0,314.0,151.0,93.0,32.0
+47119,Maury,TN,South,Neither,498.0,284.0,148.0,67.0,11.0
+47121,Meigs,TN,South,Neither,595.0,355.0,189.0,89.0,23.0
+47123,Monroe,TN,South,Fire only,638.0,374.0,209.0,103.0,32.0
+47125,Montgomery,TN,South,Neither,453.0,206.0,77.0,29.0,7.0
+47127,Moore,TN,South,Neither,518.0,300.0,173.0,94.0,38.0
+47129,Morgan,TN,South,Neither,551.0,292.0,154.0,81.0,14.0
+47131,Obion,TN,South,Neither,487.0,258.0,128.0,48.0,7.0
+47133,Overton,TN,South,Neither,473.0,253.0,115.0,44.0,7.0
+47135,Perry,TN,South,Neither,497.0,245.0,101.0,39.0,7.0
+47137,Pickett,TN,South,Neither,416.0,207.0,84.0,29.0,1.0
+47139,Polk,TN,South,Fire only,646.0,386.0,222.0,116.0,43.0
+47141,Putnam,TN,South,Neither,488.0,259.0,141.0,50.0,18.0
+47143,Rhea,TN,South,Neither,598.0,331.0,188.0,86.0,33.0
+47145,Roane,TN,South,Neither,602.0,309.0,169.0,92.0,20.0
+47147,Robertson,TN,South,Neither,447.0,212.0,64.0,16.0,8.0
+47149,Rutherford,TN,South,Neither,504.0,287.0,155.0,75.0,30.0
+47151,Scott,TN,South,Neither,499.0,257.0,114.0,50.0,9.0
+47153,Sequatchie,TN,South,Neither,580.0,355.0,197.0,83.0,52.0
+47155,Sevier,TN,South,Fire only,573.0,335.0,152.0,91.0,26.0
+47157,Shelby,TN,South,Neither,555.0,313.0,137.0,46.0,2.0
+47159,Smith,TN,South,Neither,442.0,218.0,106.0,42.0,8.0
+47161,Stewart,TN,South,Neither,426.0,239.0,102.0,26.0,7.0
+47163,Sullivan,TN,South,Neither,530.0,275.0,113.0,58.0,15.0
+47165,Sumner,TN,South,Neither,449.0,224.0,89.0,17.0,8.0
+47167,Tipton,TN,South,Neither,522.0,284.0,141.0,41.0,0.0
+47169,Trousdale,TN,South,Neither,401.0,192.0,78.0,15.0,5.0
+47171,Unicoi,TN,South,Neither,566.0,299.0,134.0,89.0,23.0
+47173,Union,TN,South,Neither,475.0,267.0,104.0,55.0,11.0
+47175,Van Buren,TN,South,Neither,498.0,306.0,161.0,63.0,38.0
+47177,Warren,TN,South,Neither,488.0,299.0,154.0,65.0,38.0
+47179,Washington,TN,South,Neither,510.0,288.0,132.0,66.0,19.0
+47181,Wayne,TN,South,Neither,567.0,316.0,123.0,55.0,18.0
+47183,Weakley,TN,South,Neither,482.0,255.0,134.0,44.0,7.0
+47185,White,TN,South,Neither,492.0,281.0,155.0,63.0,25.0
+47187,Williamson,TN,South,Neither,506.0,269.0,123.0,48.0,11.0
+47189,Wilson,TN,South,Neither,495.0,243.0,132.0,48.0,18.0
+48001,Anderson,TX,South,Neither,757.0,496.0,261.0,128.0,38.0
+48003,Andrews,TX,South,Drought only,974.0,760.0,544.0,271.0,118.0
+48005,Angelina,TX,South,Neither,660.0,398.0,184.0,92.0,44.0
+48007,Aransas,TX,South,Fire + Drought,812.0,538.0,294.0,149.0,82.0
+48009,Archer,TX,South,Fire + Drought,857.0,634.0,419.0,256.0,151.0
+48011,Armstrong,TX,South,Fire + Drought,864.0,603.0,426.0,241.0,78.0
+48013,Atascosa,TX,South,Drought only,961.0,820.0,553.0,353.0,191.0
+48015,Austin,TX,South,Neither,800.0,556.0,330.0,153.0,72.0
+48017,Bailey,TX,South,Drought only,925.0,598.0,420.0,244.0,155.0
+48019,Bandera,TX,South,Drought only,970.0,857.0,721.0,527.0,197.0
+48021,Bastrop,TX,South,Drought only,845.0,670.0,427.0,232.0,101.0
+48023,Baylor,TX,South,Fire + Drought,879.0,636.0,453.0,292.0,181.0
+48025,Bee,TX,South,Drought only,914.0,718.0,484.0,250.0,126.0
+48027,Bell,TX,South,Drought only,906.0,725.0,521.0,256.0,91.0
+48029,Bexar,TX,South,Drought only,935.0,823.0,669.0,407.0,219.0
+48031,Blanco,TX,South,Fire + Drought,928.0,792.0,629.0,386.0,175.0
+48033,Borden,TX,South,Drought only,948.0,666.0,490.0,209.0,82.0
+48035,Bosque,TX,South,Drought only,864.0,604.0,422.0,234.0,64.0
+48037,Bowie,TX,South,Neither,736.0,482.0,265.0,106.0,27.0
+48039,Brazoria,TX,South,Fire only,700.0,442.0,269.0,133.0,50.0
+48041,Brazos,TX,South,Neither,761.0,517.0,294.0,131.0,57.0
+48043,Brewster,TX,South,Drought only,1037.0,827.0,541.0,315.0,189.0
+48045,Briscoe,TX,South,Drought only,868.0,602.0,455.0,265.0,75.0
+48047,Brooks,TX,South,Fire + Drought,942.0,681.0,414.0,263.0,128.0
+48049,Brown,TX,South,Fire + Drought,883.0,657.0,437.0,187.0,34.0
+48051,Burleson,TX,South,Drought only,809.0,565.0,329.0,181.0,72.0
+48053,Burnet,TX,South,Drought only,912.0,751.0,588.0,313.0,111.0
+48055,Caldwell,TX,South,Drought only,876.0,729.0,485.0,279.0,121.0
+48057,Calhoun,TX,South,Fire + Drought,822.0,556.0,318.0,169.0,78.0
+48059,Callahan,TX,South,Drought only,856.0,605.0,416.0,128.0,37.0
+48061,Cameron,TX,South,Fire + Drought,823.0,617.0,356.0,199.0,76.0
+48063,Camp,TX,South,Neither,700.0,456.0,247.0,106.0,24.0
+48065,Carson,TX,South,Fire + Drought,837.0,604.0,415.0,270.0,105.0
+48067,Cass,TX,South,Neither,740.0,498.0,267.0,112.0,31.0
+48069,Castro,TX,South,Drought only,858.0,612.0,416.0,314.0,134.0
+48071,Chambers,TX,South,Fire only,552.0,347.0,185.0,77.0,37.0
+48073,Cherokee,TX,South,Neither,718.0,463.0,234.0,99.0,23.0
+48075,Childress,TX,South,Drought only,897.0,676.0,508.0,355.0,110.0
+48077,Clay,TX,South,Fire + Drought,878.0,646.0,412.0,217.0,83.0
+48079,Cochran,TX,South,Drought only,901.0,625.0,422.0,243.0,148.0
+48081,Coke,TX,South,Drought only,930.0,646.0,385.0,151.0,37.0
+48083,Coleman,TX,South,Drought only,901.0,670.0,389.0,170.0,34.0
+48085,Collin,TX,South,Drought only,773.0,534.0,303.0,141.0,31.0
+48087,Collingsworth,TX,South,Fire + Drought,929.0,667.0,471.0,311.0,126.0
+48089,Colorado,TX,South,Drought only,838.0,605.0,385.0,183.0,74.0
+48091,Comal,TX,South,Drought only,913.0,798.0,601.0,367.0,166.0
+48093,Comanche,TX,South,Drought only,854.0,596.0,406.0,211.0,24.0
+48095,Concho,TX,South,Drought only,918.0,658.0,383.0,170.0,35.0
+48097,Cooke,TX,South,Neither,839.0,581.0,380.0,142.0,35.0
+48099,Coryell,TX,South,Fire + Drought,876.0,692.0,469.0,222.0,81.0
+48101,Cottle,TX,South,Drought only,863.0,663.0,485.0,323.0,142.0
+48103,Crane,TX,South,Drought only,972.0,727.0,423.0,222.0,81.0
+48105,Crockett,TX,South,Fire + Drought,1076.0,858.0,565.0,245.0,73.0
+48107,Crosby,TX,South,Drought only,837.0,626.0,435.0,293.0,75.0
+48109,Culberson,TX,South,Drought only,1017.0,742.0,543.0,346.0,152.0
+48111,Dallam,TX,South,Fire + Drought,954.0,711.0,481.0,340.0,184.0
+48113,Dallas,TX,South,Drought only,764.0,546.0,329.0,158.0,50.0
+48115,Dawson,TX,South,Drought only,921.0,679.0,540.0,245.0,95.0
+48117,Deaf Smith,TX,South,Drought only,887.0,671.0,439.0,309.0,100.0
+48119,Delta,TX,South,Drought only,774.0,524.0,303.0,114.0,34.0
+48121,Denton,TX,South,Drought only,783.0,543.0,335.0,163.0,29.0
+48123,DeWitt,TX,South,Drought only,863.0,702.0,471.0,218.0,98.0
+48125,Dickens,TX,South,Drought only,866.0,628.0,471.0,289.0,85.0
+48127,Dimmit,TX,South,Drought only,1050.0,863.0,624.0,351.0,113.0
+48129,Donley,TX,South,Fire + Drought,878.0,620.0,370.0,216.0,72.0
+48131,Duval,TX,South,Drought only,955.0,727.0,457.0,283.0,134.0
+48133,Eastland,TX,South,Fire + Drought,828.0,608.0,411.0,191.0,37.0
+48135,Ector,TX,South,Drought only,951.0,758.0,488.0,222.0,120.0
+48137,Edwards,TX,South,Drought only,1017.0,868.0,678.0,428.0,146.0
+48139,Ellis,TX,South,Drought only,795.0,521.0,341.0,146.0,39.0
+48141,El Paso,TX,South,Drought only,945.0,706.0,392.0,205.0,38.0
+48143,Erath,TX,South,Drought only,843.0,604.0,412.0,229.0,48.0
+48145,Falls,TX,South,Drought only,820.0,596.0,372.0,156.0,56.0
+48147,Fannin,TX,South,Drought only,843.0,587.0,346.0,156.0,38.0
+48149,Fayette,TX,South,Drought only,843.0,662.0,390.0,208.0,94.0
+48151,Fisher,TX,South,Drought only,934.0,692.0,432.0,206.0,116.0
+48153,Floyd,TX,South,Drought only,847.0,610.0,445.0,327.0,93.0
+48155,Foard,TX,South,Drought only,895.0,660.0,489.0,347.0,188.0
+48157,Fort Bend,TX,South,Neither,663.0,447.0,252.0,107.0,52.0
+48159,Franklin,TX,South,Neither,726.0,490.0,270.0,115.0,21.0
+48161,Freestone,TX,South,Neither,770.0,515.0,303.0,135.0,37.0
+48163,Frio,TX,South,Drought only,1001.0,851.0,660.0,429.0,167.0
+48165,Gaines,TX,South,Drought only,960.0,755.0,512.0,271.0,141.0
+48167,Galveston,TX,South,Fire only,612.0,400.0,223.0,97.0,44.0
+48169,Garza,TX,South,Drought only,883.0,628.0,424.0,224.0,80.0
+48171,Gillespie,TX,South,Fire + Drought,955.0,794.0,664.0,453.0,177.0
+48173,Glasscock,TX,South,Drought only,977.0,748.0,494.0,210.0,82.0
+48175,Goliad,TX,South,Drought only,885.0,667.0,447.0,205.0,100.0
+48177,Gonzales,TX,South,Drought only,888.0,712.0,501.0,241.0,107.0
+48179,Gray,TX,South,Fire + Drought,860.0,591.0,371.0,227.0,78.0
+48181,Grayson,TX,South,Neither,836.0,587.0,337.0,131.0,35.0
+48183,Gregg,TX,South,Neither,689.0,404.0,220.0,100.0,26.0
+48185,Grimes,TX,South,Neither,715.0,484.0,266.0,104.0,54.0
+48187,Guadalupe,TX,South,Drought only,906.0,766.0,540.0,348.0,148.0
+48189,Hale,TX,South,Drought only,859.0,604.0,430.0,288.0,137.0
+48191,Hall,TX,South,Drought only,875.0,645.0,410.0,197.0,54.0
+48193,Hamilton,TX,South,Drought only,856.0,606.0,418.0,218.0,58.0
+48195,Hansford,TX,South,Drought only,871.0,594.0,410.0,263.0,127.0
+48197,Hardeman,TX,South,Drought only,919.0,693.0,519.0,406.0,163.0
+48199,Hardin,TX,South,Fire only,601.0,389.0,163.0,75.0,52.0
+48201,Harris,TX,South,Neither,654.0,422.0,257.0,102.0,46.0
+48203,Harrison,TX,South,Neither,733.0,479.0,261.0,111.0,30.0
+48205,Hartley,TX,South,Drought only,935.0,679.0,426.0,308.0,171.0
+48207,Haskell,TX,South,Drought only,877.0,634.0,435.0,251.0,112.0
+48209,Hays,TX,South,Drought only,923.0,776.0,541.0,328.0,163.0
+48211,Hemphill,TX,South,Fire + Drought,896.0,657.0,412.0,244.0,97.0
+48213,Henderson,TX,South,Neither,772.0,503.0,279.0,112.0,25.0
+48215,Hidalgo,TX,South,Drought only,937.0,705.0,408.0,246.0,123.0
+48217,Hill,TX,South,Drought only,824.0,587.0,378.0,179.0,37.0
+48219,Hockley,TX,South,Drought only,864.0,578.0,410.0,278.0,147.0
+48221,Hood,TX,South,Fire + Drought,804.0,564.0,344.0,171.0,55.0
+48223,Hopkins,TX,South,Drought only,753.0,555.0,317.0,124.0,36.0
+48225,Houston,TX,South,Neither,742.0,483.0,247.0,113.0,47.0
+48227,Howard,TX,South,Drought only,985.0,713.0,497.0,229.0,86.0
+48229,Hudspeth,TX,South,Drought only,1066.0,739.0,537.0,336.0,147.0
+48231,Hunt,TX,South,Neither,791.0,573.0,324.0,111.0,37.0
+48233,Hutchinson,TX,South,Fire + Drought,845.0,579.0,386.0,269.0,116.0
+48235,Irion,TX,South,Drought only,972.0,649.0,355.0,142.0,45.0
+48237,Jack,TX,South,Drought only,846.0,600.0,349.0,168.0,87.0
+48239,Jackson,TX,South,Drought only,837.0,596.0,380.0,203.0,85.0
+48241,Jasper,TX,South,Neither,605.0,367.0,167.0,89.0,58.0
+48243,Jeff Davis,TX,South,Fire + Drought,998.0,763.0,535.0,332.0,154.0
+48245,Jefferson,TX,South,Fire only,555.0,346.0,168.0,82.0,37.0
+48247,Jim Hogg,TX,South,Drought only,1010.0,747.0,456.0,317.0,124.0
+48249,Jim Wells,TX,South,Drought only,904.0,697.0,415.0,242.0,134.0
+48251,Johnson,TX,South,Drought only,810.0,552.0,360.0,178.0,59.0
+48253,Jones,TX,South,Drought only,896.0,630.0,438.0,238.0,119.0
+48255,Karnes,TX,South,Drought only,864.0,723.0,500.0,237.0,119.0
+48257,Kaufman,TX,South,Neither,760.0,545.0,299.0,101.0,32.0
+48259,Kendall,TX,South,Drought only,939.0,811.0,714.0,460.0,203.0
+48261,Kenedy,TX,South,Fire + Drought,899.0,667.0,386.0,242.0,135.0
+48263,Kent,TX,South,Drought only,912.0,630.0,429.0,236.0,90.0
+48265,Kerr,TX,South,Drought only,993.0,830.0,691.0,513.0,209.0
+48267,Kimble,TX,South,Drought only,953.0,779.0,592.0,338.0,105.0
+48269,King,TX,South,Drought only,889.0,662.0,474.0,334.0,152.0
+48271,Kinney,TX,South,Drought only,1027.0,897.0,657.0,397.0,140.0
+48273,Kleberg,TX,South,Fire + Drought,904.0,658.0,367.0,213.0,134.0
+48275,Knox,TX,South,Drought only,894.0,656.0,464.0,307.0,187.0
+48277,Lamar,TX,South,Drought only,816.0,581.0,344.0,156.0,42.0
+48279,Lamb,TX,South,Drought only,870.0,597.0,415.0,262.0,150.0
+48281,Lampasas,TX,South,Drought only,891.0,709.0,499.0,239.0,81.0
+48283,La Salle,TX,South,Drought only,1016.0,821.0,557.0,282.0,111.0
+48285,Lavaca,TX,South,Drought only,841.0,655.0,403.0,200.0,81.0
+48287,Lee,TX,South,Drought only,839.0,623.0,391.0,206.0,95.0
+48289,Leon,TX,South,Neither,772.0,521.0,285.0,130.0,47.0
+48291,Liberty,TX,South,Neither,624.0,414.0,186.0,71.0,45.0
+48293,Limestone,TX,South,Drought only,800.0,562.0,342.0,168.0,52.0
+48295,Lipscomb,TX,South,Drought only,902.0,650.0,434.0,260.0,135.0
+48297,Live Oak,TX,South,Drought only,937.0,735.0,470.0,268.0,122.0
+48299,Llano,TX,South,Drought only,930.0,762.0,575.0,319.0,99.0
+48301,Loving,TX,South,Drought only,911.0,682.0,442.0,225.0,99.0
+48303,Lubbock,TX,South,Drought only,853.0,597.0,429.0,308.0,126.0
+48305,Lynn,TX,South,Drought only,874.0,630.0,454.0,283.0,88.0
+48307,McCulloch,TX,South,Drought only,882.0,716.0,428.0,198.0,43.0
+48309,McLennan,TX,South,Drought only,862.0,659.0,402.0,214.0,68.0
+48311,McMullen,TX,South,Drought only,953.0,744.0,475.0,270.0,82.0
+48313,Madison,TX,South,Neither,727.0,464.0,237.0,106.0,50.0
+48315,Marion,TX,South,Neither,732.0,475.0,246.0,101.0,27.0
+48317,Martin,TX,South,Drought only,955.0,729.0,533.0,273.0,121.0
+48319,Mason,TX,South,Drought only,927.0,761.0,538.0,246.0,73.0
+48321,Matagorda,TX,South,Neither,798.0,521.0,283.0,158.0,74.0
+48323,Maverick,TX,South,Drought only,1055.0,889.0,630.0,384.0,142.0
+48325,Medina,TX,South,Drought only,984.0,863.0,712.0,487.0,222.0
+48327,Menard,TX,South,Drought only,915.0,701.0,422.0,219.0,49.0
+48329,Midland,TX,South,Drought only,976.0,768.0,511.0,232.0,111.0
+48331,Milam,TX,South,Drought only,861.0,621.0,383.0,207.0,85.0
+48333,Mills,TX,South,Drought only,882.0,672.0,435.0,201.0,48.0
+48335,Mitchell,TX,South,Drought only,981.0,701.0,439.0,191.0,63.0
+48337,Montague,TX,South,Drought only,850.0,619.0,377.0,165.0,26.0
+48339,Montgomery,TX,South,Neither,674.0,406.0,205.0,80.0,50.0
+48341,Moore,TX,South,Fire + Drought,878.0,608.0,406.0,296.0,134.0
+48343,Morris,TX,South,Neither,712.0,465.0,254.0,117.0,26.0
+48345,Motley,TX,South,Drought only,847.0,646.0,466.0,286.0,58.0
+48347,Nacogdoches,TX,South,Neither,658.0,403.0,188.0,81.0,33.0
+48349,Navarro,TX,South,Neither,783.0,536.0,301.0,115.0,25.0
+48351,Newton,TX,South,Neither,587.0,363.0,188.0,93.0,58.0
+48353,Nolan,TX,South,Drought only,928.0,637.0,404.0,212.0,63.0
+48355,Nueces,TX,South,Drought only,913.0,661.0,417.0,215.0,134.0
+48357,Ochiltree,TX,South,Drought only,852.0,586.0,402.0,243.0,102.0
+48359,Oldham,TX,South,Fire + Drought,896.0,681.0,456.0,268.0,80.0
+48361,Orange,TX,South,Neither,533.0,314.0,172.0,88.0,43.0
+48363,Palo Pinto,TX,South,Fire + Drought,816.0,595.0,379.0,198.0,87.0
+48365,Panola,TX,South,Neither,695.0,426.0,232.0,87.0,36.0
+48367,Parker,TX,South,Drought only,847.0,598.0,379.0,174.0,59.0
+48369,Parmer,TX,South,Drought only,904.0,636.0,412.0,291.0,155.0
+48371,Pecos,TX,South,Drought only,1033.0,770.0,518.0,256.0,97.0
+48373,Polk,TX,South,Neither,659.0,437.0,184.0,81.0,52.0
+48375,Potter,TX,South,Fire + Drought,874.0,615.0,426.0,280.0,134.0
+48377,Presidio,TX,South,Drought only,1069.0,834.0,555.0,344.0,189.0
+48379,Rains,TX,South,Neither,708.0,511.0,246.0,115.0,29.0
+48381,Randall,TX,South,Drought only,862.0,621.0,452.0,281.0,75.0
+48383,Reagan,TX,South,Fire + Drought,960.0,704.0,407.0,160.0,43.0
+48385,Real,TX,South,Drought only,984.0,845.0,689.0,401.0,150.0
+48387,Red River,TX,South,Neither,789.0,525.0,315.0,152.0,36.0
+48389,Reeves,TX,South,Drought only,961.0,713.0,478.0,272.0,139.0
+48391,Refugio,TX,South,Drought only,846.0,605.0,374.0,185.0,91.0
+48393,Roberts,TX,South,Fire + Drought,821.0,562.0,369.0,219.0,88.0
+48395,Robertson,TX,South,Drought only,819.0,550.0,304.0,143.0,59.0
+48397,Rockwall,TX,South,Neither,722.0,511.0,256.0,98.0,21.0
+48399,Runnels,TX,South,Drought only,933.0,628.0,372.0,177.0,24.0
+48401,Rusk,TX,South,Neither,718.0,450.0,237.0,85.0,30.0
+48403,Sabine,TX,South,Neither,578.0,338.0,177.0,86.0,58.0
+48405,San Augustine,TX,South,Neither,616.0,355.0,182.0,89.0,54.0
+48407,San Jacinto,TX,South,Fire only,652.0,397.0,171.0,74.0,53.0
+48409,San Patricio,TX,South,Drought only,903.0,655.0,422.0,209.0,134.0
+48411,San Saba,TX,South,Drought only,909.0,738.0,500.0,209.0,61.0
+48413,Schleicher,TX,South,Drought only,966.0,694.0,416.0,214.0,50.0
+48415,Scurry,TX,South,Drought only,955.0,663.0,444.0,200.0,81.0
+48417,Shackelford,TX,South,Fire + Drought,861.0,608.0,439.0,257.0,95.0
+48419,Shelby,TX,South,Neither,625.0,381.0,210.0,88.0,37.0
+48421,Sherman,TX,South,Drought only,881.0,632.0,435.0,321.0,157.0
+48423,Smith,TX,South,Neither,746.0,451.0,251.0,103.0,28.0
+48425,Somervell,TX,South,Fire + Drought,776.0,551.0,339.0,172.0,49.0
+48427,Starr,TX,South,Drought only,993.0,726.0,418.0,263.0,121.0
+48429,Stephens,TX,South,Drought only,826.0,615.0,440.0,210.0,88.0
+48431,Sterling,TX,South,Drought only,960.0,702.0,433.0,160.0,53.0
+48433,Stonewall,TX,South,Drought only,905.0,626.0,436.0,235.0,117.0
+48435,Sutton,TX,South,Drought only,986.0,766.0,484.0,263.0,79.0
+48437,Swisher,TX,South,Drought only,843.0,596.0,438.0,299.0,95.0
+48439,Tarrant,TX,South,Drought only,817.0,582.0,357.0,182.0,54.0
+48441,Taylor,TX,South,Fire + Drought,901.0,599.0,414.0,186.0,42.0
+48443,Terrell,TX,South,Drought only,1032.0,811.0,564.0,271.0,83.0
+48445,Terry,TX,South,Drought only,897.0,654.0,470.0,293.0,119.0
+48447,Throckmorton,TX,South,Fire + Drought,871.0,617.0,396.0,219.0,66.0
+48449,Titus,TX,South,Neither,728.0,471.0,251.0,105.0,25.0
+48451,Tom Green,TX,South,Drought only,998.0,706.0,400.0,195.0,47.0
+48453,Travis,TX,South,Drought only,915.0,765.0,547.0,311.0,126.0
+48455,Trinity,TX,South,Neither,659.0,400.0,195.0,82.0,50.0
+48457,Tyler,TX,South,Fire only,610.0,378.0,148.0,82.0,55.0
+48459,Upshur,TX,South,Neither,716.0,457.0,250.0,119.0,29.0
+48461,Upton,TX,South,Drought only,991.0,758.0,473.0,202.0,72.0
+48463,Uvalde,TX,South,Drought only,1018.0,922.0,748.0,545.0,185.0
+48465,Val Verde,TX,South,Drought only,1055.0,913.0,731.0,441.0,153.0
+48467,Van Zandt,TX,South,Neither,749.0,514.0,275.0,110.0,37.0
+48469,Victoria,TX,South,Drought only,858.0,629.0,399.0,193.0,81.0
+48471,Walker,TX,South,Fire only,687.0,406.0,195.0,89.0,50.0
+48473,Waller,TX,South,Neither,655.0,426.0,252.0,110.0,54.0
+48475,Ward,TX,South,Drought only,911.0,670.0,422.0,218.0,84.0
+48477,Washington,TX,South,Drought only,806.0,562.0,331.0,159.0,75.0
+48479,Webb,TX,South,Drought only,1014.0,801.0,568.0,358.0,119.0
+48481,Wharton,TX,South,Neither,787.0,560.0,328.0,157.0,72.0
+48483,Wheeler,TX,South,Fire + Drought,921.0,682.0,408.0,222.0,66.0
+48485,Wichita,TX,South,Fire + Drought,863.0,654.0,457.0,295.0,195.0
+48487,Wilbarger,TX,South,Drought only,945.0,702.0,505.0,374.0,220.0
+48489,Willacy,TX,South,Drought only,841.0,617.0,361.0,209.0,112.0
+48491,Williamson,TX,South,Drought only,921.0,757.0,540.0,271.0,96.0
+48493,Wilson,TX,South,Drought only,916.0,760.0,493.0,281.0,144.0
+48495,Winkler,TX,South,Drought only,922.0,716.0,457.0,224.0,98.0
+48497,Wise,TX,South,Drought only,820.0,588.0,355.0,149.0,29.0
+48499,Wood,TX,South,Neither,734.0,491.0,263.0,115.0,32.0
+48501,Yoakum,TX,South,Drought only,939.0,677.0,456.0,249.0,117.0
+48503,Young,TX,South,Drought only,841.0,626.0,346.0,177.0,100.0
+48505,Zapata,TX,South,Drought only,962.0,734.0,438.0,245.0,74.0
+48507,Zavala,TX,South,Drought only,1042.0,928.0,716.0,449.0,166.0
+49001,Beaver,UT,West,Fire + Drought,1054.0,793.0,522.0,265.0,73.0
+49003,Box Elder,UT,West,Fire + Drought,1069.0,886.0,646.0,315.0,111.0
+49005,Cache,UT,West,Drought only,1055.0,768.0,501.0,253.0,107.0
+49007,Carbon,UT,West,Fire + Drought,1027.0,740.0,509.0,320.0,53.0
+49009,Daggett,UT,West,Fire + Drought,1086.0,774.0,490.0,309.0,97.0
+49011,Davis,UT,West,Fire + Drought,984.0,749.0,476.0,209.0,46.0
+49013,Duchesne,UT,West,Fire + Drought,1030.0,829.0,526.0,315.0,62.0
+49015,Emery,UT,West,Fire + Drought,1107.0,799.0,527.0,339.0,104.0
+49017,Garfield,UT,West,Fire + Drought,1140.0,797.0,558.0,324.0,100.0
+49019,Grand,UT,West,Fire + Drought,1133.0,797.0,510.0,348.0,53.0
+49021,Iron,UT,West,Fire + Drought,1062.0,809.0,527.0,278.0,81.0
+49023,Juab,UT,West,Fire + Drought,1048.0,871.0,634.0,286.0,105.0
+49025,Kane,UT,West,Drought only,1239.0,860.0,642.0,319.0,108.0
+49027,Millard,UT,West,Fire + Drought,1077.0,875.0,620.0,293.0,94.0
+49029,Morgan,UT,West,Drought only,954.0,750.0,485.0,221.0,39.0
+49031,Piute,UT,West,Fire + Drought,954.0,708.0,498.0,231.0,69.0
+49033,Rich,UT,West,Fire + Drought,1022.0,814.0,472.0,228.0,83.0
+49035,Salt Lake,UT,West,Fire + Drought,958.0,761.0,431.0,185.0,55.0
+49037,San Juan,UT,West,Fire + Drought,1252.0,931.0,668.0,398.0,164.0
+49039,Sanpete,UT,West,Fire + Drought,993.0,790.0,540.0,259.0,112.0
+49041,Sevier,UT,West,Fire + Drought,989.0,770.0,512.0,263.0,112.0
+49043,Summit,UT,West,Fire + Drought,1086.0,786.0,546.0,290.0,94.0
+49045,Tooele,UT,West,Fire + Drought,1046.0,868.0,663.0,317.0,68.0
+49047,Uintah,UT,West,Fire + Drought,1167.0,841.0,531.0,338.0,66.0
+49049,Utah,UT,West,Fire + Drought,1004.0,812.0,554.0,257.0,81.0
+49051,Wasatch,UT,West,Fire + Drought,985.0,777.0,484.0,207.0,13.0
+49053,Washington,UT,West,Fire + Drought,1117.0,810.0,564.0,240.0,79.0
+49055,Wayne,UT,West,Drought only,1114.0,770.0,522.0,357.0,80.0
+49057,Weber,UT,West,Drought only,994.0,809.0,516.0,232.0,31.0
+50001,Addison,VT,Northeast,Neither,421.0,130.0,21.0,6.0,0.0
+50003,Bennington,VT,Northeast,Neither,405.0,184.0,24.0,0.0,0.0
+50005,Caledonia,VT,Northeast,Neither,455.0,146.0,29.0,8.0,0.0
+50007,Chittenden,VT,Northeast,Neither,361.0,130.0,20.0,3.0,0.0
+50009,Essex,VT,Northeast,Neither,429.0,135.0,30.0,6.0,0.0
+50011,Franklin,VT,Northeast,Neither,360.0,150.0,26.0,5.0,0.0
+50013,Grand Isle,VT,Northeast,Neither,282.0,79.0,16.0,0.0,0.0
+50015,Lamoille,VT,Northeast,Neither,362.0,156.0,17.0,5.0,0.0
+50017,Orange,VT,Northeast,Neither,460.0,193.0,56.0,9.0,0.0
+50019,Orleans,VT,Northeast,Neither,410.0,147.0,31.0,6.0,0.0
+50021,Rutland,VT,Northeast,Neither,471.0,194.0,23.0,6.0,0.0
+50023,Washington,VT,Northeast,Neither,438.0,161.0,29.0,8.0,0.0
+50025,Windham,VT,Northeast,Neither,426.0,215.0,50.0,0.0,0.0
+50027,Windsor,VT,Northeast,Neither,492.0,216.0,70.0,9.0,0.0
+51001,Accomack,VA,South,Neither,488.0,260.0,96.0,16.0,2.0
+51003,Albemarle,VA,South,Neither,548.0,274.0,93.0,29.0,0.0
+51005,Alleghany,VA,South,Fire only,517.0,185.0,48.0,9.0,0.0
+51007,Amelia,VA,South,Neither,513.0,240.0,80.0,29.0,5.0
+51009,Amherst,VA,South,Fire only,594.0,252.0,68.0,29.0,1.0
+51011,Appomattox,VA,South,Neither,575.0,259.0,72.0,29.0,5.0
+51013,Arlington,VA,South,Neither,413.0,230.0,69.0,10.0,0.0
+51015,Augusta,VA,South,Fire only,608.0,259.0,78.0,18.0,0.0
+51017,Bath,VA,South,Fire only,549.0,199.0,61.0,11.0,0.0
+51019,Bedford,VA,South,Fire only,602.0,273.0,73.0,27.0,3.0
+51021,Bland,VA,South,Neither,493.0,248.0,82.0,9.0,0.0
+51023,Botetourt,VA,South,Neither,574.0,251.0,56.0,13.0,0.0
+51025,Brunswick,VA,South,Neither,598.0,268.0,96.0,38.0,6.0
+51027,Buchanan,VA,South,Neither,474.0,225.0,64.0,22.0,5.0
+51029,Buckingham,VA,South,Neither,579.0,277.0,81.0,31.0,4.0
+51031,Campbell,VA,South,Neither,607.0,259.0,77.0,31.0,6.0
+51033,Caroline,VA,South,Neither,506.0,229.0,94.0,17.0,2.0
+51035,Carroll,VA,South,Neither,536.0,290.0,135.0,34.0,5.0
+51036,Charles City,VA,South,Neither,428.0,175.0,67.0,17.0,4.0
+51037,Charlotte,VA,South,Neither,618.0,280.0,89.0,31.0,7.0
+51041,Chesterfield,VA,South,Neither,484.0,237.0,79.0,23.0,5.0
+51043,Clarke,VA,South,Neither,453.0,228.0,74.0,17.0,0.0
+51045,Craig,VA,South,Fire only,504.0,219.0,53.0,7.0,0.0
+51047,Culpeper,VA,South,Neither,491.0,261.0,107.0,13.0,0.0
+51049,Cumberland,VA,South,Neither,532.0,250.0,75.0,30.0,5.0
+51051,Dickenson,VA,South,Neither,438.0,220.0,69.0,25.0,9.0
+51053,Dinwiddie,VA,South,Neither,485.0,235.0,92.0,23.0,6.0
+51057,Essex,VA,South,Neither,481.0,206.0,88.0,15.0,2.0
+51059,Fairfax,VA,South,Neither,480.0,274.0,99.0,18.0,1.0
+51061,Fauquier,VA,South,Neither,506.0,291.0,118.0,21.0,0.0
+51063,Floyd,VA,South,Neither,562.0,287.0,99.0,20.0,5.0
+51065,Fluvanna,VA,South,Neither,494.0,242.0,72.0,23.0,1.0
+51067,Franklin,VA,South,Neither,626.0,290.0,84.0,24.0,15.0
+51069,Frederick,VA,South,Neither,456.0,210.0,75.0,16.0,0.0
+51071,Giles,VA,South,Neither,489.0,239.0,59.0,6.0,0.0
+51073,Gloucester,VA,South,Neither,390.0,167.0,84.0,9.0,2.0
+51075,Goochland,VA,South,Neither,502.0,227.0,73.0,23.0,3.0
+51077,Grayson,VA,South,Neither,569.0,306.0,131.0,53.0,4.0
+51079,Greene,VA,South,Neither,500.0,248.0,81.0,15.0,0.0
+51081,Greensville,VA,South,Neither,569.0,244.0,98.0,27.0,4.0
+51083,Halifax,VA,South,Neither,686.0,298.0,104.0,38.0,14.0
+51085,Hanover,VA,South,Neither,521.0,229.0,80.0,19.0,4.0
+51087,Henrico,VA,South,Neither,479.0,197.0,76.0,20.0,4.0
+51089,Henry,VA,South,Neither,635.0,286.0,107.0,38.0,17.0
+51091,Highland,VA,South,Neither,571.0,190.0,57.0,14.0,0.0
+51093,Isle of Wight,VA,South,Neither,443.0,184.0,90.0,9.0,0.0
+51095,James City,VA,South,Neither,390.0,168.0,81.0,9.0,2.0
+51097,King and Queen,VA,South,Neither,484.0,170.0,89.0,15.0,2.0
+51099,King George,VA,South,Neither,479.0,209.0,73.0,15.0,2.0
+51101,King William,VA,South,Neither,479.0,170.0,87.0,20.0,2.0
+51103,Lancaster,VA,South,Neither,443.0,175.0,96.0,13.0,2.0
+51105,Lee,VA,South,Neither,480.0,249.0,96.0,44.0,16.0
+51107,Loudoun,VA,South,Neither,471.0,282.0,107.0,17.0,0.0
+51109,Louisa,VA,South,Neither,532.0,254.0,76.0,22.0,2.0
+51111,Lunenburg,VA,South,Neither,596.0,269.0,80.0,36.0,6.0
+51113,Madison,VA,South,Fire only,497.0,256.0,88.0,18.0,0.0
+51115,Mathews,VA,South,Neither,373.0,164.0,79.0,9.0,1.0
+51117,Mecklenburg,VA,South,Neither,663.0,298.0,106.0,46.0,10.0
+51119,Middlesex,VA,South,Neither,446.0,162.0,95.0,10.0,2.0
+51121,Montgomery,VA,South,Neither,545.0,270.0,72.0,9.0,4.0
+51125,Nelson,VA,South,Neither,581.0,268.0,68.0,28.0,1.0
+51127,New Kent,VA,South,Neither,451.0,163.0,70.0,16.0,4.0
+51131,Northampton,VA,South,Neither,433.0,208.0,76.0,4.0,0.0
+51133,Northumberland,VA,South,Neither,465.0,193.0,98.0,13.0,2.0
+51135,Nottoway,VA,South,Neither,518.0,251.0,83.0,29.0,6.0
+51137,Orange,VA,South,Neither,503.0,254.0,103.0,14.0,0.0
+51139,Page,VA,South,Fire only,497.0,224.0,74.0,16.0,0.0
+51141,Patrick,VA,South,Neither,619.0,284.0,126.0,37.0,16.0
+51143,Pittsylvania,VA,South,Neither,695.0,305.0,110.0,37.0,15.0
+51145,Powhatan,VA,South,Neither,502.0,230.0,74.0,23.0,5.0
+51147,Prince Edward,VA,South,Neither,577.0,264.0,74.0,30.0,6.0
+51149,Prince George,VA,South,Neither,442.0,182.0,74.0,21.0,4.0
+51153,Prince William,VA,South,Neither,476.0,299.0,96.0,16.0,1.0
+51155,Pulaski,VA,South,Neither,531.0,254.0,76.0,8.0,3.0
+51157,Rappahannock,VA,South,Fire only,485.0,250.0,76.0,16.0,0.0
+51159,Richmond,VA,South,Neither,472.0,198.0,86.0,16.0,2.0
+51161,Roanoke,VA,South,Fire only,572.0,260.0,65.0,15.0,4.0
+51163,Rockbridge,VA,South,Fire only,585.0,232.0,60.0,17.0,0.0
+51165,Rockingham,VA,South,Fire only,579.0,266.0,81.0,16.0,0.0
+51167,Russell,VA,South,Neither,505.0,245.0,87.0,28.0,15.0
+51169,Scott,VA,South,Neither,496.0,276.0,108.0,42.0,18.0
+51171,Shenandoah,VA,South,Fire only,488.0,208.0,78.0,19.0,0.0
+51173,Smyth,VA,South,Neither,531.0,250.0,100.0,32.0,0.0
+51175,Southampton,VA,South,Neither,538.0,199.0,99.0,21.0,0.0
+51177,Spotsylvania,VA,South,Neither,505.0,261.0,101.0,16.0,2.0
+51179,Stafford,VA,South,Neither,460.0,259.0,82.0,13.0,2.0
+51181,Surry,VA,South,Neither,405.0,178.0,82.0,10.0,3.0
+51183,Sussex,VA,South,Neither,485.0,201.0,93.0,20.0,4.0
+51185,Tazewell,VA,South,Neither,507.0,244.0,78.0,17.0,0.0
+51187,Warren,VA,South,Fire only,480.0,236.0,68.0,12.0,0.0
+51191,Washington,VA,South,Neither,540.0,266.0,109.0,50.0,15.0
+51193,Westmoreland,VA,South,Neither,487.0,214.0,88.0,16.0,2.0
+51195,Wise,VA,South,Neither,467.0,257.0,79.0,30.0,15.0
+51197,Wythe,VA,South,Neither,535.0,258.0,96.0,12.0,3.0
+51199,York,VA,South,Neither,372.0,161.0,83.0,9.0,2.0
+51510,Alexandria,VA,South,Neither,406.0,231.0,71.0,10.0,0.0
+51520,Bristol,VA,South,Neither,439.0,226.0,102.0,47.0,15.0
+51530,Buena Vista,VA,South,Neither,489.0,175.0,53.0,13.0,0.0
+51540,Charlottesville,VA,South,Neither,458.0,237.0,67.0,13.0,0.0
+51550,Chesapeake,VA,South,Neither,491.0,180.0,82.0,6.0,0.0
+51570,Colonial Heights,VA,South,Neither,392.0,162.0,63.0,18.0,4.0
+51580,Covington,VA,South,Neither,418.0,138.0,23.0,5.0,0.0
+51590,Danville,VA,South,Neither,610.0,275.0,94.0,33.0,14.0
+51595,Emporia,VA,South,Neither,457.0,184.0,89.0,22.0,0.0
+51600,Fairfax,VA,South,Neither,411.0,227.0,74.0,6.0,0.0
+51610,Falls Church,VA,South,Neither,409.0,222.0,68.0,8.0,0.0
+51620,Franklin,VA,South,Neither,399.0,173.0,86.0,8.0,0.0
+51630,Fredericksburg,VA,South,Neither,428.0,216.0,71.0,11.0,1.0
+51640,Galax,VA,South,Neither,485.0,238.0,103.0,20.0,4.0
+51650,Hampton,VA,South,Neither,357.0,142.0,72.0,6.0,0.0
+51660,Harrisonburg,VA,South,Neither,483.0,180.0,57.0,13.0,0.0
+51670,Hopewell,VA,South,Neither,387.0,159.0,61.0,16.0,4.0
+51678,Lexington,VA,South,Neither,474.0,168.0,43.0,10.0,0.0
+51680,Lynchburg,VA,South,Neither,519.0,210.0,56.0,23.0,1.0
+51683,Manassas,VA,South,Neither,414.0,222.0,60.0,5.0,0.0
+51685,Manassas Park,VA,South,Neither,405.0,218.0,58.0,5.0,0.0
+51690,Martinsville,VA,South,Neither,554.0,241.0,93.0,27.0,16.0
+51700,Newport News,VA,South,Neither,385.0,154.0,75.0,8.0,0.0
+51710,Norfolk,VA,South,Neither,400.0,151.0,75.0,6.0,0.0
+51720,Norton,VA,South,Neither,418.0,231.0,63.0,24.0,12.0
+51730,Petersburg,VA,South,Neither,394.0,172.0,63.0,18.0,4.0
+51735,Poquoson,VA,South,Neither,341.0,143.0,68.0,7.0,0.0
+51740,Portsmouth,VA,South,Neither,389.0,152.0,69.0,6.0,0.0
+51750,Radford,VA,South,Neither,489.0,221.0,55.0,7.0,0.0
+51760,Richmond,VA,South,Neither,445.0,173.0,73.0,20.0,4.0
+51770,Roanoke,VA,South,Neither,530.0,243.0,54.0,8.0,1.0
+51775,Salem,VA,South,Neither,502.0,231.0,46.0,6.0,0.0
+51790,Staunton,VA,South,Neither,502.0,197.0,52.0,16.0,0.0
+51800,Suffolk,VA,South,Neither,527.0,206.0,93.0,8.0,0.0
+51810,Virginia Beach,VA,South,Neither,481.0,173.0,84.0,4.0,0.0
+51820,Waynesboro,VA,South,Neither,505.0,213.0,50.0,18.0,0.0
+51830,Williamsburg,VA,South,Neither,347.0,147.0,69.0,8.0,1.0
+51840,Winchester,VA,South,Neither,393.0,190.0,61.0,16.0,0.0
+53001,Adams,WA,West,Fire only,902.0,560.0,289.0,59.0,17.0
+53003,Asotin,WA,West,Fire only,795.0,480.0,239.0,119.0,21.0
+53005,Benton,WA,West,Fire + Drought,924.0,579.0,310.0,112.0,21.0
+53007,Chelan,WA,West,Fire only,939.0,616.0,353.0,67.0,0.0
+53009,Clallam,WA,West,Neither,505.0,262.0,69.0,3.0,0.0
+53011,Clark,WA,West,Neither,604.0,305.0,133.0,0.0,0.0
+53013,Columbia,WA,West,Fire only,851.0,483.0,232.0,83.0,20.0
+53015,Cowlitz,WA,West,Neither,600.0,292.0,111.0,0.0,0.0
+53017,Douglas,WA,West,Fire + Drought,903.0,585.0,336.0,70.0,7.0
+53019,Ferry,WA,West,Fire only,862.0,522.0,229.0,48.0,14.0
+53021,Franklin,WA,West,Fire + Drought,874.0,510.0,279.0,77.0,21.0
+53023,Garfield,WA,West,Fire only,798.0,472.0,235.0,92.0,20.0
+53025,Grant,WA,West,Fire + Drought,915.0,573.0,362.0,98.0,17.0
+53027,Grays Harbor,WA,West,Neither,471.0,235.0,57.0,5.0,0.0
+53029,Island,WA,West,Neither,438.0,201.0,67.0,0.0,0.0
+53031,Jefferson,WA,West,Fire only,525.0,268.0,73.0,5.0,0.0
+53033,King,WA,West,Fire only,623.0,356.0,138.0,37.0,0.0
+53035,Kitsap,WA,West,Neither,454.0,170.0,48.0,2.0,0.0
+53037,Kittitas,WA,West,Fire only,944.0,633.0,357.0,124.0,0.0
+53039,Klickitat,WA,West,Fire only,970.0,524.0,263.0,85.0,20.0
+53041,Lewis,WA,West,Neither,633.0,362.0,158.0,21.0,0.0
+53043,Lincoln,WA,West,Fire only,891.0,500.0,254.0,56.0,16.0
+53045,Mason,WA,West,Fire only,493.0,234.0,44.0,5.0,0.0
+53047,Okanogan,WA,West,Fire only,937.0,653.0,330.0,53.0,8.0
+53049,Pacific,WA,West,Neither,442.0,224.0,58.0,5.0,0.0
+53051,Pend Oreille,WA,West,Fire only,800.0,451.0,207.0,51.0,11.0
+53053,Pierce,WA,West,Fire only,587.0,352.0,139.0,23.0,0.0
+53055,San Juan,WA,West,Neither,458.0,188.0,52.0,0.0,0.0
+53057,Skagit,WA,West,Fire only,641.0,396.0,152.0,39.0,0.0
+53059,Skamania,WA,West,Fire only,724.0,356.0,185.0,19.0,0.0
+53061,Snohomish,WA,West,Fire only,622.0,338.0,133.0,40.0,0.0
+53063,Spokane,WA,West,Fire only,790.0,459.0,220.0,77.0,20.0
+53065,Stevens,WA,West,Fire only,832.0,512.0,244.0,58.0,14.0
+53067,Thurston,WA,West,Neither,504.0,268.0,84.0,5.0,0.0
+53069,Wahkiakum,WA,West,Neither,471.0,238.0,58.0,0.0,0.0
+53071,Walla Walla,WA,West,Fire + Drought,914.0,540.0,287.0,90.0,21.0
+53073,Whatcom,WA,West,Fire only,635.0,390.0,139.0,39.0,0.0
+53075,Whitman,WA,West,Fire only,894.0,525.0,248.0,77.0,26.0
+53077,Yakima,WA,West,Fire only,981.0,600.0,330.0,99.0,18.0
+54001,Barbour,WV,South,Neither,333.0,75.0,36.0,16.0,0.0
+54003,Berkeley,WV,South,Neither,445.0,209.0,62.0,16.0,0.0
+54005,Boone,WV,South,Neither,360.0,128.0,47.0,8.0,2.0
+54007,Braxton,WV,South,Neither,310.0,66.0,32.0,21.0,10.0
+54009,Brooke,WV,South,Neither,287.0,66.0,26.0,15.0,0.0
+54011,Cabell,WV,South,Neither,332.0,134.0,56.0,15.0,3.0
+54013,Calhoun,WV,South,Neither,300.0,66.0,27.0,15.0,12.0
+54015,Clay,WV,South,Neither,293.0,90.0,31.0,20.0,10.0
+54017,Doddridge,WV,South,Neither,333.0,71.0,22.0,14.0,0.0
+54019,Fayette,WV,South,Neither,387.0,129.0,42.0,4.0,0.0
+54021,Gilmer,WV,South,Neither,305.0,69.0,22.0,15.0,10.0
+54023,Grant,WV,South,Neither,509.0,172.0,67.0,29.0,0.0
+54025,Greenbrier,WV,South,Neither,486.0,178.0,43.0,7.0,0.0
+54027,Hampshire,WV,South,Neither,454.0,177.0,73.0,21.0,0.0
+54029,Hancock,WV,South,Neither,316.0,61.0,14.0,2.0,0.0
+54031,Hardy,WV,South,Fire only,450.0,182.0,74.0,22.0,0.0
+54033,Harrison,WV,South,Neither,361.0,74.0,21.0,14.0,0.0
+54035,Jackson,WV,South,Neither,315.0,94.0,35.0,14.0,11.0
+54037,Jefferson,WV,South,Neither,460.0,222.0,84.0,18.0,0.0
+54039,Kanawha,WV,South,Neither,349.0,117.0,46.0,14.0,8.0
+54041,Lewis,WV,South,Neither,329.0,70.0,32.0,21.0,1.0
+54043,Lincoln,WV,South,Neither,362.0,140.0,53.0,15.0,3.0
+54045,Logan,WV,South,Neither,385.0,138.0,57.0,9.0,0.0
+54047,McDowell,WV,South,Neither,478.0,193.0,59.0,8.0,0.0
+54049,Marion,WV,South,Neither,358.0,85.0,21.0,13.0,0.0
+54051,Marshall,WV,South,Neither,316.0,87.0,24.0,17.0,0.0
+54053,Mason,WV,South,Neither,318.0,118.0,48.0,15.0,5.0
+54055,Mercer,WV,South,Neither,484.0,213.0,62.0,4.0,0.0
+54057,Mineral,WV,South,Neither,472.0,153.0,65.0,27.0,0.0
+54059,Mingo,WV,South,Neither,388.0,166.0,57.0,7.0,0.0
+54061,Monongalia,WV,South,Neither,372.0,93.0,21.0,12.0,0.0
+54063,Monroe,WV,South,Neither,486.0,203.0,52.0,4.0,0.0
+54065,Morgan,WV,South,Neither,459.0,177.0,54.0,15.0,0.0
+54067,Nicholas,WV,South,Neither,374.0,109.0,42.0,21.0,2.0
+54069,Ohio,WV,South,Neither,283.0,78.0,24.0,17.0,0.0
+54071,Pendleton,WV,South,Fire only,567.0,188.0,64.0,11.0,0.0
+54073,Pleasants,WV,South,Neither,278.0,75.0,26.0,11.0,0.0
+54075,Pocahontas,WV,South,Neither,573.0,177.0,50.0,16.0,0.0
+54077,Preston,WV,South,Neither,434.0,98.0,42.0,18.0,0.0
+54079,Putnam,WV,South,Neither,313.0,103.0,45.0,15.0,11.0
+54081,Raleigh,WV,South,Neither,433.0,154.0,55.0,3.0,0.0
+54083,Randolph,WV,South,Neither,547.0,144.0,48.0,28.0,1.0
+54085,Ritchie,WV,South,Neither,319.0,69.0,21.0,14.0,0.0
+54087,Roane,WV,South,Neither,305.0,80.0,32.0,15.0,12.0
+54089,Summers,WV,South,Neither,449.0,167.0,38.0,4.0,0.0
+54091,Taylor,WV,South,Neither,314.0,65.0,19.0,13.0,0.0
+54093,Tucker,WV,South,Neither,467.0,129.0,54.0,26.0,0.0
+54095,Tyler,WV,South,Neither,340.0,74.0,23.0,14.0,0.0
+54097,Upshur,WV,South,Neither,346.0,71.0,36.0,20.0,1.0
+54099,Wayne,WV,South,Neither,375.0,154.0,70.0,10.0,2.0
+54101,Webster,WV,South,Neither,398.0,97.0,38.0,22.0,9.0
+54103,Wetzel,WV,South,Neither,348.0,87.0,24.0,15.0,0.0
+54105,Wirt,WV,South,Neither,261.0,69.0,23.0,14.0,12.0
+54107,Wood,WV,South,Neither,258.0,78.0,25.0,13.0,2.0
+54109,Wyoming,WV,South,Neither,445.0,159.0,46.0,7.0,0.0
+55001,Adams,WI,Midwest,Neither,492.0,248.0,102.0,16.0,0.0
+55003,Ashland,WI,Midwest,Neither,678.0,422.0,221.0,27.0,0.0
+55005,Barron,WI,Midwest,Neither,615.0,383.0,140.0,16.0,0.0
+55007,Bayfield,WI,Midwest,Neither,624.0,380.0,174.0,20.0,5.0
+55009,Brown,WI,Midwest,Neither,460.0,161.0,11.0,0.0,0.0
+55011,Buffalo,WI,Midwest,Neither,549.0,300.0,106.0,16.0,0.0
+55013,Burnett,WI,Midwest,Fire only,649.0,430.0,144.0,49.0,0.0
+55015,Calumet,WI,Midwest,Neither,377.0,165.0,15.0,0.0,0.0
+55017,Chippewa,WI,Midwest,Neither,622.0,353.0,126.0,6.0,0.0
+55019,Clark,WI,Midwest,Neither,621.0,270.0,102.0,5.0,0.0
+55021,Columbia,WI,Midwest,Neither,467.0,253.0,85.0,12.0,0.0
+55023,Crawford,WI,Midwest,Neither,542.0,262.0,91.0,33.0,3.0
+55025,Dane,WI,Midwest,Neither,489.0,239.0,82.0,26.0,0.0
+55027,Dodge,WI,Midwest,Neither,445.0,183.0,58.0,7.0,0.0
+55029,Door,WI,Midwest,Neither,508.0,208.0,39.0,0.0,0.0
+55031,Douglas,WI,Midwest,Neither,653.0,424.0,168.0,43.0,5.0
+55033,Dunn,WI,Midwest,Neither,628.0,352.0,142.0,18.0,0.0
+55035,Eau Claire,WI,Midwest,Neither,563.0,298.0,125.0,14.0,0.0
+55037,Florence,WI,Midwest,Neither,637.0,316.0,113.0,6.0,0.0
+55039,Fond du Lac,WI,Midwest,Neither,438.0,200.0,49.0,9.0,0.0
+55041,Forest,WI,Midwest,Neither,671.0,343.0,136.0,5.0,0.0
+55043,Grant,WI,Midwest,Neither,553.0,305.0,123.0,42.0,1.0
+55045,Green,WI,Midwest,Neither,440.0,250.0,93.0,36.0,0.0
+55047,Green Lake,WI,Midwest,Neither,436.0,214.0,45.0,9.0,0.0
+55049,Iowa,WI,Midwest,Neither,532.0,259.0,78.0,27.0,0.0
+55051,Iron,WI,Midwest,Neither,643.0,374.0,199.0,14.0,0.0
+55053,Jackson,WI,Midwest,Neither,554.0,278.0,131.0,23.0,0.0
+55055,Jefferson,WI,Midwest,Neither,413.0,221.0,66.0,11.0,0.0
+55057,Juneau,WI,Midwest,Fire only,505.0,278.0,120.0,17.0,3.0
+55059,Kenosha,WI,Midwest,Neither,448.0,245.0,121.0,26.0,0.0
+55061,Kewaunee,WI,Midwest,Neither,433.0,167.0,11.0,0.0,0.0
+55063,La Crosse,WI,Midwest,Neither,510.0,264.0,65.0,24.0,0.0
+55065,Lafayette,WI,Midwest,Neither,470.0,256.0,91.0,21.0,0.0
+55067,Langlade,WI,Midwest,Neither,605.0,331.0,99.0,13.0,0.0
+55069,Lincoln,WI,Midwest,Neither,621.0,355.0,143.0,12.0,0.0
+55071,Manitowoc,WI,Midwest,Neither,386.0,161.0,15.0,0.0,0.0
+55073,Marathon,WI,Midwest,Neither,607.0,285.0,83.0,0.0,0.0
+55075,Marinette,WI,Midwest,Neither,618.0,303.0,101.0,5.0,0.0
+55077,Marquette,WI,Midwest,Neither,460.0,221.0,78.0,13.0,0.0
+55078,Menominee,WI,Midwest,Neither,531.0,207.0,59.0,0.0,0.0
+55079,Milwaukee,WI,Midwest,Neither,395.0,231.0,82.0,13.0,0.0
+55081,Monroe,WI,Midwest,Neither,514.0,279.0,95.0,28.0,3.0
+55083,Oconto,WI,Midwest,Neither,548.0,273.0,71.0,5.0,0.0
+55085,Oneida,WI,Midwest,Neither,674.0,375.0,162.0,13.0,0.0
+55087,Outagamie,WI,Midwest,Neither,450.0,175.0,19.0,0.0,0.0
+55089,Ozaukee,WI,Midwest,Neither,363.0,155.0,31.0,2.0,0.0
+55091,Pepin,WI,Midwest,Neither,567.0,286.0,110.0,15.0,0.0
+55093,Pierce,WI,Midwest,Neither,586.0,331.0,128.0,15.0,0.0
+55095,Polk,WI,Midwest,Neither,635.0,425.0,160.0,15.0,0.0
+55097,Portage,WI,Midwest,Neither,501.0,207.0,81.0,4.0,0.0
+55099,Price,WI,Midwest,Neither,662.0,381.0,184.0,19.0,0.0
+55101,Racine,WI,Midwest,Neither,430.0,247.0,112.0,22.0,0.0
+55103,Richland,WI,Midwest,Neither,570.0,266.0,91.0,16.0,3.0
+55105,Rock,WI,Midwest,Neither,427.0,253.0,97.0,37.0,0.0
+55107,Rusk,WI,Midwest,Neither,629.0,347.0,166.0,12.0,0.0
+55109,St. Croix,WI,Midwest,Neither,658.0,345.0,136.0,15.0,0.0
+55111,Sauk,WI,Midwest,Neither,543.0,300.0,101.0,17.0,3.0
+55113,Sawyer,WI,Midwest,Neither,639.0,365.0,198.0,25.0,0.0
+55115,Shawano,WI,Midwest,Neither,550.0,189.0,54.0,0.0,0.0
+55117,Sheboygan,WI,Midwest,Neither,398.0,157.0,21.0,0.0,0.0
+55119,Taylor,WI,Midwest,Neither,627.0,336.0,124.0,2.0,0.0
+55121,Trempealeau,WI,Midwest,Neither,533.0,284.0,90.0,16.0,0.0
+55123,Vernon,WI,Midwest,Neither,545.0,288.0,102.0,31.0,3.0
+55125,Vilas,WI,Midwest,Neither,695.0,394.0,169.0,5.0,0.0
+55127,Walworth,WI,Midwest,Neither,455.0,250.0,128.0,32.0,0.0
+55129,Washburn,WI,Midwest,Neither,626.0,392.0,157.0,25.0,0.0
+55131,Washington,WI,Midwest,Neither,379.0,177.0,31.0,2.0,0.0
+55133,Waukesha,WI,Midwest,Neither,404.0,240.0,69.0,11.0,0.0
+55135,Waupaca,WI,Midwest,Neither,468.0,184.0,58.0,7.0,0.0
+55137,Waushara,WI,Midwest,Neither,423.0,240.0,42.0,7.0,0.0
+55139,Winnebago,WI,Midwest,Neither,401.0,179.0,43.0,7.0,0.0
+55141,Wood,WI,Midwest,Neither,501.0,258.0,88.0,6.0,0.0
+56001,Albany,WY,West,Fire + Drought,1047.0,767.0,494.0,271.0,23.0
+56003,Big Horn,WY,West,Fire + Drought,974.0,720.0,499.0,352.0,13.0
+56005,Campbell,WY,West,Fire + Drought,943.0,766.0,516.0,307.0,82.0
+56007,Carbon,WY,West,Fire + Drought,1129.0,835.0,617.0,354.0,54.0
+56009,Converse,WY,West,Fire + Drought,992.0,726.0,527.0,325.0,61.0
+56011,Crook,WY,West,Fire + Drought,889.0,701.0,432.0,238.0,47.0
+56013,Fremont,WY,West,Fire + Drought,1081.0,816.0,655.0,364.0,47.0
+56015,Goshen,WY,West,Fire + Drought,950.0,710.0,535.0,307.0,56.0
+56017,Hot Springs,WY,West,Fire + Drought,914.0,633.0,489.0,246.0,18.0
+56019,Johnson,WY,West,Fire + Drought,953.0,644.0,488.0,312.0,52.0
+56021,Laramie,WY,West,Drought only,914.0,646.0,434.0,224.0,53.0
+56023,Lincoln,WY,West,Fire + Drought,1106.0,865.0,586.0,309.0,130.0
+56025,Natrona,WY,West,Fire + Drought,956.0,715.0,500.0,310.0,21.0
+56027,Niobrara,WY,West,Fire + Drought,1012.0,740.0,557.0,297.0,100.0
+56029,Park,WY,West,Fire + Drought,1047.0,759.0,569.0,342.0,36.0
+56031,Platte,WY,West,Fire + Drought,939.0,661.0,477.0,318.0,59.0
+56033,Sheridan,WY,West,Fire + Drought,947.0,662.0,496.0,347.0,41.0
+56035,Sublette,WY,West,Fire + Drought,1072.0,842.0,624.0,309.0,49.0
+56037,Sweetwater,WY,West,Drought only,1183.0,906.0,624.0,422.0,86.0
+56039,Teton,WY,West,Fire + Drought,1026.0,764.0,519.0,242.0,20.0
+56041,Uinta,WY,West,Drought only,1052.0,808.0,496.0,258.0,122.0
+56043,Washakie,WY,West,Fire + Drought,946.0,678.0,483.0,253.0,19.0
+56045,Weston,WY,West,Fire + Drought,968.0,744.0,520.0,204.0,79.0

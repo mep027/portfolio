@@ -14,7 +14,15 @@
     <header>
         <h1>Meta</h1>
     </header>
-    
+    <div id="filter-ui">
+  <label>
+    Show commits until:
+    <input type="range" id="commit-progress" min="0" max="100" value="100">
+    <time id="commit-time"></time>
+  </label>
+    </div>
+
+<div id="stats"></div>
     <p>this page includes stats about the code of this website</p>
     <div id="stats"></div>
     <h2>Commits by time of day</h2>
