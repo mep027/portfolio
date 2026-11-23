@@ -48,7 +48,7 @@ function processCommits(data) {
 
 
       return ret;
-    });
+    })
 
     .sort((a, b) => a.datetime - b.datetime); 
 }
@@ -462,9 +462,6 @@ d3.select('#scatter-story')
 	`,
   );
 
-function onStepEnter(response) {
-  console.log(response.element.__data__.datetime);
-}
 
 function onStepEnter(response) {
   commitMaxTime = response.element.__data__.datetime;
@@ -481,4 +478,5 @@ scroller
     step: '#scrolly-1 .step',
   })
   .onStepEnter(onStepEnter);
+
 
